@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <TargetFrameworks>net48;net6.0-windows;net8.0-windows</TargetFrameworks>
+    <TargetFrameworks Condition="$(_SdkMajor) &gt;= 10">$(TargetFrameworks);net10.0-windows</TargetFrameworks>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Lucide.NET.WinForms</AssemblyName>
+    <RootNamespace>Lucide.NET.WinForms</RootNamespace>
+    <PackageId>Lucide.NET.WinForms</PackageId>
+    <Description>WinForms helpers for Lucide icons.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lucide.NET.Core\Lucide.NET.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Svg" Version="3.4.7" />
+  </ItemGroup>
+</Project>

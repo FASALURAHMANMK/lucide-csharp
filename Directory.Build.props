@@ -1,0 +1,30 @@
+<Project>
+  <Import Project="Directory.Version.props" Condition="Exists('Directory.Version.props')" />
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AnalysisLevel>latest</AnalysisLevel>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <Deterministic>true</Deterministic>
+    <ContinuousIntegrationBuild Condition="'$(CI)' != ''">true</ContinuousIntegrationBuild>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <RepositoryUrl>https://github.com/your-org/lucide-csharp</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/your-org/lucide-csharp</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <Authors>Lucide.NET Contributors</Authors>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <DebugType>portable</DebugType>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <_SdkVersionBase Condition="'$(NETSdkVersion)' == ''">8.0.100</_SdkVersionBase>
+    <_SdkVersionBase Condition="'$(NETSdkVersion)' != ''">$([System.String]::Copy('$(NETSdkVersion)').Split('-')[0])</_SdkVersionBase>
+    <_SdkMajor>$([System.Version]::Parse('$(_SdkVersionBase)').Major)</_SdkMajor>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="all" />
+  </ItemGroup>
+</Project>

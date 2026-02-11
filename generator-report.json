@@ -1,0 +1,6684 @@
+﻿{
+  "Input": "D:\\lucide-csharp\\eng\\icons\\lucide",
+  "Output": "D:\\lucide-csharp",
+  "Compression": "gzip",
+  "IconCount": 1669,
+  "Icons": [
+    {
+      "Name": "a-arrow-down",
+      "Normalized": "AArrowDown"
+    },
+    {
+      "Name": "a-arrow-up",
+      "Normalized": "AArrowUp"
+    },
+    {
+      "Name": "a-large-small",
+      "Normalized": "ALargeSmall"
+    },
+    {
+      "Name": "accessibility",
+      "Normalized": "Accessibility"
+    },
+    {
+      "Name": "activity",
+      "Normalized": "Activity"
+    },
+    {
+      "Name": "air-vent",
+      "Normalized": "AirVent"
+    },
+    {
+      "Name": "airplay",
+      "Normalized": "Airplay"
+    },
+    {
+      "Name": "alarm-clock",
+      "Normalized": "AlarmClock"
+    },
+    {
+      "Name": "alarm-clock-check",
+      "Normalized": "AlarmClockCheck"
+    },
+    {
+      "Name": "alarm-clock-minus",
+      "Normalized": "AlarmClockMinus"
+    },
+    {
+      "Name": "alarm-clock-off",
+      "Normalized": "AlarmClockOff"
+    },
+    {
+      "Name": "alarm-clock-plus",
+      "Normalized": "AlarmClockPlus"
+    },
+    {
+      "Name": "alarm-smoke",
+      "Normalized": "AlarmSmoke"
+    },
+    {
+      "Name": "album",
+      "Normalized": "Album"
+    },
+    {
+      "Name": "align-center-horizontal",
+      "Normalized": "AlignCenterHorizontal"
+    },
+    {
+      "Name": "align-center-vertical",
+      "Normalized": "AlignCenterVertical"
+    },
+    {
+      "Name": "align-end-horizontal",
+      "Normalized": "AlignEndHorizontal"
+    },
+    {
+      "Name": "align-end-vertical",
+      "Normalized": "AlignEndVertical"
+    },
+    {
+      "Name": "align-horizontal-distribute-center",
+      "Normalized": "AlignHorizontalDistributeCenter"
+    },
+    {
+      "Name": "align-horizontal-distribute-end",
+      "Normalized": "AlignHorizontalDistributeEnd"
+    },
+    {
+      "Name": "align-horizontal-distribute-start",
+      "Normalized": "AlignHorizontalDistributeStart"
+    },
+    {
+      "Name": "align-horizontal-justify-center",
+      "Normalized": "AlignHorizontalJustifyCenter"
+    },
+    {
+      "Name": "align-horizontal-justify-end",
+      "Normalized": "AlignHorizontalJustifyEnd"
+    },
+    {
+      "Name": "align-horizontal-justify-start",
+      "Normalized": "AlignHorizontalJustifyStart"
+    },
+    {
+      "Name": "align-horizontal-space-around",
+      "Normalized": "AlignHorizontalSpaceAround"
+    },
+    {
+      "Name": "align-horizontal-space-between",
+      "Normalized": "AlignHorizontalSpaceBetween"
+    },
+    {
+      "Name": "align-start-horizontal",
+      "Normalized": "AlignStartHorizontal"
+    },
+    {
+      "Name": "align-start-vertical",
+      "Normalized": "AlignStartVertical"
+    },
+    {
+      "Name": "align-vertical-distribute-center",
+      "Normalized": "AlignVerticalDistributeCenter"
+    },
+    {
+      "Name": "align-vertical-distribute-end",
+      "Normalized": "AlignVerticalDistributeEnd"
+    },
+    {
+      "Name": "align-vertical-distribute-start",
+      "Normalized": "AlignVerticalDistributeStart"
+    },
+    {
+      "Name": "align-vertical-justify-center",
+      "Normalized": "AlignVerticalJustifyCenter"
+    },
+    {
+      "Name": "align-vertical-justify-end",
+      "Normalized": "AlignVerticalJustifyEnd"
+    },
+    {
+      "Name": "align-vertical-justify-start",
+      "Normalized": "AlignVerticalJustifyStart"
+    },
+    {
+      "Name": "align-vertical-space-around",
+      "Normalized": "AlignVerticalSpaceAround"
+    },
+    {
+      "Name": "align-vertical-space-between",
+      "Normalized": "AlignVerticalSpaceBetween"
+    },
+    {
+      "Name": "ambulance",
+      "Normalized": "Ambulance"
+    },
+    {
+      "Name": "ampersand",
+      "Normalized": "Ampersand"
+    },
+    {
+      "Name": "ampersands",
+      "Normalized": "Ampersands"
+    },
+    {
+      "Name": "amphora",
+      "Normalized": "Amphora"
+    },
+    {
+      "Name": "anchor",
+      "Normalized": "Anchor"
+    },
+    {
+      "Name": "angry",
+      "Normalized": "Angry"
+    },
+    {
+      "Name": "annoyed",
+      "Normalized": "Annoyed"
+    },
+    {
+      "Name": "antenna",
+      "Normalized": "Antenna"
+    },
+    {
+      "Name": "anvil",
+      "Normalized": "Anvil"
+    },
+    {
+      "Name": "aperture",
+      "Normalized": "Aperture"
+    },
+    {
+      "Name": "app-window",
+      "Normalized": "AppWindow"
+    },
+    {
+      "Name": "app-window-mac",
+      "Normalized": "AppWindowMac"
+    },
+    {
+      "Name": "apple",
+      "Normalized": "Apple"
+    },
+    {
+      "Name": "archive",
+      "Normalized": "Archive"
+    },
+    {
+      "Name": "archive-restore",
+      "Normalized": "ArchiveRestore"
+    },
+    {
+      "Name": "archive-x",
+      "Normalized": "ArchiveX"
+    },
+    {
+      "Name": "armchair",
+      "Normalized": "Armchair"
+    },
+    {
+      "Name": "arrow-big-down",
+      "Normalized": "ArrowBigDown"
+    },
+    {
+      "Name": "arrow-big-down-dash",
+      "Normalized": "ArrowBigDownDash"
+    },
+    {
+      "Name": "arrow-big-left",
+      "Normalized": "ArrowBigLeft"
+    },
+    {
+      "Name": "arrow-big-left-dash",
+      "Normalized": "ArrowBigLeftDash"
+    },
+    {
+      "Name": "arrow-big-right",
+      "Normalized": "ArrowBigRight"
+    },
+    {
+      "Name": "arrow-big-right-dash",
+      "Normalized": "ArrowBigRightDash"
+    },
+    {
+      "Name": "arrow-big-up",
+      "Normalized": "ArrowBigUp"
+    },
+    {
+      "Name": "arrow-big-up-dash",
+      "Normalized": "ArrowBigUpDash"
+    },
+    {
+      "Name": "arrow-down",
+      "Normalized": "ArrowDown"
+    },
+    {
+      "Name": "arrow-down-0-1",
+      "Normalized": "ArrowDown01"
+    },
+    {
+      "Name": "arrow-down-1-0",
+      "Normalized": "ArrowDown10"
+    },
+    {
+      "Name": "arrow-down-a-z",
+      "Normalized": "ArrowDownAZ"
+    },
+    {
+      "Name": "arrow-down-from-line",
+      "Normalized": "ArrowDownFromLine"
+    },
+    {
+      "Name": "arrow-down-left",
+      "Normalized": "ArrowDownLeft"
+    },
+    {
+      "Name": "arrow-down-narrow-wide",
+      "Normalized": "ArrowDownNarrowWide"
+    },
+    {
+      "Name": "arrow-down-right",
+      "Normalized": "ArrowDownRight"
+    },
+    {
+      "Name": "arrow-down-to-dot",
+      "Normalized": "ArrowDownToDot"
+    },
+    {
+      "Name": "arrow-down-to-line",
+      "Normalized": "ArrowDownToLine"
+    },
+    {
+      "Name": "arrow-down-up",
+      "Normalized": "ArrowDownUp"
+    },
+    {
+      "Name": "arrow-down-wide-narrow",
+      "Normalized": "ArrowDownWideNarrow"
+    },
+    {
+      "Name": "arrow-down-z-a",
+      "Normalized": "ArrowDownZA"
+    },
+    {
+      "Name": "arrow-left",
+      "Normalized": "ArrowLeft"
+    },
+    {
+      "Name": "arrow-left-from-line",
+      "Normalized": "ArrowLeftFromLine"
+    },
+    {
+      "Name": "arrow-left-right",
+      "Normalized": "ArrowLeftRight"
+    },
+    {
+      "Name": "arrow-left-to-line",
+      "Normalized": "ArrowLeftToLine"
+    },
+    {
+      "Name": "arrow-right",
+      "Normalized": "ArrowRight"
+    },
+    {
+      "Name": "arrow-right-from-line",
+      "Normalized": "ArrowRightFromLine"
+    },
+    {
+      "Name": "arrow-right-left",
+      "Normalized": "ArrowRightLeft"
+    },
+    {
+      "Name": "arrow-right-to-line",
+      "Normalized": "ArrowRightToLine"
+    },
+    {
+      "Name": "arrow-up",
+      "Normalized": "ArrowUp"
+    },
+    {
+      "Name": "arrow-up-0-1",
+      "Normalized": "ArrowUp01"
+    },
+    {
+      "Name": "arrow-up-1-0",
+      "Normalized": "ArrowUp10"
+    },
+    {
+      "Name": "arrow-up-a-z",
+      "Normalized": "ArrowUpAZ"
+    },
+    {
+      "Name": "arrow-up-down",
+      "Normalized": "ArrowUpDown"
+    },
+    {
+      "Name": "arrow-up-from-dot",
+      "Normalized": "ArrowUpFromDot"
+    },
+    {
+      "Name": "arrow-up-from-line",
+      "Normalized": "ArrowUpFromLine"
+    },
+    {
+      "Name": "arrow-up-left",
+      "Normalized": "ArrowUpLeft"
+    },
+    {
+      "Name": "arrow-up-narrow-wide",
+      "Normalized": "ArrowUpNarrowWide"
+    },
+    {
+      "Name": "arrow-up-right",
+      "Normalized": "ArrowUpRight"
+    },
+    {
+      "Name": "arrow-up-to-line",
+      "Normalized": "ArrowUpToLine"
+    },
+    {
+      "Name": "arrow-up-wide-narrow",
+      "Normalized": "ArrowUpWideNarrow"
+    },
+    {
+      "Name": "arrow-up-z-a",
+      "Normalized": "ArrowUpZA"
+    },
+    {
+      "Name": "arrows-up-from-line",
+      "Normalized": "ArrowsUpFromLine"
+    },
+    {
+      "Name": "asterisk",
+      "Normalized": "Asterisk"
+    },
+    {
+      "Name": "at-sign",
+      "Normalized": "AtSign"
+    },
+    {
+      "Name": "atom",
+      "Normalized": "Atom"
+    },
+    {
+      "Name": "audio-lines",
+      "Normalized": "AudioLines"
+    },
+    {
+      "Name": "audio-waveform",
+      "Normalized": "AudioWaveform"
+    },
+    {
+      "Name": "award",
+      "Normalized": "Award"
+    },
+    {
+      "Name": "axe",
+      "Normalized": "Axe"
+    },
+    {
+      "Name": "axis-3d",
+      "Normalized": "Axis3d"
+    },
+    {
+      "Name": "baby",
+      "Normalized": "Baby"
+    },
+    {
+      "Name": "backpack",
+      "Normalized": "Backpack"
+    },
+    {
+      "Name": "badge",
+      "Normalized": "Badge"
+    },
+    {
+      "Name": "badge-alert",
+      "Normalized": "BadgeAlert"
+    },
+    {
+      "Name": "badge-cent",
+      "Normalized": "BadgeCent"
+    },
+    {
+      "Name": "badge-check",
+      "Normalized": "BadgeCheck"
+    },
+    {
+      "Name": "badge-dollar-sign",
+      "Normalized": "BadgeDollarSign"
+    },
+    {
+      "Name": "badge-euro",
+      "Normalized": "BadgeEuro"
+    },
+    {
+      "Name": "badge-indian-rupee",
+      "Normalized": "BadgeIndianRupee"
+    },
+    {
+      "Name": "badge-info",
+      "Normalized": "BadgeInfo"
+    },
+    {
+      "Name": "badge-japanese-yen",
+      "Normalized": "BadgeJapaneseYen"
+    },
+    {
+      "Name": "badge-minus",
+      "Normalized": "BadgeMinus"
+    },
+    {
+      "Name": "badge-percent",
+      "Normalized": "BadgePercent"
+    },
+    {
+      "Name": "badge-plus",
+      "Normalized": "BadgePlus"
+    },
+    {
+      "Name": "badge-pound-sterling",
+      "Normalized": "BadgePoundSterling"
+    },
+    {
+      "Name": "badge-question-mark",
+      "Normalized": "BadgeQuestionMark"
+    },
+    {
+      "Name": "badge-russian-ruble",
+      "Normalized": "BadgeRussianRuble"
+    },
+    {
+      "Name": "badge-swiss-franc",
+      "Normalized": "BadgeSwissFranc"
+    },
+    {
+      "Name": "badge-turkish-lira",
+      "Normalized": "BadgeTurkishLira"
+    },
+    {
+      "Name": "badge-x",
+      "Normalized": "BadgeX"
+    },
+    {
+      "Name": "baggage-claim",
+      "Normalized": "BaggageClaim"
+    },
+    {
+      "Name": "balloon",
+      "Normalized": "Balloon"
+    },
+    {
+      "Name": "ban",
+      "Normalized": "Ban"
+    },
+    {
+      "Name": "banana",
+      "Normalized": "Banana"
+    },
+    {
+      "Name": "bandage",
+      "Normalized": "Bandage"
+    },
+    {
+      "Name": "banknote",
+      "Normalized": "Banknote"
+    },
+    {
+      "Name": "banknote-arrow-down",
+      "Normalized": "BanknoteArrowDown"
+    },
+    {
+      "Name": "banknote-arrow-up",
+      "Normalized": "BanknoteArrowUp"
+    },
+    {
+      "Name": "banknote-x",
+      "Normalized": "BanknoteX"
+    },
+    {
+      "Name": "barcode",
+      "Normalized": "Barcode"
+    },
+    {
+      "Name": "barrel",
+      "Normalized": "Barrel"
+    },
+    {
+      "Name": "baseline",
+      "Normalized": "Baseline"
+    },
+    {
+      "Name": "bath",
+      "Normalized": "Bath"
+    },
+    {
+      "Name": "battery",
+      "Normalized": "Battery"
+    },
+    {
+      "Name": "battery-charging",
+      "Normalized": "BatteryCharging"
+    },
+    {
+      "Name": "battery-full",
+      "Normalized": "BatteryFull"
+    },
+    {
+      "Name": "battery-low",
+      "Normalized": "BatteryLow"
+    },
+    {
+      "Name": "battery-medium",
+      "Normalized": "BatteryMedium"
+    },
+    {
+      "Name": "battery-plus",
+      "Normalized": "BatteryPlus"
+    },
+    {
+      "Name": "battery-warning",
+      "Normalized": "BatteryWarning"
+    },
+    {
+      "Name": "beaker",
+      "Normalized": "Beaker"
+    },
+    {
+      "Name": "bean",
+      "Normalized": "Bean"
+    },
+    {
+      "Name": "bean-off",
+      "Normalized": "BeanOff"
+    },
+    {
+      "Name": "bed",
+      "Normalized": "Bed"
+    },
+    {
+      "Name": "bed-double",
+      "Normalized": "BedDouble"
+    },
+    {
+      "Name": "bed-single",
+      "Normalized": "BedSingle"
+    },
+    {
+      "Name": "beef",
+      "Normalized": "Beef"
+    },
+    {
+      "Name": "beer",
+      "Normalized": "Beer"
+    },
+    {
+      "Name": "beer-off",
+      "Normalized": "BeerOff"
+    },
+    {
+      "Name": "bell",
+      "Normalized": "Bell"
+    },
+    {
+      "Name": "bell-dot",
+      "Normalized": "BellDot"
+    },
+    {
+      "Name": "bell-electric",
+      "Normalized": "BellElectric"
+    },
+    {
+      "Name": "bell-minus",
+      "Normalized": "BellMinus"
+    },
+    {
+      "Name": "bell-off",
+      "Normalized": "BellOff"
+    },
+    {
+      "Name": "bell-plus",
+      "Normalized": "BellPlus"
+    },
+    {
+      "Name": "bell-ring",
+      "Normalized": "BellRing"
+    },
+    {
+      "Name": "between-horizontal-end",
+      "Normalized": "BetweenHorizontalEnd"
+    },
+    {
+      "Name": "between-horizontal-start",
+      "Normalized": "BetweenHorizontalStart"
+    },
+    {
+      "Name": "between-vertical-end",
+      "Normalized": "BetweenVerticalEnd"
+    },
+    {
+      "Name": "between-vertical-start",
+      "Normalized": "BetweenVerticalStart"
+    },
+    {
+      "Name": "biceps-flexed",
+      "Normalized": "BicepsFlexed"
+    },
+    {
+      "Name": "bike",
+      "Normalized": "Bike"
+    },
+    {
+      "Name": "binary",
+      "Normalized": "Binary"
+    },
+    {
+      "Name": "binoculars",
+      "Normalized": "Binoculars"
+    },
+    {
+      "Name": "biohazard",
+      "Normalized": "Biohazard"
+    },
+    {
+      "Name": "bird",
+      "Normalized": "Bird"
+    },
+    {
+      "Name": "birdhouse",
+      "Normalized": "Birdhouse"
+    },
+    {
+      "Name": "bitcoin",
+      "Normalized": "Bitcoin"
+    },
+    {
+      "Name": "blend",
+      "Normalized": "Blend"
+    },
+    {
+      "Name": "blinds",
+      "Normalized": "Blinds"
+    },
+    {
+      "Name": "blocks",
+      "Normalized": "Blocks"
+    },
+    {
+      "Name": "bluetooth",
+      "Normalized": "Bluetooth"
+    },
+    {
+      "Name": "bluetooth-connected",
+      "Normalized": "BluetoothConnected"
+    },
+    {
+      "Name": "bluetooth-off",
+      "Normalized": "BluetoothOff"
+    },
+    {
+      "Name": "bluetooth-searching",
+      "Normalized": "BluetoothSearching"
+    },
+    {
+      "Name": "bold",
+      "Normalized": "Bold"
+    },
+    {
+      "Name": "bolt",
+      "Normalized": "Bolt"
+    },
+    {
+      "Name": "bomb",
+      "Normalized": "Bomb"
+    },
+    {
+      "Name": "bone",
+      "Normalized": "Bone"
+    },
+    {
+      "Name": "book",
+      "Normalized": "Book"
+    },
+    {
+      "Name": "book-a",
+      "Normalized": "BookA"
+    },
+    {
+      "Name": "book-alert",
+      "Normalized": "BookAlert"
+    },
+    {
+      "Name": "book-audio",
+      "Normalized": "BookAudio"
+    },
+    {
+      "Name": "book-check",
+      "Normalized": "BookCheck"
+    },
+    {
+      "Name": "book-copy",
+      "Normalized": "BookCopy"
+    },
+    {
+      "Name": "book-dashed",
+      "Normalized": "BookDashed"
+    },
+    {
+      "Name": "book-down",
+      "Normalized": "BookDown"
+    },
+    {
+      "Name": "book-headphones",
+      "Normalized": "BookHeadphones"
+    },
+    {
+      "Name": "book-heart",
+      "Normalized": "BookHeart"
+    },
+    {
+      "Name": "book-image",
+      "Normalized": "BookImage"
+    },
+    {
+      "Name": "book-key",
+      "Normalized": "BookKey"
+    },
+    {
+      "Name": "book-lock",
+      "Normalized": "BookLock"
+    },
+    {
+      "Name": "book-marked",
+      "Normalized": "BookMarked"
+    },
+    {
+      "Name": "book-minus",
+      "Normalized": "BookMinus"
+    },
+    {
+      "Name": "book-open",
+      "Normalized": "BookOpen"
+    },
+    {
+      "Name": "book-open-check",
+      "Normalized": "BookOpenCheck"
+    },
+    {
+      "Name": "book-open-text",
+      "Normalized": "BookOpenText"
+    },
+    {
+      "Name": "book-plus",
+      "Normalized": "BookPlus"
+    },
+    {
+      "Name": "book-search",
+      "Normalized": "BookSearch"
+    },
+    {
+      "Name": "book-text",
+      "Normalized": "BookText"
+    },
+    {
+      "Name": "book-type",
+      "Normalized": "BookType"
+    },
+    {
+      "Name": "book-up",
+      "Normalized": "BookUp"
+    },
+    {
+      "Name": "book-up-2",
+      "Normalized": "BookUp2"
+    },
+    {
+      "Name": "book-user",
+      "Normalized": "BookUser"
+    },
+    {
+      "Name": "book-x",
+      "Normalized": "BookX"
+    },
+    {
+      "Name": "bookmark",
+      "Normalized": "Bookmark"
+    },
+    {
+      "Name": "bookmark-check",
+      "Normalized": "BookmarkCheck"
+    },
+    {
+      "Name": "bookmark-minus",
+      "Normalized": "BookmarkMinus"
+    },
+    {
+      "Name": "bookmark-plus",
+      "Normalized": "BookmarkPlus"
+    },
+    {
+      "Name": "bookmark-x",
+      "Normalized": "BookmarkX"
+    },
+    {
+      "Name": "boom-box",
+      "Normalized": "BoomBox"
+    },
+    {
+      "Name": "bot",
+      "Normalized": "Bot"
+    },
+    {
+      "Name": "bot-message-square",
+      "Normalized": "BotMessageSquare"
+    },
+    {
+      "Name": "bot-off",
+      "Normalized": "BotOff"
+    },
+    {
+      "Name": "bottle-wine",
+      "Normalized": "BottleWine"
+    },
+    {
+      "Name": "bow-arrow",
+      "Normalized": "BowArrow"
+    },
+    {
+      "Name": "box",
+      "Normalized": "Box"
+    },
+    {
+      "Name": "boxes",
+      "Normalized": "Boxes"
+    },
+    {
+      "Name": "braces",
+      "Normalized": "Braces"
+    },
+    {
+      "Name": "brackets",
+      "Normalized": "Brackets"
+    },
+    {
+      "Name": "brain",
+      "Normalized": "Brain"
+    },
+    {
+      "Name": "brain-circuit",
+      "Normalized": "BrainCircuit"
+    },
+    {
+      "Name": "brain-cog",
+      "Normalized": "BrainCog"
+    },
+    {
+      "Name": "brick-wall",
+      "Normalized": "BrickWall"
+    },
+    {
+      "Name": "brick-wall-fire",
+      "Normalized": "BrickWallFire"
+    },
+    {
+      "Name": "brick-wall-shield",
+      "Normalized": "BrickWallShield"
+    },
+    {
+      "Name": "briefcase",
+      "Normalized": "Briefcase"
+    },
+    {
+      "Name": "briefcase-business",
+      "Normalized": "BriefcaseBusiness"
+    },
+    {
+      "Name": "briefcase-conveyor-belt",
+      "Normalized": "BriefcaseConveyorBelt"
+    },
+    {
+      "Name": "briefcase-medical",
+      "Normalized": "BriefcaseMedical"
+    },
+    {
+      "Name": "bring-to-front",
+      "Normalized": "BringToFront"
+    },
+    {
+      "Name": "brush",
+      "Normalized": "Brush"
+    },
+    {
+      "Name": "brush-cleaning",
+      "Normalized": "BrushCleaning"
+    },
+    {
+      "Name": "bubbles",
+      "Normalized": "Bubbles"
+    },
+    {
+      "Name": "bug",
+      "Normalized": "Bug"
+    },
+    {
+      "Name": "bug-off",
+      "Normalized": "BugOff"
+    },
+    {
+      "Name": "bug-play",
+      "Normalized": "BugPlay"
+    },
+    {
+      "Name": "building",
+      "Normalized": "Building"
+    },
+    {
+      "Name": "building-2",
+      "Normalized": "Building2"
+    },
+    {
+      "Name": "bus",
+      "Normalized": "Bus"
+    },
+    {
+      "Name": "bus-front",
+      "Normalized": "BusFront"
+    },
+    {
+      "Name": "cable",
+      "Normalized": "Cable"
+    },
+    {
+      "Name": "cable-car",
+      "Normalized": "CableCar"
+    },
+    {
+      "Name": "cake",
+      "Normalized": "Cake"
+    },
+    {
+      "Name": "cake-slice",
+      "Normalized": "CakeSlice"
+    },
+    {
+      "Name": "calculator",
+      "Normalized": "Calculator"
+    },
+    {
+      "Name": "calendar",
+      "Normalized": "Calendar"
+    },
+    {
+      "Name": "calendar-1",
+      "Normalized": "Calendar1"
+    },
+    {
+      "Name": "calendar-arrow-down",
+      "Normalized": "CalendarArrowDown"
+    },
+    {
+      "Name": "calendar-arrow-up",
+      "Normalized": "CalendarArrowUp"
+    },
+    {
+      "Name": "calendar-check",
+      "Normalized": "CalendarCheck"
+    },
+    {
+      "Name": "calendar-check-2",
+      "Normalized": "CalendarCheck2"
+    },
+    {
+      "Name": "calendar-clock",
+      "Normalized": "CalendarClock"
+    },
+    {
+      "Name": "calendar-cog",
+      "Normalized": "CalendarCog"
+    },
+    {
+      "Name": "calendar-days",
+      "Normalized": "CalendarDays"
+    },
+    {
+      "Name": "calendar-fold",
+      "Normalized": "CalendarFold"
+    },
+    {
+      "Name": "calendar-heart",
+      "Normalized": "CalendarHeart"
+    },
+    {
+      "Name": "calendar-minus",
+      "Normalized": "CalendarMinus"
+    },
+    {
+      "Name": "calendar-minus-2",
+      "Normalized": "CalendarMinus2"
+    },
+    {
+      "Name": "calendar-off",
+      "Normalized": "CalendarOff"
+    },
+    {
+      "Name": "calendar-plus",
+      "Normalized": "CalendarPlus"
+    },
+    {
+      "Name": "calendar-plus-2",
+      "Normalized": "CalendarPlus2"
+    },
+    {
+      "Name": "calendar-range",
+      "Normalized": "CalendarRange"
+    },
+    {
+      "Name": "calendar-search",
+      "Normalized": "CalendarSearch"
+    },
+    {
+      "Name": "calendar-sync",
+      "Normalized": "CalendarSync"
+    },
+    {
+      "Name": "calendar-x",
+      "Normalized": "CalendarX"
+    },
+    {
+      "Name": "calendar-x-2",
+      "Normalized": "CalendarX2"
+    },
+    {
+      "Name": "calendars",
+      "Normalized": "Calendars"
+    },
+    {
+      "Name": "camera",
+      "Normalized": "Camera"
+    },
+    {
+      "Name": "camera-off",
+      "Normalized": "CameraOff"
+    },
+    {
+      "Name": "candy",
+      "Normalized": "Candy"
+    },
+    {
+      "Name": "candy-cane",
+      "Normalized": "CandyCane"
+    },
+    {
+      "Name": "candy-off",
+      "Normalized": "CandyOff"
+    },
+    {
+      "Name": "cannabis",
+      "Normalized": "Cannabis"
+    },
+    {
+      "Name": "cannabis-off",
+      "Normalized": "CannabisOff"
+    },
+    {
+      "Name": "captions",
+      "Normalized": "Captions"
+    },
+    {
+      "Name": "captions-off",
+      "Normalized": "CaptionsOff"
+    },
+    {
+      "Name": "car",
+      "Normalized": "Car"
+    },
+    {
+      "Name": "car-front",
+      "Normalized": "CarFront"
+    },
+    {
+      "Name": "car-taxi-front",
+      "Normalized": "CarTaxiFront"
+    },
+    {
+      "Name": "caravan",
+      "Normalized": "Caravan"
+    },
+    {
+      "Name": "card-sim",
+      "Normalized": "CardSim"
+    },
+    {
+      "Name": "carrot",
+      "Normalized": "Carrot"
+    },
+    {
+      "Name": "case-lower",
+      "Normalized": "CaseLower"
+    },
+    {
+      "Name": "case-sensitive",
+      "Normalized": "CaseSensitive"
+    },
+    {
+      "Name": "case-upper",
+      "Normalized": "CaseUpper"
+    },
+    {
+      "Name": "cassette-tape",
+      "Normalized": "CassetteTape"
+    },
+    {
+      "Name": "cast",
+      "Normalized": "Cast"
+    },
+    {
+      "Name": "castle",
+      "Normalized": "Castle"
+    },
+    {
+      "Name": "cat",
+      "Normalized": "Cat"
+    },
+    {
+      "Name": "cctv",
+      "Normalized": "Cctv"
+    },
+    {
+      "Name": "chart-area",
+      "Normalized": "ChartArea"
+    },
+    {
+      "Name": "chart-bar",
+      "Normalized": "ChartBar"
+    },
+    {
+      "Name": "chart-bar-big",
+      "Normalized": "ChartBarBig"
+    },
+    {
+      "Name": "chart-bar-decreasing",
+      "Normalized": "ChartBarDecreasing"
+    },
+    {
+      "Name": "chart-bar-increasing",
+      "Normalized": "ChartBarIncreasing"
+    },
+    {
+      "Name": "chart-bar-stacked",
+      "Normalized": "ChartBarStacked"
+    },
+    {
+      "Name": "chart-candlestick",
+      "Normalized": "ChartCandlestick"
+    },
+    {
+      "Name": "chart-column",
+      "Normalized": "ChartColumn"
+    },
+    {
+      "Name": "chart-column-big",
+      "Normalized": "ChartColumnBig"
+    },
+    {
+      "Name": "chart-column-decreasing",
+      "Normalized": "ChartColumnDecreasing"
+    },
+    {
+      "Name": "chart-column-increasing",
+      "Normalized": "ChartColumnIncreasing"
+    },
+    {
+      "Name": "chart-column-stacked",
+      "Normalized": "ChartColumnStacked"
+    },
+    {
+      "Name": "chart-gantt",
+      "Normalized": "ChartGantt"
+    },
+    {
+      "Name": "chart-line",
+      "Normalized": "ChartLine"
+    },
+    {
+      "Name": "chart-network",
+      "Normalized": "ChartNetwork"
+    },
+    {
+      "Name": "chart-no-axes-column",
+      "Normalized": "ChartNoAxesColumn"
+    },
+    {
+      "Name": "chart-no-axes-column-decreasing",
+      "Normalized": "ChartNoAxesColumnDecreasing"
+    },
+    {
+      "Name": "chart-no-axes-column-increasing",
+      "Normalized": "ChartNoAxesColumnIncreasing"
+    },
+    {
+      "Name": "chart-no-axes-combined",
+      "Normalized": "ChartNoAxesCombined"
+    },
+    {
+      "Name": "chart-no-axes-gantt",
+      "Normalized": "ChartNoAxesGantt"
+    },
+    {
+      "Name": "chart-pie",
+      "Normalized": "ChartPie"
+    },
+    {
+      "Name": "chart-scatter",
+      "Normalized": "ChartScatter"
+    },
+    {
+      "Name": "chart-spline",
+      "Normalized": "ChartSpline"
+    },
+    {
+      "Name": "check",
+      "Normalized": "Check"
+    },
+    {
+      "Name": "check-check",
+      "Normalized": "CheckCheck"
+    },
+    {
+      "Name": "check-line",
+      "Normalized": "CheckLine"
+    },
+    {
+      "Name": "chef-hat",
+      "Normalized": "ChefHat"
+    },
+    {
+      "Name": "cherry",
+      "Normalized": "Cherry"
+    },
+    {
+      "Name": "chess-bishop",
+      "Normalized": "ChessBishop"
+    },
+    {
+      "Name": "chess-king",
+      "Normalized": "ChessKing"
+    },
+    {
+      "Name": "chess-knight",
+      "Normalized": "ChessKnight"
+    },
+    {
+      "Name": "chess-pawn",
+      "Normalized": "ChessPawn"
+    },
+    {
+      "Name": "chess-queen",
+      "Normalized": "ChessQueen"
+    },
+    {
+      "Name": "chess-rook",
+      "Normalized": "ChessRook"
+    },
+    {
+      "Name": "chevron-down",
+      "Normalized": "ChevronDown"
+    },
+    {
+      "Name": "chevron-first",
+      "Normalized": "ChevronFirst"
+    },
+    {
+      "Name": "chevron-last",
+      "Normalized": "ChevronLast"
+    },
+    {
+      "Name": "chevron-left",
+      "Normalized": "ChevronLeft"
+    },
+    {
+      "Name": "chevron-right",
+      "Normalized": "ChevronRight"
+    },
+    {
+      "Name": "chevron-up",
+      "Normalized": "ChevronUp"
+    },
+    {
+      "Name": "chevrons-down",
+      "Normalized": "ChevronsDown"
+    },
+    {
+      "Name": "chevrons-down-up",
+      "Normalized": "ChevronsDownUp"
+    },
+    {
+      "Name": "chevrons-left",
+      "Normalized": "ChevronsLeft"
+    },
+    {
+      "Name": "chevrons-left-right",
+      "Normalized": "ChevronsLeftRight"
+    },
+    {
+      "Name": "chevrons-left-right-ellipsis",
+      "Normalized": "ChevronsLeftRightEllipsis"
+    },
+    {
+      "Name": "chevrons-right",
+      "Normalized": "ChevronsRight"
+    },
+    {
+      "Name": "chevrons-right-left",
+      "Normalized": "ChevronsRightLeft"
+    },
+    {
+      "Name": "chevrons-up",
+      "Normalized": "ChevronsUp"
+    },
+    {
+      "Name": "chevrons-up-down",
+      "Normalized": "ChevronsUpDown"
+    },
+    {
+      "Name": "chromium",
+      "Normalized": "Chromium"
+    },
+    {
+      "Name": "church",
+      "Normalized": "Church"
+    },
+    {
+      "Name": "cigarette",
+      "Normalized": "Cigarette"
+    },
+    {
+      "Name": "cigarette-off",
+      "Normalized": "CigaretteOff"
+    },
+    {
+      "Name": "circle",
+      "Normalized": "Circle"
+    },
+    {
+      "Name": "circle-alert",
+      "Normalized": "CircleAlert"
+    },
+    {
+      "Name": "circle-arrow-down",
+      "Normalized": "CircleArrowDown"
+    },
+    {
+      "Name": "circle-arrow-left",
+      "Normalized": "CircleArrowLeft"
+    },
+    {
+      "Name": "circle-arrow-out-down-left",
+      "Normalized": "CircleArrowOutDownLeft"
+    },
+    {
+      "Name": "circle-arrow-out-down-right",
+      "Normalized": "CircleArrowOutDownRight"
+    },
+    {
+      "Name": "circle-arrow-out-up-left",
+      "Normalized": "CircleArrowOutUpLeft"
+    },
+    {
+      "Name": "circle-arrow-out-up-right",
+      "Normalized": "CircleArrowOutUpRight"
+    },
+    {
+      "Name": "circle-arrow-right",
+      "Normalized": "CircleArrowRight"
+    },
+    {
+      "Name": "circle-arrow-up",
+      "Normalized": "CircleArrowUp"
+    },
+    {
+      "Name": "circle-check",
+      "Normalized": "CircleCheck"
+    },
+    {
+      "Name": "circle-check-big",
+      "Normalized": "CircleCheckBig"
+    },
+    {
+      "Name": "circle-chevron-down",
+      "Normalized": "CircleChevronDown"
+    },
+    {
+      "Name": "circle-chevron-left",
+      "Normalized": "CircleChevronLeft"
+    },
+    {
+      "Name": "circle-chevron-right",
+      "Normalized": "CircleChevronRight"
+    },
+    {
+      "Name": "circle-chevron-up",
+      "Normalized": "CircleChevronUp"
+    },
+    {
+      "Name": "circle-dashed",
+      "Normalized": "CircleDashed"
+    },
+    {
+      "Name": "circle-divide",
+      "Normalized": "CircleDivide"
+    },
+    {
+      "Name": "circle-dollar-sign",
+      "Normalized": "CircleDollarSign"
+    },
+    {
+      "Name": "circle-dot",
+      "Normalized": "CircleDot"
+    },
+    {
+      "Name": "circle-dot-dashed",
+      "Normalized": "CircleDotDashed"
+    },
+    {
+      "Name": "circle-ellipsis",
+      "Normalized": "CircleEllipsis"
+    },
+    {
+      "Name": "circle-equal",
+      "Normalized": "CircleEqual"
+    },
+    {
+      "Name": "circle-fading-arrow-up",
+      "Normalized": "CircleFadingArrowUp"
+    },
+    {
+      "Name": "circle-fading-plus",
+      "Normalized": "CircleFadingPlus"
+    },
+    {
+      "Name": "circle-gauge",
+      "Normalized": "CircleGauge"
+    },
+    {
+      "Name": "circle-minus",
+      "Normalized": "CircleMinus"
+    },
+    {
+      "Name": "circle-off",
+      "Normalized": "CircleOff"
+    },
+    {
+      "Name": "circle-parking",
+      "Normalized": "CircleParking"
+    },
+    {
+      "Name": "circle-parking-off",
+      "Normalized": "CircleParkingOff"
+    },
+    {
+      "Name": "circle-pause",
+      "Normalized": "CirclePause"
+    },
+    {
+      "Name": "circle-percent",
+      "Normalized": "CirclePercent"
+    },
+    {
+      "Name": "circle-pile",
+      "Normalized": "CirclePile"
+    },
+    {
+      "Name": "circle-play",
+      "Normalized": "CirclePlay"
+    },
+    {
+      "Name": "circle-plus",
+      "Normalized": "CirclePlus"
+    },
+    {
+      "Name": "circle-pound-sterling",
+      "Normalized": "CirclePoundSterling"
+    },
+    {
+      "Name": "circle-power",
+      "Normalized": "CirclePower"
+    },
+    {
+      "Name": "circle-question-mark",
+      "Normalized": "CircleQuestionMark"
+    },
+    {
+      "Name": "circle-slash",
+      "Normalized": "CircleSlash"
+    },
+    {
+      "Name": "circle-slash-2",
+      "Normalized": "CircleSlash2"
+    },
+    {
+      "Name": "circle-small",
+      "Normalized": "CircleSmall"
+    },
+    {
+      "Name": "circle-star",
+      "Normalized": "CircleStar"
+    },
+    {
+      "Name": "circle-stop",
+      "Normalized": "CircleStop"
+    },
+    {
+      "Name": "circle-user",
+      "Normalized": "CircleUser"
+    },
+    {
+      "Name": "circle-user-round",
+      "Normalized": "CircleUserRound"
+    },
+    {
+      "Name": "circle-x",
+      "Normalized": "CircleX"
+    },
+    {
+      "Name": "circuit-board",
+      "Normalized": "CircuitBoard"
+    },
+    {
+      "Name": "citrus",
+      "Normalized": "Citrus"
+    },
+    {
+      "Name": "clapperboard",
+      "Normalized": "Clapperboard"
+    },
+    {
+      "Name": "clipboard",
+      "Normalized": "Clipboard"
+    },
+    {
+      "Name": "clipboard-check",
+      "Normalized": "ClipboardCheck"
+    },
+    {
+      "Name": "clipboard-clock",
+      "Normalized": "ClipboardClock"
+    },
+    {
+      "Name": "clipboard-copy",
+      "Normalized": "ClipboardCopy"
+    },
+    {
+      "Name": "clipboard-list",
+      "Normalized": "ClipboardList"
+    },
+    {
+      "Name": "clipboard-minus",
+      "Normalized": "ClipboardMinus"
+    },
+    {
+      "Name": "clipboard-paste",
+      "Normalized": "ClipboardPaste"
+    },
+    {
+      "Name": "clipboard-pen",
+      "Normalized": "ClipboardPen"
+    },
+    {
+      "Name": "clipboard-pen-line",
+      "Normalized": "ClipboardPenLine"
+    },
+    {
+      "Name": "clipboard-plus",
+      "Normalized": "ClipboardPlus"
+    },
+    {
+      "Name": "clipboard-type",
+      "Normalized": "ClipboardType"
+    },
+    {
+      "Name": "clipboard-x",
+      "Normalized": "ClipboardX"
+    },
+    {
+      "Name": "clock",
+      "Normalized": "Clock"
+    },
+    {
+      "Name": "clock-1",
+      "Normalized": "Clock1"
+    },
+    {
+      "Name": "clock-10",
+      "Normalized": "Clock10"
+    },
+    {
+      "Name": "clock-11",
+      "Normalized": "Clock11"
+    },
+    {
+      "Name": "clock-12",
+      "Normalized": "Clock12"
+    },
+    {
+      "Name": "clock-2",
+      "Normalized": "Clock2"
+    },
+    {
+      "Name": "clock-3",
+      "Normalized": "Clock3"
+    },
+    {
+      "Name": "clock-4",
+      "Normalized": "Clock4"
+    },
+    {
+      "Name": "clock-5",
+      "Normalized": "Clock5"
+    },
+    {
+      "Name": "clock-6",
+      "Normalized": "Clock6"
+    },
+    {
+      "Name": "clock-7",
+      "Normalized": "Clock7"
+    },
+    {
+      "Name": "clock-8",
+      "Normalized": "Clock8"
+    },
+    {
+      "Name": "clock-9",
+      "Normalized": "Clock9"
+    },
+    {
+      "Name": "clock-alert",
+      "Normalized": "ClockAlert"
+    },
+    {
+      "Name": "clock-arrow-down",
+      "Normalized": "ClockArrowDown"
+    },
+    {
+      "Name": "clock-arrow-up",
+      "Normalized": "ClockArrowUp"
+    },
+    {
+      "Name": "clock-check",
+      "Normalized": "ClockCheck"
+    },
+    {
+      "Name": "clock-fading",
+      "Normalized": "ClockFading"
+    },
+    {
+      "Name": "clock-plus",
+      "Normalized": "ClockPlus"
+    },
+    {
+      "Name": "closed-caption",
+      "Normalized": "ClosedCaption"
+    },
+    {
+      "Name": "cloud",
+      "Normalized": "Cloud"
+    },
+    {
+      "Name": "cloud-alert",
+      "Normalized": "CloudAlert"
+    },
+    {
+      "Name": "cloud-backup",
+      "Normalized": "CloudBackup"
+    },
+    {
+      "Name": "cloud-check",
+      "Normalized": "CloudCheck"
+    },
+    {
+      "Name": "cloud-cog",
+      "Normalized": "CloudCog"
+    },
+    {
+      "Name": "cloud-download",
+      "Normalized": "CloudDownload"
+    },
+    {
+      "Name": "cloud-drizzle",
+      "Normalized": "CloudDrizzle"
+    },
+    {
+      "Name": "cloud-fog",
+      "Normalized": "CloudFog"
+    },
+    {
+      "Name": "cloud-hail",
+      "Normalized": "CloudHail"
+    },
+    {
+      "Name": "cloud-lightning",
+      "Normalized": "CloudLightning"
+    },
+    {
+      "Name": "cloud-moon",
+      "Normalized": "CloudMoon"
+    },
+    {
+      "Name": "cloud-moon-rain",
+      "Normalized": "CloudMoonRain"
+    },
+    {
+      "Name": "cloud-off",
+      "Normalized": "CloudOff"
+    },
+    {
+      "Name": "cloud-rain",
+      "Normalized": "CloudRain"
+    },
+    {
+      "Name": "cloud-rain-wind",
+      "Normalized": "CloudRainWind"
+    },
+    {
+      "Name": "cloud-snow",
+      "Normalized": "CloudSnow"
+    },
+    {
+      "Name": "cloud-sun",
+      "Normalized": "CloudSun"
+    },
+    {
+      "Name": "cloud-sun-rain",
+      "Normalized": "CloudSunRain"
+    },
+    {
+      "Name": "cloud-sync",
+      "Normalized": "CloudSync"
+    },
+    {
+      "Name": "cloud-upload",
+      "Normalized": "CloudUpload"
+    },
+    {
+      "Name": "cloudy",
+      "Normalized": "Cloudy"
+    },
+    {
+      "Name": "clover",
+      "Normalized": "Clover"
+    },
+    {
+      "Name": "club",
+      "Normalized": "Club"
+    },
+    {
+      "Name": "code",
+      "Normalized": "Code"
+    },
+    {
+      "Name": "code-xml",
+      "Normalized": "CodeXml"
+    },
+    {
+      "Name": "codepen",
+      "Normalized": "Codepen"
+    },
+    {
+      "Name": "codesandbox",
+      "Normalized": "Codesandbox"
+    },
+    {
+      "Name": "coffee",
+      "Normalized": "Coffee"
+    },
+    {
+      "Name": "cog",
+      "Normalized": "Cog"
+    },
+    {
+      "Name": "coins",
+      "Normalized": "Coins"
+    },
+    {
+      "Name": "columns-2",
+      "Normalized": "Columns2"
+    },
+    {
+      "Name": "columns-3",
+      "Normalized": "Columns3"
+    },
+    {
+      "Name": "columns-3-cog",
+      "Normalized": "Columns3Cog"
+    },
+    {
+      "Name": "columns-4",
+      "Normalized": "Columns4"
+    },
+    {
+      "Name": "combine",
+      "Normalized": "Combine"
+    },
+    {
+      "Name": "command",
+      "Normalized": "Command"
+    },
+    {
+      "Name": "compass",
+      "Normalized": "Compass"
+    },
+    {
+      "Name": "component",
+      "Normalized": "Component"
+    },
+    {
+      "Name": "computer",
+      "Normalized": "Computer"
+    },
+    {
+      "Name": "concierge-bell",
+      "Normalized": "ConciergeBell"
+    },
+    {
+      "Name": "cone",
+      "Normalized": "Cone"
+    },
+    {
+      "Name": "construction",
+      "Normalized": "Construction"
+    },
+    {
+      "Name": "contact",
+      "Normalized": "Contact"
+    },
+    {
+      "Name": "contact-round",
+      "Normalized": "ContactRound"
+    },
+    {
+      "Name": "container",
+      "Normalized": "Container"
+    },
+    {
+      "Name": "contrast",
+      "Normalized": "Contrast"
+    },
+    {
+      "Name": "cookie",
+      "Normalized": "Cookie"
+    },
+    {
+      "Name": "cooking-pot",
+      "Normalized": "CookingPot"
+    },
+    {
+      "Name": "copy",
+      "Normalized": "Copy"
+    },
+    {
+      "Name": "copy-check",
+      "Normalized": "CopyCheck"
+    },
+    {
+      "Name": "copy-minus",
+      "Normalized": "CopyMinus"
+    },
+    {
+      "Name": "copy-plus",
+      "Normalized": "CopyPlus"
+    },
+    {
+      "Name": "copy-slash",
+      "Normalized": "CopySlash"
+    },
+    {
+      "Name": "copy-x",
+      "Normalized": "CopyX"
+    },
+    {
+      "Name": "copyleft",
+      "Normalized": "Copyleft"
+    },
+    {
+      "Name": "copyright",
+      "Normalized": "Copyright"
+    },
+    {
+      "Name": "corner-down-left",
+      "Normalized": "CornerDownLeft"
+    },
+    {
+      "Name": "corner-down-right",
+      "Normalized": "CornerDownRight"
+    },
+    {
+      "Name": "corner-left-down",
+      "Normalized": "CornerLeftDown"
+    },
+    {
+      "Name": "corner-left-up",
+      "Normalized": "CornerLeftUp"
+    },
+    {
+      "Name": "corner-right-down",
+      "Normalized": "CornerRightDown"
+    },
+    {
+      "Name": "corner-right-up",
+      "Normalized": "CornerRightUp"
+    },
+    {
+      "Name": "corner-up-left",
+      "Normalized": "CornerUpLeft"
+    },
+    {
+      "Name": "corner-up-right",
+      "Normalized": "CornerUpRight"
+    },
+    {
+      "Name": "cpu",
+      "Normalized": "Cpu"
+    },
+    {
+      "Name": "creative-commons",
+      "Normalized": "CreativeCommons"
+    },
+    {
+      "Name": "credit-card",
+      "Normalized": "CreditCard"
+    },
+    {
+      "Name": "croissant",
+      "Normalized": "Croissant"
+    },
+    {
+      "Name": "crop",
+      "Normalized": "Crop"
+    },
+    {
+      "Name": "cross",
+      "Normalized": "Cross"
+    },
+    {
+      "Name": "crosshair",
+      "Normalized": "Crosshair"
+    },
+    {
+      "Name": "crown",
+      "Normalized": "Crown"
+    },
+    {
+      "Name": "cuboid",
+      "Normalized": "Cuboid"
+    },
+    {
+      "Name": "cup-soda",
+      "Normalized": "CupSoda"
+    },
+    {
+      "Name": "currency",
+      "Normalized": "Currency"
+    },
+    {
+      "Name": "cylinder",
+      "Normalized": "Cylinder"
+    },
+    {
+      "Name": "dam",
+      "Normalized": "Dam"
+    },
+    {
+      "Name": "database",
+      "Normalized": "Database"
+    },
+    {
+      "Name": "database-backup",
+      "Normalized": "DatabaseBackup"
+    },
+    {
+      "Name": "database-search",
+      "Normalized": "DatabaseSearch"
+    },
+    {
+      "Name": "database-zap",
+      "Normalized": "DatabaseZap"
+    },
+    {
+      "Name": "decimals-arrow-left",
+      "Normalized": "DecimalsArrowLeft"
+    },
+    {
+      "Name": "decimals-arrow-right",
+      "Normalized": "DecimalsArrowRight"
+    },
+    {
+      "Name": "delete",
+      "Normalized": "Delete"
+    },
+    {
+      "Name": "dessert",
+      "Normalized": "Dessert"
+    },
+    {
+      "Name": "diameter",
+      "Normalized": "Diameter"
+    },
+    {
+      "Name": "diamond",
+      "Normalized": "Diamond"
+    },
+    {
+      "Name": "diamond-minus",
+      "Normalized": "DiamondMinus"
+    },
+    {
+      "Name": "diamond-percent",
+      "Normalized": "DiamondPercent"
+    },
+    {
+      "Name": "diamond-plus",
+      "Normalized": "DiamondPlus"
+    },
+    {
+      "Name": "dice-1",
+      "Normalized": "Dice1"
+    },
+    {
+      "Name": "dice-2",
+      "Normalized": "Dice2"
+    },
+    {
+      "Name": "dice-3",
+      "Normalized": "Dice3"
+    },
+    {
+      "Name": "dice-4",
+      "Normalized": "Dice4"
+    },
+    {
+      "Name": "dice-5",
+      "Normalized": "Dice5"
+    },
+    {
+      "Name": "dice-6",
+      "Normalized": "Dice6"
+    },
+    {
+      "Name": "dices",
+      "Normalized": "Dices"
+    },
+    {
+      "Name": "diff",
+      "Normalized": "Diff"
+    },
+    {
+      "Name": "disc",
+      "Normalized": "Disc"
+    },
+    {
+      "Name": "disc-2",
+      "Normalized": "Disc2"
+    },
+    {
+      "Name": "disc-3",
+      "Normalized": "Disc3"
+    },
+    {
+      "Name": "disc-album",
+      "Normalized": "DiscAlbum"
+    },
+    {
+      "Name": "divide",
+      "Normalized": "Divide"
+    },
+    {
+      "Name": "dna",
+      "Normalized": "Dna"
+    },
+    {
+      "Name": "dna-off",
+      "Normalized": "DnaOff"
+    },
+    {
+      "Name": "dock",
+      "Normalized": "Dock"
+    },
+    {
+      "Name": "dog",
+      "Normalized": "Dog"
+    },
+    {
+      "Name": "dollar-sign",
+      "Normalized": "DollarSign"
+    },
+    {
+      "Name": "donut",
+      "Normalized": "Donut"
+    },
+    {
+      "Name": "door-closed",
+      "Normalized": "DoorClosed"
+    },
+    {
+      "Name": "door-closed-locked",
+      "Normalized": "DoorClosedLocked"
+    },
+    {
+      "Name": "door-open",
+      "Normalized": "DoorOpen"
+    },
+    {
+      "Name": "dot",
+      "Normalized": "Dot"
+    },
+    {
+      "Name": "download",
+      "Normalized": "Download"
+    },
+    {
+      "Name": "drafting-compass",
+      "Normalized": "DraftingCompass"
+    },
+    {
+      "Name": "drama",
+      "Normalized": "Drama"
+    },
+    {
+      "Name": "dribbble",
+      "Normalized": "Dribbble"
+    },
+    {
+      "Name": "drill",
+      "Normalized": "Drill"
+    },
+    {
+      "Name": "drone",
+      "Normalized": "Drone"
+    },
+    {
+      "Name": "droplet",
+      "Normalized": "Droplet"
+    },
+    {
+      "Name": "droplet-off",
+      "Normalized": "DropletOff"
+    },
+    {
+      "Name": "droplets",
+      "Normalized": "Droplets"
+    },
+    {
+      "Name": "drum",
+      "Normalized": "Drum"
+    },
+    {
+      "Name": "drumstick",
+      "Normalized": "Drumstick"
+    },
+    {
+      "Name": "dumbbell",
+      "Normalized": "Dumbbell"
+    },
+    {
+      "Name": "ear",
+      "Normalized": "Ear"
+    },
+    {
+      "Name": "ear-off",
+      "Normalized": "EarOff"
+    },
+    {
+      "Name": "earth",
+      "Normalized": "Earth"
+    },
+    {
+      "Name": "earth-lock",
+      "Normalized": "EarthLock"
+    },
+    {
+      "Name": "eclipse",
+      "Normalized": "Eclipse"
+    },
+    {
+      "Name": "egg",
+      "Normalized": "Egg"
+    },
+    {
+      "Name": "egg-fried",
+      "Normalized": "EggFried"
+    },
+    {
+      "Name": "egg-off",
+      "Normalized": "EggOff"
+    },
+    {
+      "Name": "ellipsis",
+      "Normalized": "Ellipsis"
+    },
+    {
+      "Name": "ellipsis-vertical",
+      "Normalized": "EllipsisVertical"
+    },
+    {
+      "Name": "equal",
+      "Normalized": "Equal"
+    },
+    {
+      "Name": "equal-approximately",
+      "Normalized": "EqualApproximately"
+    },
+    {
+      "Name": "equal-not",
+      "Normalized": "EqualNot"
+    },
+    {
+      "Name": "eraser",
+      "Normalized": "Eraser"
+    },
+    {
+      "Name": "ethernet-port",
+      "Normalized": "EthernetPort"
+    },
+    {
+      "Name": "euro",
+      "Normalized": "Euro"
+    },
+    {
+      "Name": "ev-charger",
+      "Normalized": "EvCharger"
+    },
+    {
+      "Name": "expand",
+      "Normalized": "Expand"
+    },
+    {
+      "Name": "external-link",
+      "Normalized": "ExternalLink"
+    },
+    {
+      "Name": "eye",
+      "Normalized": "Eye"
+    },
+    {
+      "Name": "eye-closed",
+      "Normalized": "EyeClosed"
+    },
+    {
+      "Name": "eye-off",
+      "Normalized": "EyeOff"
+    },
+    {
+      "Name": "facebook",
+      "Normalized": "Facebook"
+    },
+    {
+      "Name": "factory",
+      "Normalized": "Factory"
+    },
+    {
+      "Name": "fan",
+      "Normalized": "Fan"
+    },
+    {
+      "Name": "fast-forward",
+      "Normalized": "FastForward"
+    },
+    {
+      "Name": "feather",
+      "Normalized": "Feather"
+    },
+    {
+      "Name": "fence",
+      "Normalized": "Fence"
+    },
+    {
+      "Name": "ferris-wheel",
+      "Normalized": "FerrisWheel"
+    },
+    {
+      "Name": "figma",
+      "Normalized": "Figma"
+    },
+    {
+      "Name": "file",
+      "Normalized": "File"
+    },
+    {
+      "Name": "file-archive",
+      "Normalized": "FileArchive"
+    },
+    {
+      "Name": "file-axis-3d",
+      "Normalized": "FileAxis3d"
+    },
+    {
+      "Name": "file-badge",
+      "Normalized": "FileBadge"
+    },
+    {
+      "Name": "file-box",
+      "Normalized": "FileBox"
+    },
+    {
+      "Name": "file-braces",
+      "Normalized": "FileBraces"
+    },
+    {
+      "Name": "file-braces-corner",
+      "Normalized": "FileBracesCorner"
+    },
+    {
+      "Name": "file-chart-column",
+      "Normalized": "FileChartColumn"
+    },
+    {
+      "Name": "file-chart-column-increasing",
+      "Normalized": "FileChartColumnIncreasing"
+    },
+    {
+      "Name": "file-chart-line",
+      "Normalized": "FileChartLine"
+    },
+    {
+      "Name": "file-chart-pie",
+      "Normalized": "FileChartPie"
+    },
+    {
+      "Name": "file-check",
+      "Normalized": "FileCheck"
+    },
+    {
+      "Name": "file-check-corner",
+      "Normalized": "FileCheckCorner"
+    },
+    {
+      "Name": "file-clock",
+      "Normalized": "FileClock"
+    },
+    {
+      "Name": "file-code",
+      "Normalized": "FileCode"
+    },
+    {
+      "Name": "file-code-corner",
+      "Normalized": "FileCodeCorner"
+    },
+    {
+      "Name": "file-cog",
+      "Normalized": "FileCog"
+    },
+    {
+      "Name": "file-diff",
+      "Normalized": "FileDiff"
+    },
+    {
+      "Name": "file-digit",
+      "Normalized": "FileDigit"
+    },
+    {
+      "Name": "file-down",
+      "Normalized": "FileDown"
+    },
+    {
+      "Name": "file-exclamation-point",
+      "Normalized": "FileExclamationPoint"
+    },
+    {
+      "Name": "file-headphone",
+      "Normalized": "FileHeadphone"
+    },
+    {
+      "Name": "file-heart",
+      "Normalized": "FileHeart"
+    },
+    {
+      "Name": "file-image",
+      "Normalized": "FileImage"
+    },
+    {
+      "Name": "file-input",
+      "Normalized": "FileInput"
+    },
+    {
+      "Name": "file-key",
+      "Normalized": "FileKey"
+    },
+    {
+      "Name": "file-lock",
+      "Normalized": "FileLock"
+    },
+    {
+      "Name": "file-minus",
+      "Normalized": "FileMinus"
+    },
+    {
+      "Name": "file-minus-corner",
+      "Normalized": "FileMinusCorner"
+    },
+    {
+      "Name": "file-music",
+      "Normalized": "FileMusic"
+    },
+    {
+      "Name": "file-output",
+      "Normalized": "FileOutput"
+    },
+    {
+      "Name": "file-pen",
+      "Normalized": "FilePen"
+    },
+    {
+      "Name": "file-pen-line",
+      "Normalized": "FilePenLine"
+    },
+    {
+      "Name": "file-play",
+      "Normalized": "FilePlay"
+    },
+    {
+      "Name": "file-plus",
+      "Normalized": "FilePlus"
+    },
+    {
+      "Name": "file-plus-corner",
+      "Normalized": "FilePlusCorner"
+    },
+    {
+      "Name": "file-question-mark",
+      "Normalized": "FileQuestionMark"
+    },
+    {
+      "Name": "file-scan",
+      "Normalized": "FileScan"
+    },
+    {
+      "Name": "file-search",
+      "Normalized": "FileSearch"
+    },
+    {
+      "Name": "file-search-corner",
+      "Normalized": "FileSearchCorner"
+    },
+    {
+      "Name": "file-signal",
+      "Normalized": "FileSignal"
+    },
+    {
+      "Name": "file-sliders",
+      "Normalized": "FileSliders"
+    },
+    {
+      "Name": "file-spreadsheet",
+      "Normalized": "FileSpreadsheet"
+    },
+    {
+      "Name": "file-stack",
+      "Normalized": "FileStack"
+    },
+    {
+      "Name": "file-symlink",
+      "Normalized": "FileSymlink"
+    },
+    {
+      "Name": "file-terminal",
+      "Normalized": "FileTerminal"
+    },
+    {
+      "Name": "file-text",
+      "Normalized": "FileText"
+    },
+    {
+      "Name": "file-type",
+      "Normalized": "FileType"
+    },
+    {
+      "Name": "file-type-corner",
+      "Normalized": "FileTypeCorner"
+    },
+    {
+      "Name": "file-up",
+      "Normalized": "FileUp"
+    },
+    {
+      "Name": "file-user",
+      "Normalized": "FileUser"
+    },
+    {
+      "Name": "file-video-camera",
+      "Normalized": "FileVideoCamera"
+    },
+    {
+      "Name": "file-volume",
+      "Normalized": "FileVolume"
+    },
+    {
+      "Name": "file-x",
+      "Normalized": "FileX"
+    },
+    {
+      "Name": "file-x-corner",
+      "Normalized": "FileXCorner"
+    },
+    {
+      "Name": "files",
+      "Normalized": "Files"
+    },
+    {
+      "Name": "film",
+      "Normalized": "Film"
+    },
+    {
+      "Name": "fingerprint-pattern",
+      "Normalized": "FingerprintPattern"
+    },
+    {
+      "Name": "fire-extinguisher",
+      "Normalized": "FireExtinguisher"
+    },
+    {
+      "Name": "fish",
+      "Normalized": "Fish"
+    },
+    {
+      "Name": "fish-off",
+      "Normalized": "FishOff"
+    },
+    {
+      "Name": "fish-symbol",
+      "Normalized": "FishSymbol"
+    },
+    {
+      "Name": "fishing-hook",
+      "Normalized": "FishingHook"
+    },
+    {
+      "Name": "flag",
+      "Normalized": "Flag"
+    },
+    {
+      "Name": "flag-off",
+      "Normalized": "FlagOff"
+    },
+    {
+      "Name": "flag-triangle-left",
+      "Normalized": "FlagTriangleLeft"
+    },
+    {
+      "Name": "flag-triangle-right",
+      "Normalized": "FlagTriangleRight"
+    },
+    {
+      "Name": "flame",
+      "Normalized": "Flame"
+    },
+    {
+      "Name": "flame-kindling",
+      "Normalized": "FlameKindling"
+    },
+    {
+      "Name": "flashlight",
+      "Normalized": "Flashlight"
+    },
+    {
+      "Name": "flashlight-off",
+      "Normalized": "FlashlightOff"
+    },
+    {
+      "Name": "flask-conical",
+      "Normalized": "FlaskConical"
+    },
+    {
+      "Name": "flask-conical-off",
+      "Normalized": "FlaskConicalOff"
+    },
+    {
+      "Name": "flask-round",
+      "Normalized": "FlaskRound"
+    },
+    {
+      "Name": "flip-horizontal",
+      "Normalized": "FlipHorizontal"
+    },
+    {
+      "Name": "flip-horizontal-2",
+      "Normalized": "FlipHorizontal2"
+    },
+    {
+      "Name": "flip-vertical",
+      "Normalized": "FlipVertical"
+    },
+    {
+      "Name": "flip-vertical-2",
+      "Normalized": "FlipVertical2"
+    },
+    {
+      "Name": "flower",
+      "Normalized": "Flower"
+    },
+    {
+      "Name": "flower-2",
+      "Normalized": "Flower2"
+    },
+    {
+      "Name": "focus",
+      "Normalized": "Focus"
+    },
+    {
+      "Name": "fold-horizontal",
+      "Normalized": "FoldHorizontal"
+    },
+    {
+      "Name": "fold-vertical",
+      "Normalized": "FoldVertical"
+    },
+    {
+      "Name": "folder",
+      "Normalized": "Folder"
+    },
+    {
+      "Name": "folder-archive",
+      "Normalized": "FolderArchive"
+    },
+    {
+      "Name": "folder-check",
+      "Normalized": "FolderCheck"
+    },
+    {
+      "Name": "folder-clock",
+      "Normalized": "FolderClock"
+    },
+    {
+      "Name": "folder-closed",
+      "Normalized": "FolderClosed"
+    },
+    {
+      "Name": "folder-code",
+      "Normalized": "FolderCode"
+    },
+    {
+      "Name": "folder-cog",
+      "Normalized": "FolderCog"
+    },
+    {
+      "Name": "folder-dot",
+      "Normalized": "FolderDot"
+    },
+    {
+      "Name": "folder-down",
+      "Normalized": "FolderDown"
+    },
+    {
+      "Name": "folder-git",
+      "Normalized": "FolderGit"
+    },
+    {
+      "Name": "folder-git-2",
+      "Normalized": "FolderGit2"
+    },
+    {
+      "Name": "folder-heart",
+      "Normalized": "FolderHeart"
+    },
+    {
+      "Name": "folder-input",
+      "Normalized": "FolderInput"
+    },
+    {
+      "Name": "folder-kanban",
+      "Normalized": "FolderKanban"
+    },
+    {
+      "Name": "folder-key",
+      "Normalized": "FolderKey"
+    },
+    {
+      "Name": "folder-lock",
+      "Normalized": "FolderLock"
+    },
+    {
+      "Name": "folder-minus",
+      "Normalized": "FolderMinus"
+    },
+    {
+      "Name": "folder-open",
+      "Normalized": "FolderOpen"
+    },
+    {
+      "Name": "folder-open-dot",
+      "Normalized": "FolderOpenDot"
+    },
+    {
+      "Name": "folder-output",
+      "Normalized": "FolderOutput"
+    },
+    {
+      "Name": "folder-pen",
+      "Normalized": "FolderPen"
+    },
+    {
+      "Name": "folder-plus",
+      "Normalized": "FolderPlus"
+    },
+    {
+      "Name": "folder-root",
+      "Normalized": "FolderRoot"
+    },
+    {
+      "Name": "folder-search",
+      "Normalized": "FolderSearch"
+    },
+    {
+      "Name": "folder-search-2",
+      "Normalized": "FolderSearch2"
+    },
+    {
+      "Name": "folder-symlink",
+      "Normalized": "FolderSymlink"
+    },
+    {
+      "Name": "folder-sync",
+      "Normalized": "FolderSync"
+    },
+    {
+      "Name": "folder-tree",
+      "Normalized": "FolderTree"
+    },
+    {
+      "Name": "folder-up",
+      "Normalized": "FolderUp"
+    },
+    {
+      "Name": "folder-x",
+      "Normalized": "FolderX"
+    },
+    {
+      "Name": "folders",
+      "Normalized": "Folders"
+    },
+    {
+      "Name": "footprints",
+      "Normalized": "Footprints"
+    },
+    {
+      "Name": "forklift",
+      "Normalized": "Forklift"
+    },
+    {
+      "Name": "form",
+      "Normalized": "Form"
+    },
+    {
+      "Name": "forward",
+      "Normalized": "Forward"
+    },
+    {
+      "Name": "frame",
+      "Normalized": "Frame"
+    },
+    {
+      "Name": "framer",
+      "Normalized": "Framer"
+    },
+    {
+      "Name": "frown",
+      "Normalized": "Frown"
+    },
+    {
+      "Name": "fuel",
+      "Normalized": "Fuel"
+    },
+    {
+      "Name": "fullscreen",
+      "Normalized": "Fullscreen"
+    },
+    {
+      "Name": "funnel",
+      "Normalized": "Funnel"
+    },
+    {
+      "Name": "funnel-plus",
+      "Normalized": "FunnelPlus"
+    },
+    {
+      "Name": "funnel-x",
+      "Normalized": "FunnelX"
+    },
+    {
+      "Name": "gallery-horizontal",
+      "Normalized": "GalleryHorizontal"
+    },
+    {
+      "Name": "gallery-horizontal-end",
+      "Normalized": "GalleryHorizontalEnd"
+    },
+    {
+      "Name": "gallery-thumbnails",
+      "Normalized": "GalleryThumbnails"
+    },
+    {
+      "Name": "gallery-vertical",
+      "Normalized": "GalleryVertical"
+    },
+    {
+      "Name": "gallery-vertical-end",
+      "Normalized": "GalleryVerticalEnd"
+    },
+    {
+      "Name": "gamepad",
+      "Normalized": "Gamepad"
+    },
+    {
+      "Name": "gamepad-2",
+      "Normalized": "Gamepad2"
+    },
+    {
+      "Name": "gamepad-directional",
+      "Normalized": "GamepadDirectional"
+    },
+    {
+      "Name": "gauge",
+      "Normalized": "Gauge"
+    },
+    {
+      "Name": "gavel",
+      "Normalized": "Gavel"
+    },
+    {
+      "Name": "gem",
+      "Normalized": "Gem"
+    },
+    {
+      "Name": "georgian-lari",
+      "Normalized": "GeorgianLari"
+    },
+    {
+      "Name": "ghost",
+      "Normalized": "Ghost"
+    },
+    {
+      "Name": "gift",
+      "Normalized": "Gift"
+    },
+    {
+      "Name": "git-branch",
+      "Normalized": "GitBranch"
+    },
+    {
+      "Name": "git-branch-minus",
+      "Normalized": "GitBranchMinus"
+    },
+    {
+      "Name": "git-branch-plus",
+      "Normalized": "GitBranchPlus"
+    },
+    {
+      "Name": "git-commit-horizontal",
+      "Normalized": "GitCommitHorizontal"
+    },
+    {
+      "Name": "git-commit-vertical",
+      "Normalized": "GitCommitVertical"
+    },
+    {
+      "Name": "git-compare",
+      "Normalized": "GitCompare"
+    },
+    {
+      "Name": "git-compare-arrows",
+      "Normalized": "GitCompareArrows"
+    },
+    {
+      "Name": "git-fork",
+      "Normalized": "GitFork"
+    },
+    {
+      "Name": "git-graph",
+      "Normalized": "GitGraph"
+    },
+    {
+      "Name": "git-merge",
+      "Normalized": "GitMerge"
+    },
+    {
+      "Name": "git-pull-request",
+      "Normalized": "GitPullRequest"
+    },
+    {
+      "Name": "git-pull-request-arrow",
+      "Normalized": "GitPullRequestArrow"
+    },
+    {
+      "Name": "git-pull-request-closed",
+      "Normalized": "GitPullRequestClosed"
+    },
+    {
+      "Name": "git-pull-request-create",
+      "Normalized": "GitPullRequestCreate"
+    },
+    {
+      "Name": "git-pull-request-create-arrow",
+      "Normalized": "GitPullRequestCreateArrow"
+    },
+    {
+      "Name": "git-pull-request-draft",
+      "Normalized": "GitPullRequestDraft"
+    },
+    {
+      "Name": "github",
+      "Normalized": "Github"
+    },
+    {
+      "Name": "gitlab",
+      "Normalized": "Gitlab"
+    },
+    {
+      "Name": "glass-water",
+      "Normalized": "GlassWater"
+    },
+    {
+      "Name": "glasses",
+      "Normalized": "Glasses"
+    },
+    {
+      "Name": "globe",
+      "Normalized": "Globe"
+    },
+    {
+      "Name": "globe-lock",
+      "Normalized": "GlobeLock"
+    },
+    {
+      "Name": "globe-x",
+      "Normalized": "GlobeX"
+    },
+    {
+      "Name": "goal",
+      "Normalized": "Goal"
+    },
+    {
+      "Name": "gpu",
+      "Normalized": "Gpu"
+    },
+    {
+      "Name": "graduation-cap",
+      "Normalized": "GraduationCap"
+    },
+    {
+      "Name": "grape",
+      "Normalized": "Grape"
+    },
+    {
+      "Name": "grid-2x2",
+      "Normalized": "Grid2x2"
+    },
+    {
+      "Name": "grid-2x2-check",
+      "Normalized": "Grid2x2Check"
+    },
+    {
+      "Name": "grid-2x2-plus",
+      "Normalized": "Grid2x2Plus"
+    },
+    {
+      "Name": "grid-2x2-x",
+      "Normalized": "Grid2x2X"
+    },
+    {
+      "Name": "grid-3x2",
+      "Normalized": "Grid3x2"
+    },
+    {
+      "Name": "grid-3x3",
+      "Normalized": "Grid3x3"
+    },
+    {
+      "Name": "grip",
+      "Normalized": "Grip"
+    },
+    {
+      "Name": "grip-horizontal",
+      "Normalized": "GripHorizontal"
+    },
+    {
+      "Name": "grip-vertical",
+      "Normalized": "GripVertical"
+    },
+    {
+      "Name": "group",
+      "Normalized": "Group"
+    },
+    {
+      "Name": "guitar",
+      "Normalized": "Guitar"
+    },
+    {
+      "Name": "ham",
+      "Normalized": "Ham"
+    },
+    {
+      "Name": "hamburger",
+      "Normalized": "Hamburger"
+    },
+    {
+      "Name": "hammer",
+      "Normalized": "Hammer"
+    },
+    {
+      "Name": "hand",
+      "Normalized": "Hand"
+    },
+    {
+      "Name": "hand-coins",
+      "Normalized": "HandCoins"
+    },
+    {
+      "Name": "hand-fist",
+      "Normalized": "HandFist"
+    },
+    {
+      "Name": "hand-grab",
+      "Normalized": "HandGrab"
+    },
+    {
+      "Name": "hand-heart",
+      "Normalized": "HandHeart"
+    },
+    {
+      "Name": "hand-helping",
+      "Normalized": "HandHelping"
+    },
+    {
+      "Name": "hand-metal",
+      "Normalized": "HandMetal"
+    },
+    {
+      "Name": "hand-platter",
+      "Normalized": "HandPlatter"
+    },
+    {
+      "Name": "handbag",
+      "Normalized": "Handbag"
+    },
+    {
+      "Name": "handshake",
+      "Normalized": "Handshake"
+    },
+    {
+      "Name": "hard-drive",
+      "Normalized": "HardDrive"
+    },
+    {
+      "Name": "hard-drive-download",
+      "Normalized": "HardDriveDownload"
+    },
+    {
+      "Name": "hard-drive-upload",
+      "Normalized": "HardDriveUpload"
+    },
+    {
+      "Name": "hard-hat",
+      "Normalized": "HardHat"
+    },
+    {
+      "Name": "hash",
+      "Normalized": "Hash"
+    },
+    {
+      "Name": "hat-glasses",
+      "Normalized": "HatGlasses"
+    },
+    {
+      "Name": "haze",
+      "Normalized": "Haze"
+    },
+    {
+      "Name": "hd",
+      "Normalized": "Hd"
+    },
+    {
+      "Name": "hdmi-port",
+      "Normalized": "HdmiPort"
+    },
+    {
+      "Name": "heading",
+      "Normalized": "Heading"
+    },
+    {
+      "Name": "heading-1",
+      "Normalized": "Heading1"
+    },
+    {
+      "Name": "heading-2",
+      "Normalized": "Heading2"
+    },
+    {
+      "Name": "heading-3",
+      "Normalized": "Heading3"
+    },
+    {
+      "Name": "heading-4",
+      "Normalized": "Heading4"
+    },
+    {
+      "Name": "heading-5",
+      "Normalized": "Heading5"
+    },
+    {
+      "Name": "heading-6",
+      "Normalized": "Heading6"
+    },
+    {
+      "Name": "headphone-off",
+      "Normalized": "HeadphoneOff"
+    },
+    {
+      "Name": "headphones",
+      "Normalized": "Headphones"
+    },
+    {
+      "Name": "headset",
+      "Normalized": "Headset"
+    },
+    {
+      "Name": "heart",
+      "Normalized": "Heart"
+    },
+    {
+      "Name": "heart-crack",
+      "Normalized": "HeartCrack"
+    },
+    {
+      "Name": "heart-handshake",
+      "Normalized": "HeartHandshake"
+    },
+    {
+      "Name": "heart-minus",
+      "Normalized": "HeartMinus"
+    },
+    {
+      "Name": "heart-off",
+      "Normalized": "HeartOff"
+    },
+    {
+      "Name": "heart-plus",
+      "Normalized": "HeartPlus"
+    },
+    {
+      "Name": "heart-pulse",
+      "Normalized": "HeartPulse"
+    },
+    {
+      "Name": "heater",
+      "Normalized": "Heater"
+    },
+    {
+      "Name": "helicopter",
+      "Normalized": "Helicopter"
+    },
+    {
+      "Name": "hexagon",
+      "Normalized": "Hexagon"
+    },
+    {
+      "Name": "highlighter",
+      "Normalized": "Highlighter"
+    },
+    {
+      "Name": "history",
+      "Normalized": "History"
+    },
+    {
+      "Name": "hop",
+      "Normalized": "Hop"
+    },
+    {
+      "Name": "hop-off",
+      "Normalized": "HopOff"
+    },
+    {
+      "Name": "hospital",
+      "Normalized": "Hospital"
+    },
+    {
+      "Name": "hotel",
+      "Normalized": "Hotel"
+    },
+    {
+      "Name": "hourglass",
+      "Normalized": "Hourglass"
+    },
+    {
+      "Name": "house",
+      "Normalized": "House"
+    },
+    {
+      "Name": "house-heart",
+      "Normalized": "HouseHeart"
+    },
+    {
+      "Name": "house-plug",
+      "Normalized": "HousePlug"
+    },
+    {
+      "Name": "house-plus",
+      "Normalized": "HousePlus"
+    },
+    {
+      "Name": "house-wifi",
+      "Normalized": "HouseWifi"
+    },
+    {
+      "Name": "ice-cream-bowl",
+      "Normalized": "IceCreamBowl"
+    },
+    {
+      "Name": "ice-cream-cone",
+      "Normalized": "IceCreamCone"
+    },
+    {
+      "Name": "id-card",
+      "Normalized": "IdCard"
+    },
+    {
+      "Name": "id-card-lanyard",
+      "Normalized": "IdCardLanyard"
+    },
+    {
+      "Name": "image",
+      "Normalized": "Image"
+    },
+    {
+      "Name": "image-down",
+      "Normalized": "ImageDown"
+    },
+    {
+      "Name": "image-minus",
+      "Normalized": "ImageMinus"
+    },
+    {
+      "Name": "image-off",
+      "Normalized": "ImageOff"
+    },
+    {
+      "Name": "image-play",
+      "Normalized": "ImagePlay"
+    },
+    {
+      "Name": "image-plus",
+      "Normalized": "ImagePlus"
+    },
+    {
+      "Name": "image-up",
+      "Normalized": "ImageUp"
+    },
+    {
+      "Name": "image-upscale",
+      "Normalized": "ImageUpscale"
+    },
+    {
+      "Name": "images",
+      "Normalized": "Images"
+    },
+    {
+      "Name": "import",
+      "Normalized": "Import"
+    },
+    {
+      "Name": "inbox",
+      "Normalized": "Inbox"
+    },
+    {
+      "Name": "indian-rupee",
+      "Normalized": "IndianRupee"
+    },
+    {
+      "Name": "infinity",
+      "Normalized": "Infinity"
+    },
+    {
+      "Name": "info",
+      "Normalized": "Info"
+    },
+    {
+      "Name": "inspection-panel",
+      "Normalized": "InspectionPanel"
+    },
+    {
+      "Name": "instagram",
+      "Normalized": "Instagram"
+    },
+    {
+      "Name": "italic",
+      "Normalized": "Italic"
+    },
+    {
+      "Name": "iteration-ccw",
+      "Normalized": "IterationCcw"
+    },
+    {
+      "Name": "iteration-cw",
+      "Normalized": "IterationCw"
+    },
+    {
+      "Name": "japanese-yen",
+      "Normalized": "JapaneseYen"
+    },
+    {
+      "Name": "joystick",
+      "Normalized": "Joystick"
+    },
+    {
+      "Name": "kanban",
+      "Normalized": "Kanban"
+    },
+    {
+      "Name": "kayak",
+      "Normalized": "Kayak"
+    },
+    {
+      "Name": "key",
+      "Normalized": "Key"
+    },
+    {
+      "Name": "key-round",
+      "Normalized": "KeyRound"
+    },
+    {
+      "Name": "key-square",
+      "Normalized": "KeySquare"
+    },
+    {
+      "Name": "keyboard",
+      "Normalized": "Keyboard"
+    },
+    {
+      "Name": "keyboard-music",
+      "Normalized": "KeyboardMusic"
+    },
+    {
+      "Name": "keyboard-off",
+      "Normalized": "KeyboardOff"
+    },
+    {
+      "Name": "lamp",
+      "Normalized": "Lamp"
+    },
+    {
+      "Name": "lamp-ceiling",
+      "Normalized": "LampCeiling"
+    },
+    {
+      "Name": "lamp-desk",
+      "Normalized": "LampDesk"
+    },
+    {
+      "Name": "lamp-floor",
+      "Normalized": "LampFloor"
+    },
+    {
+      "Name": "lamp-wall-down",
+      "Normalized": "LampWallDown"
+    },
+    {
+      "Name": "lamp-wall-up",
+      "Normalized": "LampWallUp"
+    },
+    {
+      "Name": "land-plot",
+      "Normalized": "LandPlot"
+    },
+    {
+      "Name": "landmark",
+      "Normalized": "Landmark"
+    },
+    {
+      "Name": "languages",
+      "Normalized": "Languages"
+    },
+    {
+      "Name": "laptop",
+      "Normalized": "Laptop"
+    },
+    {
+      "Name": "laptop-minimal",
+      "Normalized": "LaptopMinimal"
+    },
+    {
+      "Name": "laptop-minimal-check",
+      "Normalized": "LaptopMinimalCheck"
+    },
+    {
+      "Name": "lasso",
+      "Normalized": "Lasso"
+    },
+    {
+      "Name": "lasso-select",
+      "Normalized": "LassoSelect"
+    },
+    {
+      "Name": "laugh",
+      "Normalized": "Laugh"
+    },
+    {
+      "Name": "layers",
+      "Normalized": "Layers"
+    },
+    {
+      "Name": "layers-2",
+      "Normalized": "Layers2"
+    },
+    {
+      "Name": "layers-plus",
+      "Normalized": "LayersPlus"
+    },
+    {
+      "Name": "layout-dashboard",
+      "Normalized": "LayoutDashboard"
+    },
+    {
+      "Name": "layout-grid",
+      "Normalized": "LayoutGrid"
+    },
+    {
+      "Name": "layout-list",
+      "Normalized": "LayoutList"
+    },
+    {
+      "Name": "layout-panel-left",
+      "Normalized": "LayoutPanelLeft"
+    },
+    {
+      "Name": "layout-panel-top",
+      "Normalized": "LayoutPanelTop"
+    },
+    {
+      "Name": "layout-template",
+      "Normalized": "LayoutTemplate"
+    },
+    {
+      "Name": "leaf",
+      "Normalized": "Leaf"
+    },
+    {
+      "Name": "leafy-green",
+      "Normalized": "LeafyGreen"
+    },
+    {
+      "Name": "lectern",
+      "Normalized": "Lectern"
+    },
+    {
+      "Name": "library",
+      "Normalized": "Library"
+    },
+    {
+      "Name": "library-big",
+      "Normalized": "LibraryBig"
+    },
+    {
+      "Name": "life-buoy",
+      "Normalized": "LifeBuoy"
+    },
+    {
+      "Name": "ligature",
+      "Normalized": "Ligature"
+    },
+    {
+      "Name": "lightbulb",
+      "Normalized": "Lightbulb"
+    },
+    {
+      "Name": "lightbulb-off",
+      "Normalized": "LightbulbOff"
+    },
+    {
+      "Name": "line-squiggle",
+      "Normalized": "LineSquiggle"
+    },
+    {
+      "Name": "link",
+      "Normalized": "Link"
+    },
+    {
+      "Name": "link-2",
+      "Normalized": "Link2"
+    },
+    {
+      "Name": "link-2-off",
+      "Normalized": "Link2Off"
+    },
+    {
+      "Name": "linkedin",
+      "Normalized": "Linkedin"
+    },
+    {
+      "Name": "list",
+      "Normalized": "List"
+    },
+    {
+      "Name": "list-check",
+      "Normalized": "ListCheck"
+    },
+    {
+      "Name": "list-checks",
+      "Normalized": "ListChecks"
+    },
+    {
+      "Name": "list-chevrons-down-up",
+      "Normalized": "ListChevronsDownUp"
+    },
+    {
+      "Name": "list-chevrons-up-down",
+      "Normalized": "ListChevronsUpDown"
+    },
+    {
+      "Name": "list-collapse",
+      "Normalized": "ListCollapse"
+    },
+    {
+      "Name": "list-end",
+      "Normalized": "ListEnd"
+    },
+    {
+      "Name": "list-filter",
+      "Normalized": "ListFilter"
+    },
+    {
+      "Name": "list-filter-plus",
+      "Normalized": "ListFilterPlus"
+    },
+    {
+      "Name": "list-indent-decrease",
+      "Normalized": "ListIndentDecrease"
+    },
+    {
+      "Name": "list-indent-increase",
+      "Normalized": "ListIndentIncrease"
+    },
+    {
+      "Name": "list-minus",
+      "Normalized": "ListMinus"
+    },
+    {
+      "Name": "list-music",
+      "Normalized": "ListMusic"
+    },
+    {
+      "Name": "list-ordered",
+      "Normalized": "ListOrdered"
+    },
+    {
+      "Name": "list-plus",
+      "Normalized": "ListPlus"
+    },
+    {
+      "Name": "list-restart",
+      "Normalized": "ListRestart"
+    },
+    {
+      "Name": "list-start",
+      "Normalized": "ListStart"
+    },
+    {
+      "Name": "list-todo",
+      "Normalized": "ListTodo"
+    },
+    {
+      "Name": "list-tree",
+      "Normalized": "ListTree"
+    },
+    {
+      "Name": "list-video",
+      "Normalized": "ListVideo"
+    },
+    {
+      "Name": "list-x",
+      "Normalized": "ListX"
+    },
+    {
+      "Name": "loader",
+      "Normalized": "Loader"
+    },
+    {
+      "Name": "loader-circle",
+      "Normalized": "LoaderCircle"
+    },
+    {
+      "Name": "loader-pinwheel",
+      "Normalized": "LoaderPinwheel"
+    },
+    {
+      "Name": "locate",
+      "Normalized": "Locate"
+    },
+    {
+      "Name": "locate-fixed",
+      "Normalized": "LocateFixed"
+    },
+    {
+      "Name": "locate-off",
+      "Normalized": "LocateOff"
+    },
+    {
+      "Name": "lock",
+      "Normalized": "Lock"
+    },
+    {
+      "Name": "lock-keyhole",
+      "Normalized": "LockKeyhole"
+    },
+    {
+      "Name": "lock-keyhole-open",
+      "Normalized": "LockKeyholeOpen"
+    },
+    {
+      "Name": "lock-open",
+      "Normalized": "LockOpen"
+    },
+    {
+      "Name": "log-in",
+      "Normalized": "LogIn"
+    },
+    {
+      "Name": "log-out",
+      "Normalized": "LogOut"
+    },
+    {
+      "Name": "logs",
+      "Normalized": "Logs"
+    },
+    {
+      "Name": "lollipop",
+      "Normalized": "Lollipop"
+    },
+    {
+      "Name": "luggage",
+      "Normalized": "Luggage"
+    },
+    {
+      "Name": "magnet",
+      "Normalized": "Magnet"
+    },
+    {
+      "Name": "mail",
+      "Normalized": "Mail"
+    },
+    {
+      "Name": "mail-check",
+      "Normalized": "MailCheck"
+    },
+    {
+      "Name": "mail-minus",
+      "Normalized": "MailMinus"
+    },
+    {
+      "Name": "mail-open",
+      "Normalized": "MailOpen"
+    },
+    {
+      "Name": "mail-plus",
+      "Normalized": "MailPlus"
+    },
+    {
+      "Name": "mail-question-mark",
+      "Normalized": "MailQuestionMark"
+    },
+    {
+      "Name": "mail-search",
+      "Normalized": "MailSearch"
+    },
+    {
+      "Name": "mail-warning",
+      "Normalized": "MailWarning"
+    },
+    {
+      "Name": "mail-x",
+      "Normalized": "MailX"
+    },
+    {
+      "Name": "mailbox",
+      "Normalized": "Mailbox"
+    },
+    {
+      "Name": "mails",
+      "Normalized": "Mails"
+    },
+    {
+      "Name": "map",
+      "Normalized": "Map"
+    },
+    {
+      "Name": "map-minus",
+      "Normalized": "MapMinus"
+    },
+    {
+      "Name": "map-pin",
+      "Normalized": "MapPin"
+    },
+    {
+      "Name": "map-pin-check",
+      "Normalized": "MapPinCheck"
+    },
+    {
+      "Name": "map-pin-check-inside",
+      "Normalized": "MapPinCheckInside"
+    },
+    {
+      "Name": "map-pin-house",
+      "Normalized": "MapPinHouse"
+    },
+    {
+      "Name": "map-pin-minus",
+      "Normalized": "MapPinMinus"
+    },
+    {
+      "Name": "map-pin-minus-inside",
+      "Normalized": "MapPinMinusInside"
+    },
+    {
+      "Name": "map-pin-off",
+      "Normalized": "MapPinOff"
+    },
+    {
+      "Name": "map-pin-pen",
+      "Normalized": "MapPinPen"
+    },
+    {
+      "Name": "map-pin-plus",
+      "Normalized": "MapPinPlus"
+    },
+    {
+      "Name": "map-pin-plus-inside",
+      "Normalized": "MapPinPlusInside"
+    },
+    {
+      "Name": "map-pin-x",
+      "Normalized": "MapPinX"
+    },
+    {
+      "Name": "map-pin-x-inside",
+      "Normalized": "MapPinXInside"
+    },
+    {
+      "Name": "map-pinned",
+      "Normalized": "MapPinned"
+    },
+    {
+      "Name": "map-plus",
+      "Normalized": "MapPlus"
+    },
+    {
+      "Name": "mars",
+      "Normalized": "Mars"
+    },
+    {
+      "Name": "mars-stroke",
+      "Normalized": "MarsStroke"
+    },
+    {
+      "Name": "martini",
+      "Normalized": "Martini"
+    },
+    {
+      "Name": "maximize",
+      "Normalized": "Maximize"
+    },
+    {
+      "Name": "maximize-2",
+      "Normalized": "Maximize2"
+    },
+    {
+      "Name": "medal",
+      "Normalized": "Medal"
+    },
+    {
+      "Name": "megaphone",
+      "Normalized": "Megaphone"
+    },
+    {
+      "Name": "megaphone-off",
+      "Normalized": "MegaphoneOff"
+    },
+    {
+      "Name": "meh",
+      "Normalized": "Meh"
+    },
+    {
+      "Name": "memory-stick",
+      "Normalized": "MemoryStick"
+    },
+    {
+      "Name": "menu",
+      "Normalized": "Menu"
+    },
+    {
+      "Name": "merge",
+      "Normalized": "Merge"
+    },
+    {
+      "Name": "message-circle",
+      "Normalized": "MessageCircle"
+    },
+    {
+      "Name": "message-circle-code",
+      "Normalized": "MessageCircleCode"
+    },
+    {
+      "Name": "message-circle-dashed",
+      "Normalized": "MessageCircleDashed"
+    },
+    {
+      "Name": "message-circle-heart",
+      "Normalized": "MessageCircleHeart"
+    },
+    {
+      "Name": "message-circle-more",
+      "Normalized": "MessageCircleMore"
+    },
+    {
+      "Name": "message-circle-off",
+      "Normalized": "MessageCircleOff"
+    },
+    {
+      "Name": "message-circle-plus",
+      "Normalized": "MessageCirclePlus"
+    },
+    {
+      "Name": "message-circle-question-mark",
+      "Normalized": "MessageCircleQuestionMark"
+    },
+    {
+      "Name": "message-circle-reply",
+      "Normalized": "MessageCircleReply"
+    },
+    {
+      "Name": "message-circle-warning",
+      "Normalized": "MessageCircleWarning"
+    },
+    {
+      "Name": "message-circle-x",
+      "Normalized": "MessageCircleX"
+    },
+    {
+      "Name": "message-square",
+      "Normalized": "MessageSquare"
+    },
+    {
+      "Name": "message-square-code",
+      "Normalized": "MessageSquareCode"
+    },
+    {
+      "Name": "message-square-dashed",
+      "Normalized": "MessageSquareDashed"
+    },
+    {
+      "Name": "message-square-diff",
+      "Normalized": "MessageSquareDiff"
+    },
+    {
+      "Name": "message-square-dot",
+      "Normalized": "MessageSquareDot"
+    },
+    {
+      "Name": "message-square-heart",
+      "Normalized": "MessageSquareHeart"
+    },
+    {
+      "Name": "message-square-lock",
+      "Normalized": "MessageSquareLock"
+    },
+    {
+      "Name": "message-square-more",
+      "Normalized": "MessageSquareMore"
+    },
+    {
+      "Name": "message-square-off",
+      "Normalized": "MessageSquareOff"
+    },
+    {
+      "Name": "message-square-plus",
+      "Normalized": "MessageSquarePlus"
+    },
+    {
+      "Name": "message-square-quote",
+      "Normalized": "MessageSquareQuote"
+    },
+    {
+      "Name": "message-square-reply",
+      "Normalized": "MessageSquareReply"
+    },
+    {
+      "Name": "message-square-share",
+      "Normalized": "MessageSquareShare"
+    },
+    {
+      "Name": "message-square-text",
+      "Normalized": "MessageSquareText"
+    },
+    {
+      "Name": "message-square-warning",
+      "Normalized": "MessageSquareWarning"
+    },
+    {
+      "Name": "message-square-x",
+      "Normalized": "MessageSquareX"
+    },
+    {
+      "Name": "messages-square",
+      "Normalized": "MessagesSquare"
+    },
+    {
+      "Name": "mic",
+      "Normalized": "Mic"
+    },
+    {
+      "Name": "mic-off",
+      "Normalized": "MicOff"
+    },
+    {
+      "Name": "mic-vocal",
+      "Normalized": "MicVocal"
+    },
+    {
+      "Name": "microchip",
+      "Normalized": "Microchip"
+    },
+    {
+      "Name": "microscope",
+      "Normalized": "Microscope"
+    },
+    {
+      "Name": "microwave",
+      "Normalized": "Microwave"
+    },
+    {
+      "Name": "milestone",
+      "Normalized": "Milestone"
+    },
+    {
+      "Name": "milk",
+      "Normalized": "Milk"
+    },
+    {
+      "Name": "milk-off",
+      "Normalized": "MilkOff"
+    },
+    {
+      "Name": "minimize",
+      "Normalized": "Minimize"
+    },
+    {
+      "Name": "minimize-2",
+      "Normalized": "Minimize2"
+    },
+    {
+      "Name": "minus",
+      "Normalized": "Minus"
+    },
+    {
+      "Name": "monitor",
+      "Normalized": "Monitor"
+    },
+    {
+      "Name": "monitor-check",
+      "Normalized": "MonitorCheck"
+    },
+    {
+      "Name": "monitor-cloud",
+      "Normalized": "MonitorCloud"
+    },
+    {
+      "Name": "monitor-cog",
+      "Normalized": "MonitorCog"
+    },
+    {
+      "Name": "monitor-dot",
+      "Normalized": "MonitorDot"
+    },
+    {
+      "Name": "monitor-down",
+      "Normalized": "MonitorDown"
+    },
+    {
+      "Name": "monitor-off",
+      "Normalized": "MonitorOff"
+    },
+    {
+      "Name": "monitor-pause",
+      "Normalized": "MonitorPause"
+    },
+    {
+      "Name": "monitor-play",
+      "Normalized": "MonitorPlay"
+    },
+    {
+      "Name": "monitor-smartphone",
+      "Normalized": "MonitorSmartphone"
+    },
+    {
+      "Name": "monitor-speaker",
+      "Normalized": "MonitorSpeaker"
+    },
+    {
+      "Name": "monitor-stop",
+      "Normalized": "MonitorStop"
+    },
+    {
+      "Name": "monitor-up",
+      "Normalized": "MonitorUp"
+    },
+    {
+      "Name": "monitor-x",
+      "Normalized": "MonitorX"
+    },
+    {
+      "Name": "moon",
+      "Normalized": "Moon"
+    },
+    {
+      "Name": "moon-star",
+      "Normalized": "MoonStar"
+    },
+    {
+      "Name": "motorbike",
+      "Normalized": "Motorbike"
+    },
+    {
+      "Name": "mountain",
+      "Normalized": "Mountain"
+    },
+    {
+      "Name": "mountain-snow",
+      "Normalized": "MountainSnow"
+    },
+    {
+      "Name": "mouse",
+      "Normalized": "Mouse"
+    },
+    {
+      "Name": "mouse-off",
+      "Normalized": "MouseOff"
+    },
+    {
+      "Name": "mouse-pointer",
+      "Normalized": "MousePointer"
+    },
+    {
+      "Name": "mouse-pointer-2",
+      "Normalized": "MousePointer2"
+    },
+    {
+      "Name": "mouse-pointer-2-off",
+      "Normalized": "MousePointer2Off"
+    },
+    {
+      "Name": "mouse-pointer-ban",
+      "Normalized": "MousePointerBan"
+    },
+    {
+      "Name": "mouse-pointer-click",
+      "Normalized": "MousePointerClick"
+    },
+    {
+      "Name": "move",
+      "Normalized": "Move"
+    },
+    {
+      "Name": "move-3d",
+      "Normalized": "Move3d"
+    },
+    {
+      "Name": "move-diagonal",
+      "Normalized": "MoveDiagonal"
+    },
+    {
+      "Name": "move-diagonal-2",
+      "Normalized": "MoveDiagonal2"
+    },
+    {
+      "Name": "move-down",
+      "Normalized": "MoveDown"
+    },
+    {
+      "Name": "move-down-left",
+      "Normalized": "MoveDownLeft"
+    },
+    {
+      "Name": "move-down-right",
+      "Normalized": "MoveDownRight"
+    },
+    {
+      "Name": "move-horizontal",
+      "Normalized": "MoveHorizontal"
+    },
+    {
+      "Name": "move-left",
+      "Normalized": "MoveLeft"
+    },
+    {
+      "Name": "move-right",
+      "Normalized": "MoveRight"
+    },
+    {
+      "Name": "move-up",
+      "Normalized": "MoveUp"
+    },
+    {
+      "Name": "move-up-left",
+      "Normalized": "MoveUpLeft"
+    },
+    {
+      "Name": "move-up-right",
+      "Normalized": "MoveUpRight"
+    },
+    {
+      "Name": "move-vertical",
+      "Normalized": "MoveVertical"
+    },
+    {
+      "Name": "music",
+      "Normalized": "Music"
+    },
+    {
+      "Name": "music-2",
+      "Normalized": "Music2"
+    },
+    {
+      "Name": "music-3",
+      "Normalized": "Music3"
+    },
+    {
+      "Name": "music-4",
+      "Normalized": "Music4"
+    },
+    {
+      "Name": "navigation",
+      "Normalized": "Navigation"
+    },
+    {
+      "Name": "navigation-2",
+      "Normalized": "Navigation2"
+    },
+    {
+      "Name": "navigation-2-off",
+      "Normalized": "Navigation2Off"
+    },
+    {
+      "Name": "navigation-off",
+      "Normalized": "NavigationOff"
+    },
+    {
+      "Name": "network",
+      "Normalized": "Network"
+    },
+    {
+      "Name": "newspaper",
+      "Normalized": "Newspaper"
+    },
+    {
+      "Name": "nfc",
+      "Normalized": "Nfc"
+    },
+    {
+      "Name": "non-binary",
+      "Normalized": "NonBinary"
+    },
+    {
+      "Name": "notebook",
+      "Normalized": "Notebook"
+    },
+    {
+      "Name": "notebook-pen",
+      "Normalized": "NotebookPen"
+    },
+    {
+      "Name": "notebook-tabs",
+      "Normalized": "NotebookTabs"
+    },
+    {
+      "Name": "notebook-text",
+      "Normalized": "NotebookText"
+    },
+    {
+      "Name": "notepad-text",
+      "Normalized": "NotepadText"
+    },
+    {
+      "Name": "notepad-text-dashed",
+      "Normalized": "NotepadTextDashed"
+    },
+    {
+      "Name": "nut",
+      "Normalized": "Nut"
+    },
+    {
+      "Name": "nut-off",
+      "Normalized": "NutOff"
+    },
+    {
+      "Name": "octagon",
+      "Normalized": "Octagon"
+    },
+    {
+      "Name": "octagon-alert",
+      "Normalized": "OctagonAlert"
+    },
+    {
+      "Name": "octagon-minus",
+      "Normalized": "OctagonMinus"
+    },
+    {
+      "Name": "octagon-pause",
+      "Normalized": "OctagonPause"
+    },
+    {
+      "Name": "octagon-x",
+      "Normalized": "OctagonX"
+    },
+    {
+      "Name": "omega",
+      "Normalized": "Omega"
+    },
+    {
+      "Name": "option",
+      "Normalized": "Option"
+    },
+    {
+      "Name": "orbit",
+      "Normalized": "Orbit"
+    },
+    {
+      "Name": "origami",
+      "Normalized": "Origami"
+    },
+    {
+      "Name": "package",
+      "Normalized": "Package"
+    },
+    {
+      "Name": "package-2",
+      "Normalized": "Package2"
+    },
+    {
+      "Name": "package-check",
+      "Normalized": "PackageCheck"
+    },
+    {
+      "Name": "package-minus",
+      "Normalized": "PackageMinus"
+    },
+    {
+      "Name": "package-open",
+      "Normalized": "PackageOpen"
+    },
+    {
+      "Name": "package-plus",
+      "Normalized": "PackagePlus"
+    },
+    {
+      "Name": "package-search",
+      "Normalized": "PackageSearch"
+    },
+    {
+      "Name": "package-x",
+      "Normalized": "PackageX"
+    },
+    {
+      "Name": "paint-bucket",
+      "Normalized": "PaintBucket"
+    },
+    {
+      "Name": "paint-roller",
+      "Normalized": "PaintRoller"
+    },
+    {
+      "Name": "paintbrush",
+      "Normalized": "Paintbrush"
+    },
+    {
+      "Name": "paintbrush-vertical",
+      "Normalized": "PaintbrushVertical"
+    },
+    {
+      "Name": "palette",
+      "Normalized": "Palette"
+    },
+    {
+      "Name": "panda",
+      "Normalized": "Panda"
+    },
+    {
+      "Name": "panel-bottom",
+      "Normalized": "PanelBottom"
+    },
+    {
+      "Name": "panel-bottom-close",
+      "Normalized": "PanelBottomClose"
+    },
+    {
+      "Name": "panel-bottom-dashed",
+      "Normalized": "PanelBottomDashed"
+    },
+    {
+      "Name": "panel-bottom-open",
+      "Normalized": "PanelBottomOpen"
+    },
+    {
+      "Name": "panel-left",
+      "Normalized": "PanelLeft"
+    },
+    {
+      "Name": "panel-left-close",
+      "Normalized": "PanelLeftClose"
+    },
+    {
+      "Name": "panel-left-dashed",
+      "Normalized": "PanelLeftDashed"
+    },
+    {
+      "Name": "panel-left-open",
+      "Normalized": "PanelLeftOpen"
+    },
+    {
+      "Name": "panel-left-right-dashed",
+      "Normalized": "PanelLeftRightDashed"
+    },
+    {
+      "Name": "panel-right",
+      "Normalized": "PanelRight"
+    },
+    {
+      "Name": "panel-right-close",
+      "Normalized": "PanelRightClose"
+    },
+    {
+      "Name": "panel-right-dashed",
+      "Normalized": "PanelRightDashed"
+    },
+    {
+      "Name": "panel-right-open",
+      "Normalized": "PanelRightOpen"
+    },
+    {
+      "Name": "panel-top",
+      "Normalized": "PanelTop"
+    },
+    {
+      "Name": "panel-top-bottom-dashed",
+      "Normalized": "PanelTopBottomDashed"
+    },
+    {
+      "Name": "panel-top-close",
+      "Normalized": "PanelTopClose"
+    },
+    {
+      "Name": "panel-top-dashed",
+      "Normalized": "PanelTopDashed"
+    },
+    {
+      "Name": "panel-top-open",
+      "Normalized": "PanelTopOpen"
+    },
+    {
+      "Name": "panels-left-bottom",
+      "Normalized": "PanelsLeftBottom"
+    },
+    {
+      "Name": "panels-right-bottom",
+      "Normalized": "PanelsRightBottom"
+    },
+    {
+      "Name": "panels-top-left",
+      "Normalized": "PanelsTopLeft"
+    },
+    {
+      "Name": "paperclip",
+      "Normalized": "Paperclip"
+    },
+    {
+      "Name": "parentheses",
+      "Normalized": "Parentheses"
+    },
+    {
+      "Name": "parking-meter",
+      "Normalized": "ParkingMeter"
+    },
+    {
+      "Name": "party-popper",
+      "Normalized": "PartyPopper"
+    },
+    {
+      "Name": "pause",
+      "Normalized": "Pause"
+    },
+    {
+      "Name": "paw-print",
+      "Normalized": "PawPrint"
+    },
+    {
+      "Name": "pc-case",
+      "Normalized": "PcCase"
+    },
+    {
+      "Name": "pen",
+      "Normalized": "Pen"
+    },
+    {
+      "Name": "pen-line",
+      "Normalized": "PenLine"
+    },
+    {
+      "Name": "pen-off",
+      "Normalized": "PenOff"
+    },
+    {
+      "Name": "pen-tool",
+      "Normalized": "PenTool"
+    },
+    {
+      "Name": "pencil",
+      "Normalized": "Pencil"
+    },
+    {
+      "Name": "pencil-line",
+      "Normalized": "PencilLine"
+    },
+    {
+      "Name": "pencil-off",
+      "Normalized": "PencilOff"
+    },
+    {
+      "Name": "pencil-ruler",
+      "Normalized": "PencilRuler"
+    },
+    {
+      "Name": "pentagon",
+      "Normalized": "Pentagon"
+    },
+    {
+      "Name": "percent",
+      "Normalized": "Percent"
+    },
+    {
+      "Name": "person-standing",
+      "Normalized": "PersonStanding"
+    },
+    {
+      "Name": "philippine-peso",
+      "Normalized": "PhilippinePeso"
+    },
+    {
+      "Name": "phone",
+      "Normalized": "Phone"
+    },
+    {
+      "Name": "phone-call",
+      "Normalized": "PhoneCall"
+    },
+    {
+      "Name": "phone-forwarded",
+      "Normalized": "PhoneForwarded"
+    },
+    {
+      "Name": "phone-incoming",
+      "Normalized": "PhoneIncoming"
+    },
+    {
+      "Name": "phone-missed",
+      "Normalized": "PhoneMissed"
+    },
+    {
+      "Name": "phone-off",
+      "Normalized": "PhoneOff"
+    },
+    {
+      "Name": "phone-outgoing",
+      "Normalized": "PhoneOutgoing"
+    },
+    {
+      "Name": "pi",
+      "Normalized": "Pi"
+    },
+    {
+      "Name": "piano",
+      "Normalized": "Piano"
+    },
+    {
+      "Name": "pickaxe",
+      "Normalized": "Pickaxe"
+    },
+    {
+      "Name": "picture-in-picture",
+      "Normalized": "PictureInPicture"
+    },
+    {
+      "Name": "picture-in-picture-2",
+      "Normalized": "PictureInPicture2"
+    },
+    {
+      "Name": "piggy-bank",
+      "Normalized": "PiggyBank"
+    },
+    {
+      "Name": "pilcrow",
+      "Normalized": "Pilcrow"
+    },
+    {
+      "Name": "pilcrow-left",
+      "Normalized": "PilcrowLeft"
+    },
+    {
+      "Name": "pilcrow-right",
+      "Normalized": "PilcrowRight"
+    },
+    {
+      "Name": "pill",
+      "Normalized": "Pill"
+    },
+    {
+      "Name": "pill-bottle",
+      "Normalized": "PillBottle"
+    },
+    {
+      "Name": "pin",
+      "Normalized": "Pin"
+    },
+    {
+      "Name": "pin-off",
+      "Normalized": "PinOff"
+    },
+    {
+      "Name": "pipette",
+      "Normalized": "Pipette"
+    },
+    {
+      "Name": "pizza",
+      "Normalized": "Pizza"
+    },
+    {
+      "Name": "plane",
+      "Normalized": "Plane"
+    },
+    {
+      "Name": "plane-landing",
+      "Normalized": "PlaneLanding"
+    },
+    {
+      "Name": "plane-takeoff",
+      "Normalized": "PlaneTakeoff"
+    },
+    {
+      "Name": "play",
+      "Normalized": "Play"
+    },
+    {
+      "Name": "plug",
+      "Normalized": "Plug"
+    },
+    {
+      "Name": "plug-2",
+      "Normalized": "Plug2"
+    },
+    {
+      "Name": "plug-zap",
+      "Normalized": "PlugZap"
+    },
+    {
+      "Name": "plus",
+      "Normalized": "Plus"
+    },
+    {
+      "Name": "pocket",
+      "Normalized": "Pocket"
+    },
+    {
+      "Name": "pocket-knife",
+      "Normalized": "PocketKnife"
+    },
+    {
+      "Name": "podcast",
+      "Normalized": "Podcast"
+    },
+    {
+      "Name": "pointer",
+      "Normalized": "Pointer"
+    },
+    {
+      "Name": "pointer-off",
+      "Normalized": "PointerOff"
+    },
+    {
+      "Name": "popcorn",
+      "Normalized": "Popcorn"
+    },
+    {
+      "Name": "popsicle",
+      "Normalized": "Popsicle"
+    },
+    {
+      "Name": "pound-sterling",
+      "Normalized": "PoundSterling"
+    },
+    {
+      "Name": "power",
+      "Normalized": "Power"
+    },
+    {
+      "Name": "power-off",
+      "Normalized": "PowerOff"
+    },
+    {
+      "Name": "presentation",
+      "Normalized": "Presentation"
+    },
+    {
+      "Name": "printer",
+      "Normalized": "Printer"
+    },
+    {
+      "Name": "printer-check",
+      "Normalized": "PrinterCheck"
+    },
+    {
+      "Name": "printer-x",
+      "Normalized": "PrinterX"
+    },
+    {
+      "Name": "projector",
+      "Normalized": "Projector"
+    },
+    {
+      "Name": "proportions",
+      "Normalized": "Proportions"
+    },
+    {
+      "Name": "puzzle",
+      "Normalized": "Puzzle"
+    },
+    {
+      "Name": "pyramid",
+      "Normalized": "Pyramid"
+    },
+    {
+      "Name": "qr-code",
+      "Normalized": "QrCode"
+    },
+    {
+      "Name": "quote",
+      "Normalized": "Quote"
+    },
+    {
+      "Name": "rabbit",
+      "Normalized": "Rabbit"
+    },
+    {
+      "Name": "radar",
+      "Normalized": "Radar"
+    },
+    {
+      "Name": "radiation",
+      "Normalized": "Radiation"
+    },
+    {
+      "Name": "radical",
+      "Normalized": "Radical"
+    },
+    {
+      "Name": "radio",
+      "Normalized": "Radio"
+    },
+    {
+      "Name": "radio-receiver",
+      "Normalized": "RadioReceiver"
+    },
+    {
+      "Name": "radio-tower",
+      "Normalized": "RadioTower"
+    },
+    {
+      "Name": "radius",
+      "Normalized": "Radius"
+    },
+    {
+      "Name": "rail-symbol",
+      "Normalized": "RailSymbol"
+    },
+    {
+      "Name": "rainbow",
+      "Normalized": "Rainbow"
+    },
+    {
+      "Name": "rat",
+      "Normalized": "Rat"
+    },
+    {
+      "Name": "ratio",
+      "Normalized": "Ratio"
+    },
+    {
+      "Name": "receipt",
+      "Normalized": "Receipt"
+    },
+    {
+      "Name": "receipt-cent",
+      "Normalized": "ReceiptCent"
+    },
+    {
+      "Name": "receipt-euro",
+      "Normalized": "ReceiptEuro"
+    },
+    {
+      "Name": "receipt-indian-rupee",
+      "Normalized": "ReceiptIndianRupee"
+    },
+    {
+      "Name": "receipt-japanese-yen",
+      "Normalized": "ReceiptJapaneseYen"
+    },
+    {
+      "Name": "receipt-pound-sterling",
+      "Normalized": "ReceiptPoundSterling"
+    },
+    {
+      "Name": "receipt-russian-ruble",
+      "Normalized": "ReceiptRussianRuble"
+    },
+    {
+      "Name": "receipt-swiss-franc",
+      "Normalized": "ReceiptSwissFranc"
+    },
+    {
+      "Name": "receipt-text",
+      "Normalized": "ReceiptText"
+    },
+    {
+      "Name": "receipt-turkish-lira",
+      "Normalized": "ReceiptTurkishLira"
+    },
+    {
+      "Name": "rectangle-circle",
+      "Normalized": "RectangleCircle"
+    },
+    {
+      "Name": "rectangle-ellipsis",
+      "Normalized": "RectangleEllipsis"
+    },
+    {
+      "Name": "rectangle-goggles",
+      "Normalized": "RectangleGoggles"
+    },
+    {
+      "Name": "rectangle-horizontal",
+      "Normalized": "RectangleHorizontal"
+    },
+    {
+      "Name": "rectangle-vertical",
+      "Normalized": "RectangleVertical"
+    },
+    {
+      "Name": "recycle",
+      "Normalized": "Recycle"
+    },
+    {
+      "Name": "redo",
+      "Normalized": "Redo"
+    },
+    {
+      "Name": "redo-2",
+      "Normalized": "Redo2"
+    },
+    {
+      "Name": "redo-dot",
+      "Normalized": "RedoDot"
+    },
+    {
+      "Name": "refresh-ccw",
+      "Normalized": "RefreshCcw"
+    },
+    {
+      "Name": "refresh-ccw-dot",
+      "Normalized": "RefreshCcwDot"
+    },
+    {
+      "Name": "refresh-cw",
+      "Normalized": "RefreshCw"
+    },
+    {
+      "Name": "refresh-cw-off",
+      "Normalized": "RefreshCwOff"
+    },
+    {
+      "Name": "refrigerator",
+      "Normalized": "Refrigerator"
+    },
+    {
+      "Name": "regex",
+      "Normalized": "Regex"
+    },
+    {
+      "Name": "remove-formatting",
+      "Normalized": "RemoveFormatting"
+    },
+    {
+      "Name": "repeat",
+      "Normalized": "Repeat"
+    },
+    {
+      "Name": "repeat-1",
+      "Normalized": "Repeat1"
+    },
+    {
+      "Name": "repeat-2",
+      "Normalized": "Repeat2"
+    },
+    {
+      "Name": "replace",
+      "Normalized": "Replace"
+    },
+    {
+      "Name": "replace-all",
+      "Normalized": "ReplaceAll"
+    },
+    {
+      "Name": "reply",
+      "Normalized": "Reply"
+    },
+    {
+      "Name": "reply-all",
+      "Normalized": "ReplyAll"
+    },
+    {
+      "Name": "rewind",
+      "Normalized": "Rewind"
+    },
+    {
+      "Name": "ribbon",
+      "Normalized": "Ribbon"
+    },
+    {
+      "Name": "rocket",
+      "Normalized": "Rocket"
+    },
+    {
+      "Name": "rocking-chair",
+      "Normalized": "RockingChair"
+    },
+    {
+      "Name": "roller-coaster",
+      "Normalized": "RollerCoaster"
+    },
+    {
+      "Name": "rose",
+      "Normalized": "Rose"
+    },
+    {
+      "Name": "rotate-3d",
+      "Normalized": "Rotate3d"
+    },
+    {
+      "Name": "rotate-ccw",
+      "Normalized": "RotateCcw"
+    },
+    {
+      "Name": "rotate-ccw-key",
+      "Normalized": "RotateCcwKey"
+    },
+    {
+      "Name": "rotate-ccw-square",
+      "Normalized": "RotateCcwSquare"
+    },
+    {
+      "Name": "rotate-cw",
+      "Normalized": "RotateCw"
+    },
+    {
+      "Name": "rotate-cw-square",
+      "Normalized": "RotateCwSquare"
+    },
+    {
+      "Name": "route",
+      "Normalized": "Route"
+    },
+    {
+      "Name": "route-off",
+      "Normalized": "RouteOff"
+    },
+    {
+      "Name": "router",
+      "Normalized": "Router"
+    },
+    {
+      "Name": "rows-2",
+      "Normalized": "Rows2"
+    },
+    {
+      "Name": "rows-3",
+      "Normalized": "Rows3"
+    },
+    {
+      "Name": "rows-4",
+      "Normalized": "Rows4"
+    },
+    {
+      "Name": "rss",
+      "Normalized": "Rss"
+    },
+    {
+      "Name": "ruler",
+      "Normalized": "Ruler"
+    },
+    {
+      "Name": "ruler-dimension-line",
+      "Normalized": "RulerDimensionLine"
+    },
+    {
+      "Name": "russian-ruble",
+      "Normalized": "RussianRuble"
+    },
+    {
+      "Name": "sailboat",
+      "Normalized": "Sailboat"
+    },
+    {
+      "Name": "salad",
+      "Normalized": "Salad"
+    },
+    {
+      "Name": "sandwich",
+      "Normalized": "Sandwich"
+    },
+    {
+      "Name": "satellite",
+      "Normalized": "Satellite"
+    },
+    {
+      "Name": "satellite-dish",
+      "Normalized": "SatelliteDish"
+    },
+    {
+      "Name": "saudi-riyal",
+      "Normalized": "SaudiRiyal"
+    },
+    {
+      "Name": "save",
+      "Normalized": "Save"
+    },
+    {
+      "Name": "save-all",
+      "Normalized": "SaveAll"
+    },
+    {
+      "Name": "save-off",
+      "Normalized": "SaveOff"
+    },
+    {
+      "Name": "scale",
+      "Normalized": "Scale"
+    },
+    {
+      "Name": "scale-3d",
+      "Normalized": "Scale3d"
+    },
+    {
+      "Name": "scaling",
+      "Normalized": "Scaling"
+    },
+    {
+      "Name": "scan",
+      "Normalized": "Scan"
+    },
+    {
+      "Name": "scan-barcode",
+      "Normalized": "ScanBarcode"
+    },
+    {
+      "Name": "scan-eye",
+      "Normalized": "ScanEye"
+    },
+    {
+      "Name": "scan-face",
+      "Normalized": "ScanFace"
+    },
+    {
+      "Name": "scan-heart",
+      "Normalized": "ScanHeart"
+    },
+    {
+      "Name": "scan-line",
+      "Normalized": "ScanLine"
+    },
+    {
+      "Name": "scan-qr-code",
+      "Normalized": "ScanQrCode"
+    },
+    {
+      "Name": "scan-search",
+      "Normalized": "ScanSearch"
+    },
+    {
+      "Name": "scan-text",
+      "Normalized": "ScanText"
+    },
+    {
+      "Name": "school",
+      "Normalized": "School"
+    },
+    {
+      "Name": "scissors",
+      "Normalized": "Scissors"
+    },
+    {
+      "Name": "scissors-line-dashed",
+      "Normalized": "ScissorsLineDashed"
+    },
+    {
+      "Name": "scooter",
+      "Normalized": "Scooter"
+    },
+    {
+      "Name": "screen-share",
+      "Normalized": "ScreenShare"
+    },
+    {
+      "Name": "screen-share-off",
+      "Normalized": "ScreenShareOff"
+    },
+    {
+      "Name": "scroll",
+      "Normalized": "Scroll"
+    },
+    {
+      "Name": "scroll-text",
+      "Normalized": "ScrollText"
+    },
+    {
+      "Name": "search",
+      "Normalized": "Search"
+    },
+    {
+      "Name": "search-alert",
+      "Normalized": "SearchAlert"
+    },
+    {
+      "Name": "search-check",
+      "Normalized": "SearchCheck"
+    },
+    {
+      "Name": "search-code",
+      "Normalized": "SearchCode"
+    },
+    {
+      "Name": "search-slash",
+      "Normalized": "SearchSlash"
+    },
+    {
+      "Name": "search-x",
+      "Normalized": "SearchX"
+    },
+    {
+      "Name": "section",
+      "Normalized": "Section"
+    },
+    {
+      "Name": "send",
+      "Normalized": "Send"
+    },
+    {
+      "Name": "send-horizontal",
+      "Normalized": "SendHorizontal"
+    },
+    {
+      "Name": "send-to-back",
+      "Normalized": "SendToBack"
+    },
+    {
+      "Name": "separator-horizontal",
+      "Normalized": "SeparatorHorizontal"
+    },
+    {
+      "Name": "separator-vertical",
+      "Normalized": "SeparatorVertical"
+    },
+    {
+      "Name": "server",
+      "Normalized": "Server"
+    },
+    {
+      "Name": "server-cog",
+      "Normalized": "ServerCog"
+    },
+    {
+      "Name": "server-crash",
+      "Normalized": "ServerCrash"
+    },
+    {
+      "Name": "server-off",
+      "Normalized": "ServerOff"
+    },
+    {
+      "Name": "settings",
+      "Normalized": "Settings"
+    },
+    {
+      "Name": "settings-2",
+      "Normalized": "Settings2"
+    },
+    {
+      "Name": "shapes",
+      "Normalized": "Shapes"
+    },
+    {
+      "Name": "share",
+      "Normalized": "Share"
+    },
+    {
+      "Name": "share-2",
+      "Normalized": "Share2"
+    },
+    {
+      "Name": "sheet",
+      "Normalized": "Sheet"
+    },
+    {
+      "Name": "shell",
+      "Normalized": "Shell"
+    },
+    {
+      "Name": "shield",
+      "Normalized": "Shield"
+    },
+    {
+      "Name": "shield-alert",
+      "Normalized": "ShieldAlert"
+    },
+    {
+      "Name": "shield-ban",
+      "Normalized": "ShieldBan"
+    },
+    {
+      "Name": "shield-check",
+      "Normalized": "ShieldCheck"
+    },
+    {
+      "Name": "shield-ellipsis",
+      "Normalized": "ShieldEllipsis"
+    },
+    {
+      "Name": "shield-half",
+      "Normalized": "ShieldHalf"
+    },
+    {
+      "Name": "shield-minus",
+      "Normalized": "ShieldMinus"
+    },
+    {
+      "Name": "shield-off",
+      "Normalized": "ShieldOff"
+    },
+    {
+      "Name": "shield-plus",
+      "Normalized": "ShieldPlus"
+    },
+    {
+      "Name": "shield-question-mark",
+      "Normalized": "ShieldQuestionMark"
+    },
+    {
+      "Name": "shield-user",
+      "Normalized": "ShieldUser"
+    },
+    {
+      "Name": "shield-x",
+      "Normalized": "ShieldX"
+    },
+    {
+      "Name": "ship",
+      "Normalized": "Ship"
+    },
+    {
+      "Name": "ship-wheel",
+      "Normalized": "ShipWheel"
+    },
+    {
+      "Name": "shirt",
+      "Normalized": "Shirt"
+    },
+    {
+      "Name": "shopping-bag",
+      "Normalized": "ShoppingBag"
+    },
+    {
+      "Name": "shopping-basket",
+      "Normalized": "ShoppingBasket"
+    },
+    {
+      "Name": "shopping-cart",
+      "Normalized": "ShoppingCart"
+    },
+    {
+      "Name": "shovel",
+      "Normalized": "Shovel"
+    },
+    {
+      "Name": "shower-head",
+      "Normalized": "ShowerHead"
+    },
+    {
+      "Name": "shredder",
+      "Normalized": "Shredder"
+    },
+    {
+      "Name": "shrimp",
+      "Normalized": "Shrimp"
+    },
+    {
+      "Name": "shrink",
+      "Normalized": "Shrink"
+    },
+    {
+      "Name": "shrub",
+      "Normalized": "Shrub"
+    },
+    {
+      "Name": "shuffle",
+      "Normalized": "Shuffle"
+    },
+    {
+      "Name": "sigma",
+      "Normalized": "Sigma"
+    },
+    {
+      "Name": "signal",
+      "Normalized": "Signal"
+    },
+    {
+      "Name": "signal-high",
+      "Normalized": "SignalHigh"
+    },
+    {
+      "Name": "signal-low",
+      "Normalized": "SignalLow"
+    },
+    {
+      "Name": "signal-medium",
+      "Normalized": "SignalMedium"
+    },
+    {
+      "Name": "signal-zero",
+      "Normalized": "SignalZero"
+    },
+    {
+      "Name": "signature",
+      "Normalized": "Signature"
+    },
+    {
+      "Name": "signpost",
+      "Normalized": "Signpost"
+    },
+    {
+      "Name": "signpost-big",
+      "Normalized": "SignpostBig"
+    },
+    {
+      "Name": "siren",
+      "Normalized": "Siren"
+    },
+    {
+      "Name": "skip-back",
+      "Normalized": "SkipBack"
+    },
+    {
+      "Name": "skip-forward",
+      "Normalized": "SkipForward"
+    },
+    {
+      "Name": "skull",
+      "Normalized": "Skull"
+    },
+    {
+      "Name": "slack",
+      "Normalized": "Slack"
+    },
+    {
+      "Name": "slash",
+      "Normalized": "Slash"
+    },
+    {
+      "Name": "slice",
+      "Normalized": "Slice"
+    },
+    {
+      "Name": "sliders-horizontal",
+      "Normalized": "SlidersHorizontal"
+    },
+    {
+      "Name": "sliders-vertical",
+      "Normalized": "SlidersVertical"
+    },
+    {
+      "Name": "smartphone",
+      "Normalized": "Smartphone"
+    },
+    {
+      "Name": "smartphone-charging",
+      "Normalized": "SmartphoneCharging"
+    },
+    {
+      "Name": "smartphone-nfc",
+      "Normalized": "SmartphoneNfc"
+    },
+    {
+      "Name": "smile",
+      "Normalized": "Smile"
+    },
+    {
+      "Name": "smile-plus",
+      "Normalized": "SmilePlus"
+    },
+    {
+      "Name": "snail",
+      "Normalized": "Snail"
+    },
+    {
+      "Name": "snowflake",
+      "Normalized": "Snowflake"
+    },
+    {
+      "Name": "soap-dispenser-droplet",
+      "Normalized": "SoapDispenserDroplet"
+    },
+    {
+      "Name": "sofa",
+      "Normalized": "Sofa"
+    },
+    {
+      "Name": "solar-panel",
+      "Normalized": "SolarPanel"
+    },
+    {
+      "Name": "soup",
+      "Normalized": "Soup"
+    },
+    {
+      "Name": "space",
+      "Normalized": "Space"
+    },
+    {
+      "Name": "spade",
+      "Normalized": "Spade"
+    },
+    {
+      "Name": "sparkle",
+      "Normalized": "Sparkle"
+    },
+    {
+      "Name": "sparkles",
+      "Normalized": "Sparkles"
+    },
+    {
+      "Name": "speaker",
+      "Normalized": "Speaker"
+    },
+    {
+      "Name": "speech",
+      "Normalized": "Speech"
+    },
+    {
+      "Name": "spell-check",
+      "Normalized": "SpellCheck"
+    },
+    {
+      "Name": "spell-check-2",
+      "Normalized": "SpellCheck2"
+    },
+    {
+      "Name": "spline",
+      "Normalized": "Spline"
+    },
+    {
+      "Name": "spline-pointer",
+      "Normalized": "SplinePointer"
+    },
+    {
+      "Name": "split",
+      "Normalized": "Split"
+    },
+    {
+      "Name": "spool",
+      "Normalized": "Spool"
+    },
+    {
+      "Name": "spotlight",
+      "Normalized": "Spotlight"
+    },
+    {
+      "Name": "spray-can",
+      "Normalized": "SprayCan"
+    },
+    {
+      "Name": "sprout",
+      "Normalized": "Sprout"
+    },
+    {
+      "Name": "square",
+      "Normalized": "Square"
+    },
+    {
+      "Name": "square-activity",
+      "Normalized": "SquareActivity"
+    },
+    {
+      "Name": "square-arrow-down",
+      "Normalized": "SquareArrowDown"
+    },
+    {
+      "Name": "square-arrow-down-left",
+      "Normalized": "SquareArrowDownLeft"
+    },
+    {
+      "Name": "square-arrow-down-right",
+      "Normalized": "SquareArrowDownRight"
+    },
+    {
+      "Name": "square-arrow-left",
+      "Normalized": "SquareArrowLeft"
+    },
+    {
+      "Name": "square-arrow-out-down-left",
+      "Normalized": "SquareArrowOutDownLeft"
+    },
+    {
+      "Name": "square-arrow-out-down-right",
+      "Normalized": "SquareArrowOutDownRight"
+    },
+    {
+      "Name": "square-arrow-out-up-left",
+      "Normalized": "SquareArrowOutUpLeft"
+    },
+    {
+      "Name": "square-arrow-out-up-right",
+      "Normalized": "SquareArrowOutUpRight"
+    },
+    {
+      "Name": "square-arrow-right",
+      "Normalized": "SquareArrowRight"
+    },
+    {
+      "Name": "square-arrow-up",
+      "Normalized": "SquareArrowUp"
+    },
+    {
+      "Name": "square-arrow-up-left",
+      "Normalized": "SquareArrowUpLeft"
+    },
+    {
+      "Name": "square-arrow-up-right",
+      "Normalized": "SquareArrowUpRight"
+    },
+    {
+      "Name": "square-asterisk",
+      "Normalized": "SquareAsterisk"
+    },
+    {
+      "Name": "square-bottom-dashed-scissors",
+      "Normalized": "SquareBottomDashedScissors"
+    },
+    {
+      "Name": "square-chart-gantt",
+      "Normalized": "SquareChartGantt"
+    },
+    {
+      "Name": "square-check",
+      "Normalized": "SquareCheck"
+    },
+    {
+      "Name": "square-check-big",
+      "Normalized": "SquareCheckBig"
+    },
+    {
+      "Name": "square-chevron-down",
+      "Normalized": "SquareChevronDown"
+    },
+    {
+      "Name": "square-chevron-left",
+      "Normalized": "SquareChevronLeft"
+    },
+    {
+      "Name": "square-chevron-right",
+      "Normalized": "SquareChevronRight"
+    },
+    {
+      "Name": "square-chevron-up",
+      "Normalized": "SquareChevronUp"
+    },
+    {
+      "Name": "square-code",
+      "Normalized": "SquareCode"
+    },
+    {
+      "Name": "square-dashed",
+      "Normalized": "SquareDashed"
+    },
+    {
+      "Name": "square-dashed-bottom",
+      "Normalized": "SquareDashedBottom"
+    },
+    {
+      "Name": "square-dashed-bottom-code",
+      "Normalized": "SquareDashedBottomCode"
+    },
+    {
+      "Name": "square-dashed-kanban",
+      "Normalized": "SquareDashedKanban"
+    },
+    {
+      "Name": "square-dashed-mouse-pointer",
+      "Normalized": "SquareDashedMousePointer"
+    },
+    {
+      "Name": "square-dashed-top-solid",
+      "Normalized": "SquareDashedTopSolid"
+    },
+    {
+      "Name": "square-divide",
+      "Normalized": "SquareDivide"
+    },
+    {
+      "Name": "square-dot",
+      "Normalized": "SquareDot"
+    },
+    {
+      "Name": "square-equal",
+      "Normalized": "SquareEqual"
+    },
+    {
+      "Name": "square-function",
+      "Normalized": "SquareFunction"
+    },
+    {
+      "Name": "square-kanban",
+      "Normalized": "SquareKanban"
+    },
+    {
+      "Name": "square-library",
+      "Normalized": "SquareLibrary"
+    },
+    {
+      "Name": "square-m",
+      "Normalized": "SquareM"
+    },
+    {
+      "Name": "square-menu",
+      "Normalized": "SquareMenu"
+    },
+    {
+      "Name": "square-minus",
+      "Normalized": "SquareMinus"
+    },
+    {
+      "Name": "square-mouse-pointer",
+      "Normalized": "SquareMousePointer"
+    },
+    {
+      "Name": "square-parking",
+      "Normalized": "SquareParking"
+    },
+    {
+      "Name": "square-parking-off",
+      "Normalized": "SquareParkingOff"
+    },
+    {
+      "Name": "square-pause",
+      "Normalized": "SquarePause"
+    },
+    {
+      "Name": "square-pen",
+      "Normalized": "SquarePen"
+    },
+    {
+      "Name": "square-percent",
+      "Normalized": "SquarePercent"
+    },
+    {
+      "Name": "square-pi",
+      "Normalized": "SquarePi"
+    },
+    {
+      "Name": "square-pilcrow",
+      "Normalized": "SquarePilcrow"
+    },
+    {
+      "Name": "square-play",
+      "Normalized": "SquarePlay"
+    },
+    {
+      "Name": "square-plus",
+      "Normalized": "SquarePlus"
+    },
+    {
+      "Name": "square-power",
+      "Normalized": "SquarePower"
+    },
+    {
+      "Name": "square-radical",
+      "Normalized": "SquareRadical"
+    },
+    {
+      "Name": "square-round-corner",
+      "Normalized": "SquareRoundCorner"
+    },
+    {
+      "Name": "square-scissors",
+      "Normalized": "SquareScissors"
+    },
+    {
+      "Name": "square-sigma",
+      "Normalized": "SquareSigma"
+    },
+    {
+      "Name": "square-slash",
+      "Normalized": "SquareSlash"
+    },
+    {
+      "Name": "square-split-horizontal",
+      "Normalized": "SquareSplitHorizontal"
+    },
+    {
+      "Name": "square-split-vertical",
+      "Normalized": "SquareSplitVertical"
+    },
+    {
+      "Name": "square-square",
+      "Normalized": "SquareSquare"
+    },
+    {
+      "Name": "square-stack",
+      "Normalized": "SquareStack"
+    },
+    {
+      "Name": "square-star",
+      "Normalized": "SquareStar"
+    },
+    {
+      "Name": "square-stop",
+      "Normalized": "SquareStop"
+    },
+    {
+      "Name": "square-terminal",
+      "Normalized": "SquareTerminal"
+    },
+    {
+      "Name": "square-user",
+      "Normalized": "SquareUser"
+    },
+    {
+      "Name": "square-user-round",
+      "Normalized": "SquareUserRound"
+    },
+    {
+      "Name": "square-x",
+      "Normalized": "SquareX"
+    },
+    {
+      "Name": "squares-exclude",
+      "Normalized": "SquaresExclude"
+    },
+    {
+      "Name": "squares-intersect",
+      "Normalized": "SquaresIntersect"
+    },
+    {
+      "Name": "squares-subtract",
+      "Normalized": "SquaresSubtract"
+    },
+    {
+      "Name": "squares-unite",
+      "Normalized": "SquaresUnite"
+    },
+    {
+      "Name": "squircle",
+      "Normalized": "Squircle"
+    },
+    {
+      "Name": "squircle-dashed",
+      "Normalized": "SquircleDashed"
+    },
+    {
+      "Name": "squirrel",
+      "Normalized": "Squirrel"
+    },
+    {
+      "Name": "stamp",
+      "Normalized": "Stamp"
+    },
+    {
+      "Name": "star",
+      "Normalized": "Star"
+    },
+    {
+      "Name": "star-half",
+      "Normalized": "StarHalf"
+    },
+    {
+      "Name": "star-off",
+      "Normalized": "StarOff"
+    },
+    {
+      "Name": "step-back",
+      "Normalized": "StepBack"
+    },
+    {
+      "Name": "step-forward",
+      "Normalized": "StepForward"
+    },
+    {
+      "Name": "stethoscope",
+      "Normalized": "Stethoscope"
+    },
+    {
+      "Name": "sticker",
+      "Normalized": "Sticker"
+    },
+    {
+      "Name": "sticky-note",
+      "Normalized": "StickyNote"
+    },
+    {
+      "Name": "stone",
+      "Normalized": "Stone"
+    },
+    {
+      "Name": "store",
+      "Normalized": "Store"
+    },
+    {
+      "Name": "stretch-horizontal",
+      "Normalized": "StretchHorizontal"
+    },
+    {
+      "Name": "stretch-vertical",
+      "Normalized": "StretchVertical"
+    },
+    {
+      "Name": "strikethrough",
+      "Normalized": "Strikethrough"
+    },
+    {
+      "Name": "subscript",
+      "Normalized": "Subscript"
+    },
+    {
+      "Name": "sun",
+      "Normalized": "Sun"
+    },
+    {
+      "Name": "sun-dim",
+      "Normalized": "SunDim"
+    },
+    {
+      "Name": "sun-medium",
+      "Normalized": "SunMedium"
+    },
+    {
+      "Name": "sun-moon",
+      "Normalized": "SunMoon"
+    },
+    {
+      "Name": "sun-snow",
+      "Normalized": "SunSnow"
+    },
+    {
+      "Name": "sunrise",
+      "Normalized": "Sunrise"
+    },
+    {
+      "Name": "sunset",
+      "Normalized": "Sunset"
+    },
+    {
+      "Name": "superscript",
+      "Normalized": "Superscript"
+    },
+    {
+      "Name": "swatch-book",
+      "Normalized": "SwatchBook"
+    },
+    {
+      "Name": "swiss-franc",
+      "Normalized": "SwissFranc"
+    },
+    {
+      "Name": "switch-camera",
+      "Normalized": "SwitchCamera"
+    },
+    {
+      "Name": "sword",
+      "Normalized": "Sword"
+    },
+    {
+      "Name": "swords",
+      "Normalized": "Swords"
+    },
+    {
+      "Name": "syringe",
+      "Normalized": "Syringe"
+    },
+    {
+      "Name": "table",
+      "Normalized": "Table"
+    },
+    {
+      "Name": "table-2",
+      "Normalized": "Table2"
+    },
+    {
+      "Name": "table-cells-merge",
+      "Normalized": "TableCellsMerge"
+    },
+    {
+      "Name": "table-cells-split",
+      "Normalized": "TableCellsSplit"
+    },
+    {
+      "Name": "table-columns-split",
+      "Normalized": "TableColumnsSplit"
+    },
+    {
+      "Name": "table-of-contents",
+      "Normalized": "TableOfContents"
+    },
+    {
+      "Name": "table-properties",
+      "Normalized": "TableProperties"
+    },
+    {
+      "Name": "table-rows-split",
+      "Normalized": "TableRowsSplit"
+    },
+    {
+      "Name": "tablet",
+      "Normalized": "Tablet"
+    },
+    {
+      "Name": "tablet-smartphone",
+      "Normalized": "TabletSmartphone"
+    },
+    {
+      "Name": "tablets",
+      "Normalized": "Tablets"
+    },
+    {
+      "Name": "tag",
+      "Normalized": "Tag"
+    },
+    {
+      "Name": "tags",
+      "Normalized": "Tags"
+    },
+    {
+      "Name": "tally-1",
+      "Normalized": "Tally1"
+    },
+    {
+      "Name": "tally-2",
+      "Normalized": "Tally2"
+    },
+    {
+      "Name": "tally-3",
+      "Normalized": "Tally3"
+    },
+    {
+      "Name": "tally-4",
+      "Normalized": "Tally4"
+    },
+    {
+      "Name": "tally-5",
+      "Normalized": "Tally5"
+    },
+    {
+      "Name": "tangent",
+      "Normalized": "Tangent"
+    },
+    {
+      "Name": "target",
+      "Normalized": "Target"
+    },
+    {
+      "Name": "telescope",
+      "Normalized": "Telescope"
+    },
+    {
+      "Name": "tent",
+      "Normalized": "Tent"
+    },
+    {
+      "Name": "tent-tree",
+      "Normalized": "TentTree"
+    },
+    {
+      "Name": "terminal",
+      "Normalized": "Terminal"
+    },
+    {
+      "Name": "test-tube",
+      "Normalized": "TestTube"
+    },
+    {
+      "Name": "test-tube-diagonal",
+      "Normalized": "TestTubeDiagonal"
+    },
+    {
+      "Name": "test-tubes",
+      "Normalized": "TestTubes"
+    },
+    {
+      "Name": "text-align-center",
+      "Normalized": "TextAlignCenter"
+    },
+    {
+      "Name": "text-align-end",
+      "Normalized": "TextAlignEnd"
+    },
+    {
+      "Name": "text-align-justify",
+      "Normalized": "TextAlignJustify"
+    },
+    {
+      "Name": "text-align-start",
+      "Normalized": "TextAlignStart"
+    },
+    {
+      "Name": "text-cursor",
+      "Normalized": "TextCursor"
+    },
+    {
+      "Name": "text-cursor-input",
+      "Normalized": "TextCursorInput"
+    },
+    {
+      "Name": "text-initial",
+      "Normalized": "TextInitial"
+    },
+    {
+      "Name": "text-quote",
+      "Normalized": "TextQuote"
+    },
+    {
+      "Name": "text-search",
+      "Normalized": "TextSearch"
+    },
+    {
+      "Name": "text-select",
+      "Normalized": "TextSelect"
+    },
+    {
+      "Name": "text-wrap",
+      "Normalized": "TextWrap"
+    },
+    {
+      "Name": "theater",
+      "Normalized": "Theater"
+    },
+    {
+      "Name": "thermometer",
+      "Normalized": "Thermometer"
+    },
+    {
+      "Name": "thermometer-snowflake",
+      "Normalized": "ThermometerSnowflake"
+    },
+    {
+      "Name": "thermometer-sun",
+      "Normalized": "ThermometerSun"
+    },
+    {
+      "Name": "thumbs-down",
+      "Normalized": "ThumbsDown"
+    },
+    {
+      "Name": "thumbs-up",
+      "Normalized": "ThumbsUp"
+    },
+    {
+      "Name": "ticket",
+      "Normalized": "Ticket"
+    },
+    {
+      "Name": "ticket-check",
+      "Normalized": "TicketCheck"
+    },
+    {
+      "Name": "ticket-minus",
+      "Normalized": "TicketMinus"
+    },
+    {
+      "Name": "ticket-percent",
+      "Normalized": "TicketPercent"
+    },
+    {
+      "Name": "ticket-plus",
+      "Normalized": "TicketPlus"
+    },
+    {
+      "Name": "ticket-slash",
+      "Normalized": "TicketSlash"
+    },
+    {
+      "Name": "ticket-x",
+      "Normalized": "TicketX"
+    },
+    {
+      "Name": "tickets",
+      "Normalized": "Tickets"
+    },
+    {
+      "Name": "tickets-plane",
+      "Normalized": "TicketsPlane"
+    },
+    {
+      "Name": "timer",
+      "Normalized": "Timer"
+    },
+    {
+      "Name": "timer-off",
+      "Normalized": "TimerOff"
+    },
+    {
+      "Name": "timer-reset",
+      "Normalized": "TimerReset"
+    },
+    {
+      "Name": "toggle-left",
+      "Normalized": "ToggleLeft"
+    },
+    {
+      "Name": "toggle-right",
+      "Normalized": "ToggleRight"
+    },
+    {
+      "Name": "toilet",
+      "Normalized": "Toilet"
+    },
+    {
+      "Name": "tool-case",
+      "Normalized": "ToolCase"
+    },
+    {
+      "Name": "toolbox",
+      "Normalized": "Toolbox"
+    },
+    {
+      "Name": "tornado",
+      "Normalized": "Tornado"
+    },
+    {
+      "Name": "torus",
+      "Normalized": "Torus"
+    },
+    {
+      "Name": "touchpad",
+      "Normalized": "Touchpad"
+    },
+    {
+      "Name": "touchpad-off",
+      "Normalized": "TouchpadOff"
+    },
+    {
+      "Name": "tower-control",
+      "Normalized": "TowerControl"
+    },
+    {
+      "Name": "toy-brick",
+      "Normalized": "ToyBrick"
+    },
+    {
+      "Name": "tractor",
+      "Normalized": "Tractor"
+    },
+    {
+      "Name": "traffic-cone",
+      "Normalized": "TrafficCone"
+    },
+    {
+      "Name": "train-front",
+      "Normalized": "TrainFront"
+    },
+    {
+      "Name": "train-front-tunnel",
+      "Normalized": "TrainFrontTunnel"
+    },
+    {
+      "Name": "train-track",
+      "Normalized": "TrainTrack"
+    },
+    {
+      "Name": "tram-front",
+      "Normalized": "TramFront"
+    },
+    {
+      "Name": "transgender",
+      "Normalized": "Transgender"
+    },
+    {
+      "Name": "trash",
+      "Normalized": "Trash"
+    },
+    {
+      "Name": "trash-2",
+      "Normalized": "Trash2"
+    },
+    {
+      "Name": "tree-deciduous",
+      "Normalized": "TreeDeciduous"
+    },
+    {
+      "Name": "tree-palm",
+      "Normalized": "TreePalm"
+    },
+    {
+      "Name": "tree-pine",
+      "Normalized": "TreePine"
+    },
+    {
+      "Name": "trees",
+      "Normalized": "Trees"
+    },
+    {
+      "Name": "trello",
+      "Normalized": "Trello"
+    },
+    {
+      "Name": "trending-down",
+      "Normalized": "TrendingDown"
+    },
+    {
+      "Name": "trending-up",
+      "Normalized": "TrendingUp"
+    },
+    {
+      "Name": "trending-up-down",
+      "Normalized": "TrendingUpDown"
+    },
+    {
+      "Name": "triangle",
+      "Normalized": "Triangle"
+    },
+    {
+      "Name": "triangle-alert",
+      "Normalized": "TriangleAlert"
+    },
+    {
+      "Name": "triangle-dashed",
+      "Normalized": "TriangleDashed"
+    },
+    {
+      "Name": "triangle-right",
+      "Normalized": "TriangleRight"
+    },
+    {
+      "Name": "trophy",
+      "Normalized": "Trophy"
+    },
+    {
+      "Name": "truck",
+      "Normalized": "Truck"
+    },
+    {
+      "Name": "truck-electric",
+      "Normalized": "TruckElectric"
+    },
+    {
+      "Name": "turkish-lira",
+      "Normalized": "TurkishLira"
+    },
+    {
+      "Name": "turntable",
+      "Normalized": "Turntable"
+    },
+    {
+      "Name": "turtle",
+      "Normalized": "Turtle"
+    },
+    {
+      "Name": "tv",
+      "Normalized": "Tv"
+    },
+    {
+      "Name": "tv-minimal",
+      "Normalized": "TvMinimal"
+    },
+    {
+      "Name": "tv-minimal-play",
+      "Normalized": "TvMinimalPlay"
+    },
+    {
+      "Name": "twitch",
+      "Normalized": "Twitch"
+    },
+    {
+      "Name": "twitter",
+      "Normalized": "Twitter"
+    },
+    {
+      "Name": "type",
+      "Normalized": "Type"
+    },
+    {
+      "Name": "type-outline",
+      "Normalized": "TypeOutline"
+    },
+    {
+      "Name": "umbrella",
+      "Normalized": "Umbrella"
+    },
+    {
+      "Name": "umbrella-off",
+      "Normalized": "UmbrellaOff"
+    },
+    {
+      "Name": "underline",
+      "Normalized": "Underline"
+    },
+    {
+      "Name": "undo",
+      "Normalized": "Undo"
+    },
+    {
+      "Name": "undo-2",
+      "Normalized": "Undo2"
+    },
+    {
+      "Name": "undo-dot",
+      "Normalized": "UndoDot"
+    },
+    {
+      "Name": "unfold-horizontal",
+      "Normalized": "UnfoldHorizontal"
+    },
+    {
+      "Name": "unfold-vertical",
+      "Normalized": "UnfoldVertical"
+    },
+    {
+      "Name": "ungroup",
+      "Normalized": "Ungroup"
+    },
+    {
+      "Name": "university",
+      "Normalized": "University"
+    },
+    {
+      "Name": "unlink",
+      "Normalized": "Unlink"
+    },
+    {
+      "Name": "unlink-2",
+      "Normalized": "Unlink2"
+    },
+    {
+      "Name": "unplug",
+      "Normalized": "Unplug"
+    },
+    {
+      "Name": "upload",
+      "Normalized": "Upload"
+    },
+    {
+      "Name": "usb",
+      "Normalized": "Usb"
+    },
+    {
+      "Name": "user",
+      "Normalized": "User"
+    },
+    {
+      "Name": "user-check",
+      "Normalized": "UserCheck"
+    },
+    {
+      "Name": "user-cog",
+      "Normalized": "UserCog"
+    },
+    {
+      "Name": "user-lock",
+      "Normalized": "UserLock"
+    },
+    {
+      "Name": "user-minus",
+      "Normalized": "UserMinus"
+    },
+    {
+      "Name": "user-pen",
+      "Normalized": "UserPen"
+    },
+    {
+      "Name": "user-plus",
+      "Normalized": "UserPlus"
+    },
+    {
+      "Name": "user-round",
+      "Normalized": "UserRound"
+    },
+    {
+      "Name": "user-round-check",
+      "Normalized": "UserRoundCheck"
+    },
+    {
+      "Name": "user-round-cog",
+      "Normalized": "UserRoundCog"
+    },
+    {
+      "Name": "user-round-minus",
+      "Normalized": "UserRoundMinus"
+    },
+    {
+      "Name": "user-round-pen",
+      "Normalized": "UserRoundPen"
+    },
+    {
+      "Name": "user-round-plus",
+      "Normalized": "UserRoundPlus"
+    },
+    {
+      "Name": "user-round-search",
+      "Normalized": "UserRoundSearch"
+    },
+    {
+      "Name": "user-round-x",
+      "Normalized": "UserRoundX"
+    },
+    {
+      "Name": "user-search",
+      "Normalized": "UserSearch"
+    },
+    {
+      "Name": "user-star",
+      "Normalized": "UserStar"
+    },
+    {
+      "Name": "user-x",
+      "Normalized": "UserX"
+    },
+    {
+      "Name": "users",
+      "Normalized": "Users"
+    },
+    {
+      "Name": "users-round",
+      "Normalized": "UsersRound"
+    },
+    {
+      "Name": "utensils",
+      "Normalized": "Utensils"
+    },
+    {
+      "Name": "utensils-crossed",
+      "Normalized": "UtensilsCrossed"
+    },
+    {
+      "Name": "utility-pole",
+      "Normalized": "UtilityPole"
+    },
+    {
+      "Name": "van",
+      "Normalized": "Van"
+    },
+    {
+      "Name": "variable",
+      "Normalized": "Variable"
+    },
+    {
+      "Name": "vault",
+      "Normalized": "Vault"
+    },
+    {
+      "Name": "vector-square",
+      "Normalized": "VectorSquare"
+    },
+    {
+      "Name": "vegan",
+      "Normalized": "Vegan"
+    },
+    {
+      "Name": "venetian-mask",
+      "Normalized": "VenetianMask"
+    },
+    {
+      "Name": "venus",
+      "Normalized": "Venus"
+    },
+    {
+      "Name": "venus-and-mars",
+      "Normalized": "VenusAndMars"
+    },
+    {
+      "Name": "vibrate",
+      "Normalized": "Vibrate"
+    },
+    {
+      "Name": "vibrate-off",
+      "Normalized": "VibrateOff"
+    },
+    {
+      "Name": "video",
+      "Normalized": "Video"
+    },
+    {
+      "Name": "video-off",
+      "Normalized": "VideoOff"
+    },
+    {
+      "Name": "videotape",
+      "Normalized": "Videotape"
+    },
+    {
+      "Name": "view",
+      "Normalized": "View"
+    },
+    {
+      "Name": "voicemail",
+      "Normalized": "Voicemail"
+    },
+    {
+      "Name": "volleyball",
+      "Normalized": "Volleyball"
+    },
+    {
+      "Name": "volume",
+      "Normalized": "Volume"
+    },
+    {
+      "Name": "volume-1",
+      "Normalized": "Volume1"
+    },
+    {
+      "Name": "volume-2",
+      "Normalized": "Volume2"
+    },
+    {
+      "Name": "volume-off",
+      "Normalized": "VolumeOff"
+    },
+    {
+      "Name": "volume-x",
+      "Normalized": "VolumeX"
+    },
+    {
+      "Name": "vote",
+      "Normalized": "Vote"
+    },
+    {
+      "Name": "wallet",
+      "Normalized": "Wallet"
+    },
+    {
+      "Name": "wallet-cards",
+      "Normalized": "WalletCards"
+    },
+    {
+      "Name": "wallet-minimal",
+      "Normalized": "WalletMinimal"
+    },
+    {
+      "Name": "wallpaper",
+      "Normalized": "Wallpaper"
+    },
+    {
+      "Name": "wand",
+      "Normalized": "Wand"
+    },
+    {
+      "Name": "wand-sparkles",
+      "Normalized": "WandSparkles"
+    },
+    {
+      "Name": "warehouse",
+      "Normalized": "Warehouse"
+    },
+    {
+      "Name": "washing-machine",
+      "Normalized": "WashingMachine"
+    },
+    {
+      "Name": "watch",
+      "Normalized": "Watch"
+    },
+    {
+      "Name": "waves",
+      "Normalized": "Waves"
+    },
+    {
+      "Name": "waves-arrow-down",
+      "Normalized": "WavesArrowDown"
+    },
+    {
+      "Name": "waves-arrow-up",
+      "Normalized": "WavesArrowUp"
+    },
+    {
+      "Name": "waves-ladder",
+      "Normalized": "WavesLadder"
+    },
+    {
+      "Name": "waypoints",
+      "Normalized": "Waypoints"
+    },
+    {
+      "Name": "webcam",
+      "Normalized": "Webcam"
+    },
+    {
+      "Name": "webhook",
+      "Normalized": "Webhook"
+    },
+    {
+      "Name": "webhook-off",
+      "Normalized": "WebhookOff"
+    },
+    {
+      "Name": "weight",
+      "Normalized": "Weight"
+    },
+    {
+      "Name": "weight-tilde",
+      "Normalized": "WeightTilde"
+    },
+    {
+      "Name": "wheat",
+      "Normalized": "Wheat"
+    },
+    {
+      "Name": "wheat-off",
+      "Normalized": "WheatOff"
+    },
+    {
+      "Name": "whole-word",
+      "Normalized": "WholeWord"
+    },
+    {
+      "Name": "wifi",
+      "Normalized": "Wifi"
+    },
+    {
+      "Name": "wifi-cog",
+      "Normalized": "WifiCog"
+    },
+    {
+      "Name": "wifi-high",
+      "Normalized": "WifiHigh"
+    },
+    {
+      "Name": "wifi-low",
+      "Normalized": "WifiLow"
+    },
+    {
+      "Name": "wifi-off",
+      "Normalized": "WifiOff"
+    },
+    {
+      "Name": "wifi-pen",
+      "Normalized": "WifiPen"
+    },
+    {
+      "Name": "wifi-sync",
+      "Normalized": "WifiSync"
+    },
+    {
+      "Name": "wifi-zero",
+      "Normalized": "WifiZero"
+    },
+    {
+      "Name": "wind",
+      "Normalized": "Wind"
+    },
+    {
+      "Name": "wind-arrow-down",
+      "Normalized": "WindArrowDown"
+    },
+    {
+      "Name": "wine",
+      "Normalized": "Wine"
+    },
+    {
+      "Name": "wine-off",
+      "Normalized": "WineOff"
+    },
+    {
+      "Name": "workflow",
+      "Normalized": "Workflow"
+    },
+    {
+      "Name": "worm",
+      "Normalized": "Worm"
+    },
+    {
+      "Name": "wrench",
+      "Normalized": "Wrench"
+    },
+    {
+      "Name": "x",
+      "Normalized": "X"
+    },
+    {
+      "Name": "youtube",
+      "Normalized": "Youtube"
+    },
+    {
+      "Name": "zap",
+      "Normalized": "Zap"
+    },
+    {
+      "Name": "zap-off",
+      "Normalized": "ZapOff"
+    },
+    {
+      "Name": "zoom-in",
+      "Normalized": "ZoomIn"
+    },
+    {
+      "Name": "zoom-out",
+      "Normalized": "ZoomOut"
+    }
+  ]
+}

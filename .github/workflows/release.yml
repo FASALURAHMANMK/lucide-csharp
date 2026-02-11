@@ -1,0 +1,82 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: windows-latest
+    env:
+      DOTNET_NOLOGO: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Restore
+        run: dotnet restore
+
+      - name: Build
+        run: dotnet build -c Release --no-restore
+
+      - name: Test
+        run: dotnet test -c Release --no-build
+
+      - name: Pack
+        run: dotnet pack -c Release --no-build -o artifacts
+
+      - name: Publish to NuGet
+        run: |
+          dotnet nuget push "artifacts/*.nupkg" --api-key "${{ secrets.NUGET_API_KEY }}" --source "https://api.nuget.org/v3/index.json" --skip-duplicate
+          dotnet nuget push "artifacts/*.snupkg" --api-key "${{ secrets.NUGET_API_KEY }}" --source "https://api.nuget.org/v3/index.json" --skip-duplicate
+
+      - name: Extract release notes
+        shell: pwsh
+        run: |
+          $version = "${{ github.ref_name }}".TrimStart('v')
+          $lines = Get-Content -Path "CHANGELOG.md"
+          $collect = $false
+          $notes = New-Object System.Collections.Generic.List[string]
+
+          foreach ($line in $lines) {
+            if ($line -match "^##\s+\[?$version\]?") {
+              $collect = $true
+              continue
+            }
+
+            if ($collect -and $line -match "^##\s+") {
+              break
+            }
+
+            if ($collect) {
+              $notes.Add($line)
+            }
+          }
+
+          $body = ($notes -join "`n").Trim()
+          if ([string]::IsNullOrWhiteSpace($body)) {
+            $body = "Release $version"
+          } else {
+            $body = "## $version`n" + $body
+          }
+
+          Set-Content -Path "release-notes.md" -Value $body
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          body_path: release-notes.md
+          files: |
+            artifacts/*.nupkg
+            artifacts/*.snupkg

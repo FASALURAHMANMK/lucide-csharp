@@ -1,0 +1,104 @@
+@using System.Globalization
+@using System.Net
+@namespace Lucide.NET.Blazor
+
+@((MarkupString)_svg)
+
+@code {
+    [Parameter] public LucideIconKind Kind { get; set; }
+    [Parameter] public int Size { get; set; } = 24;
+    [Parameter] public string Stroke { get; set; } = "currentColor";
+    [Parameter] public float StrokeWidth { get; set; } = 2f;
+    [Parameter] public string? Class { get; set; }
+    [Parameter] public string? Style { get; set; }
+    [Parameter] public string? Title { get; set; }
+
+    private string _svg = string.Empty;
+
+    protected override void OnParametersSet()
+    {
+        var strokeValue = string.IsNullOrWhiteSpace(Stroke) ? "currentColor" : Stroke;
+        var useCurrentColor = string.Equals(strokeValue, "currentColor", StringComparison.OrdinalIgnoreCase);
+
+        var options = new LucideOptions
+        {
+            StrokeWidth = StrokeWidth <= 0 ? 2f : StrokeWidth,
+            UseCurrentColor = useCurrentColor,
+            Stroke = useCurrentColor ? null : strokeValue
+        };
+
+        var svg = Lucide.GetSvg(Kind, options);
+        _svg = ApplyAttributes(svg);
+    }
+
+    private string ApplyAttributes(string svg)
+    {
+        var tagStart = svg.IndexOf("<svg", StringComparison.OrdinalIgnoreCase);
+        if (tagStart < 0)
+        {
+            return svg;
+        }
+
+        var tagEnd = svg.IndexOf('>', tagStart);
+        if (tagEnd < 0)
+        {
+            return svg;
+        }
+
+        var tag = svg.Substring(tagStart, tagEnd - tagStart + 1);
+        var updated = tag;
+
+        if (Size > 0)
+        {
+            var sizeValue = Size.ToString(CultureInfo.InvariantCulture);
+            updated = SetAttribute(updated, "width", sizeValue);
+            updated = SetAttribute(updated, "height", sizeValue);
+        }
+
+        if (!string.IsNullOrWhiteSpace(Class))
+        {
+            updated = SetAttribute(updated, "class", Class!);
+        }
+
+        if (!string.IsNullOrWhiteSpace(Style))
+        {
+            updated = SetAttribute(updated, "style", Style!);
+        }
+
+        var prefix = svg.Substring(0, tagStart);
+        var suffix = svg.Substring(tagEnd + 1);
+        var result = prefix + updated + suffix;
+
+        if (!string.IsNullOrWhiteSpace(Title))
+        {
+            var escaped = WebUtility.HtmlEncode(Title);
+            var insertionIndex = prefix.Length + updated.Length;
+            result = result.Insert(insertionIndex, $"<title>{escaped}</title>");
+        }
+
+        return result;
+    }
+
+    private static string SetAttribute(string tag, string attribute, string value)
+    {
+        var pattern = attribute + "=\"";
+        var index = tag.IndexOf(pattern, StringComparison.OrdinalIgnoreCase);
+        if (index >= 0)
+        {
+            var valueStart = index + pattern.Length;
+            var valueEnd = tag.IndexOf('"', valueStart);
+            if (valueEnd > valueStart)
+            {
+                return tag.Substring(0, valueStart) + value + tag.Substring(valueEnd);
+            }
+        }
+
+        var insertPos = tag.LastIndexOf('>');
+        if (insertPos <= 0)
+        {
+            return tag;
+        }
+
+        return tag.Insert(insertPos, $" {attribute}=\"{value}\"");
+    }
+}

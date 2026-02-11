@@ -1,0 +1,57 @@
+name: Sync Lucide Icons
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: windows-latest
+    env:
+      DOTNET_NOLOGO: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Download upstream icons
+        shell: pwsh
+        run: |
+          .\eng\icons\update-lucide.ps1 -Version main
+
+      - name: Generate code and resources
+        shell: pwsh
+        run: |
+          .\eng\icons\generate.ps1 -InputPath .\eng\icons\lucide
+
+      - name: Cleanup downloaded icons
+        shell: pwsh
+        run: |
+          if (Test-Path .\eng\icons\lucide) {
+            Remove-Item -Recurse -Force .\eng\icons\lucide
+          }
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          title: "Sync Lucide icons"
+          commit-message: "Sync Lucide icons"
+          branch: "automation/lucide-sync"
+          delete-branch: true
+          body: |
+            Automated update of Lucide icons and regenerated sources.
+          add-paths: |
+            src/Lucide.NET.Core/Generated/*.g.cs
+            src/Lucide.NET.Core/Resources/lucide_icons.bin
+            generator-report.json

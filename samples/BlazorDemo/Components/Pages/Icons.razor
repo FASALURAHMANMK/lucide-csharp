@@ -1,0 +1,27 @@
+@page "/icons"
+
+<PageTitle>Lucide Icons</PageTitle>
+
+<div class="icon-page">
+    <div class="icon-hero">
+        <h1>Lucide.NET Blazor</h1>
+        <p>Inline SVG icons with currentColor styling.</p>
+    </div>
+
+    <div class="icon-grid">
+        @foreach (var icon in IconKinds)
+        {
+            <div class="icon-card">
+                <LucideIcon Kind="icon" Size="28" Stroke="currentColor" />
+                <div class="icon-name">@icon</div>
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private static readonly IReadOnlyList<LucideIconKind> IconKinds = Enum.GetValues(typeof(LucideIconKind))
+        .Cast<LucideIconKind>()
+        .OrderBy(kind => kind.ToString(), StringComparer.Ordinal)
+        .ToArray();
+}
