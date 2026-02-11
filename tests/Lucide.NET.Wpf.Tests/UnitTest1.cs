@@ -12,7 +12,7 @@ public class WpfCacheTests
             var stroke = Brushes.Black;
             var first = new LucideIcon
             {
-                Kind = LucideIconKind.Home,
+                Kind = LucideIconKind.House,
                 Stroke = stroke,
                 StrokeThickness = 2d,
                 Size = 24d
@@ -20,7 +20,7 @@ public class WpfCacheTests
 
             var second = new LucideIcon
             {
-                Kind = LucideIconKind.Home,
+                Kind = LucideIconKind.House,
                 Stroke = stroke,
                 StrokeThickness = 2d,
                 Size = 24d

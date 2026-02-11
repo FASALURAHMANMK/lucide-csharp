@@ -42,8 +42,8 @@ public partial class Form1 : Form
             AutoSizeMode = AutoSizeMode.GrowAndShrink
         };
 
-        buttonsPanel.Controls.Add(CreateIconButton("Home", LucideIconKind.Home));
-        buttonsPanel.Controls.Add(CreateIconButton("Alert", LucideIconKind.AlertCircle));
+        buttonsPanel.Controls.Add(CreateIconButton("Home", LucideIconKind.House));
+        buttonsPanel.Controls.Add(CreateIconButton("Alert", LucideIconKind.CircleAlert));
         buttonsPanel.Controls.Add(CreateIconButton("Cart", LucideIconKind.ShoppingCart));
 
         var listView = new ListView
@@ -63,8 +63,8 @@ public partial class Form1 : Form
             ColorDepth = ColorDepth.Depth32Bit
         };
 
-        imageList.Images.Add("home", LucideWinForms.ToBitmap(LucideIconKind.Home, 24, Color.FromArgb(29, 78, 216)));
-        imageList.Images.Add("alert", LucideWinForms.ToBitmap(LucideIconKind.AlertCircle, 24, Color.FromArgb(220, 38, 38)));
+        imageList.Images.Add("home", LucideWinForms.ToBitmap(LucideIconKind.House, 24, Color.FromArgb(29, 78, 216)));
+        imageList.Images.Add("alert", LucideWinForms.ToBitmap(LucideIconKind.CircleAlert, 24, Color.FromArgb(220, 38, 38)));
         imageList.Images.Add("cart", LucideWinForms.ToBitmap(LucideIconKind.ShoppingCart, 24, Color.FromArgb(5, 150, 105)));
 
         listView.SmallImageList = imageList;

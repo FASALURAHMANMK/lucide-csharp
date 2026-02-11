@@ -16,9 +16,20 @@ public class CoreIconTests
     [Fact]
     public void GetSvg_ReturnsSvgMarkup()
     {
-        var svg = Lucide.GetSvg(LucideIconKind.AlertCircle);
+        var svg = Lucide.GetSvg(LucideIconKind.CircleAlert);
 
         Assert.Contains("<svg", svg);
-        Assert.Contains("path", svg);
+        Assert.Contains("xmlns=", svg);
+        Assert.Contains("</svg>", svg);
+
+        var containsAnyShape =
+            svg.Contains("<path", System.StringComparison.Ordinal) ||
+            svg.Contains("<circle", System.StringComparison.Ordinal) ||
+            svg.Contains("<line", System.StringComparison.Ordinal) ||
+            svg.Contains("<polyline", System.StringComparison.Ordinal) ||
+            svg.Contains("<polygon", System.StringComparison.Ordinal) ||
+            svg.Contains("<rect", System.StringComparison.Ordinal);
+
+        Assert.True(containsAnyShape);
     }
 }

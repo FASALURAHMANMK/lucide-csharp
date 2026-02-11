@@ -35,8 +35,8 @@ using System.Drawing;
 using Lucide.NET;
 using Lucide.NET.WinForms;
 
-var bitmap = LucideWinForms.ToBitmap(LucideIconKind.Home, 24, Color.Black);
-var icon = LucideWinForms.ToIcon(LucideIconKind.AlertCircle, 16, Color.DarkRed);
+var bitmap = LucideWinForms.ToBitmap(LucideIconKind.House, 24, Color.Black);
+var icon = LucideWinForms.ToIcon(LucideIconKind.CircleAlert, 16, Color.DarkRed);
 ```
 
 Lucide.NET.WinForms uses the Svg package (v3.4.7) to rasterize SVG markup into cached `Bitmap` instances.
@@ -54,7 +54,7 @@ Lucide.NET.WinForms uses the Svg package (v3.4.7) to rasterize SVG markup into c
 - WPF caches frozen `DrawingImage` instances by kind, size, stroke thickness, and stroke color.
 - WinForms caches rasterized `Bitmap` instances by kind, size, stroke width, color, and DPI. `ToBitmap` returns the cached instance; clone it if you need to dispose:
 ```csharp
-using var bitmap = new Bitmap(LucideWinForms.ToBitmap(LucideIconKind.Home, 24, Color.Black));
+using var bitmap = new Bitmap(LucideWinForms.ToBitmap(LucideIconKind.House, 24, Color.Black));
 ```
 
 **Updating Icons**
