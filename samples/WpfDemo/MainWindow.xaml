@@ -6,13 +6,17 @@
         xmlns:local="clr-namespace:WpfDemo"
         xmlns:lucide="http://lucide.net/wpf"
         mc:Ignorable="d"
-        Title="Lucide.NET WPF Demo" Height="720" Width="980" Background="{StaticResource BackgroundBrush}">
+        Title="Lucide.NET WPF Demo" Height="720" Width="980">
     <Window.Resources>
         <SolidColorBrush x:Key="BackgroundBrush" Color="#FFF8FAFC" />
         <SolidColorBrush x:Key="CardBrush" Color="#FFFFFFFF" />
         <SolidColorBrush x:Key="AccentBrush" Color="#FF1D4ED8" />
         <SolidColorBrush x:Key="MutedBrush" Color="#FF64748B" />
     </Window.Resources>
+
+    <Window.Background>
+        <StaticResource ResourceKey="BackgroundBrush" />
+    </Window.Background>
 
     <Grid Margin="16">
         <Grid.RowDefinitions>
