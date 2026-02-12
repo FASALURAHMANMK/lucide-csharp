@@ -10,8 +10,8 @@
     <ContinuousIntegrationBuild Condition="'$(CI)' != ''">true</ContinuousIntegrationBuild>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <RepositoryUrl>https://github.com/your-org/lucide-csharp</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/your-org/lucide-csharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/FASALURAHMANMK/lucide-csharp</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/FASALURAHMANMK/lucide-csharp</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
     <Authors>Lucide.NET Contributors</Authors>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>

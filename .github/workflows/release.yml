@@ -36,10 +36,53 @@ jobs:
       - name: Pack
         run: dotnet pack -c Release --no-build -o artifacts
 
-      - name: Publish to NuGet
+      - name: Decode signing certificate
+        if: ${{ secrets.SIGNING_CERT_PFX_B64 != '' }}
+        shell: pwsh
         run: |
-          dotnet nuget push "artifacts/*.nupkg" --api-key "${{ secrets.NUGET_API_KEY }}" --source "https://api.nuget.org/v3/index.json" --skip-duplicate
-          dotnet nuget push "artifacts/*.snupkg" --api-key "${{ secrets.NUGET_API_KEY }}" --source "https://api.nuget.org/v3/index.json" --skip-duplicate
+          $pfxPath = Join-Path $env:RUNNER_TEMP "lucide-signing.pfx"
+          $bytes = [Convert]::FromBase64String("${{ secrets.SIGNING_CERT_PFX_B64 }}")
+          [IO.File]::WriteAllBytes($pfxPath, $bytes)
+          "SIGNING_CERT_PFX_PATH=$pfxPath" | Out-File -FilePath $env:GITHUB_ENV -Append
+
+      - name: Sign packages
+        if: ${{ secrets.SIGNING_CERT_PFX_B64 != '' }}
+        shell: pwsh
+        run: |
+          if (-not $env:SIGNING_CERT_PFX_PATH) { throw "Missing SIGNING_CERT_PFX_PATH" }
+          if (-not "${{ secrets.SIGNING_CERT_PASSWORD }}") { throw "Missing SIGNING_CERT_PASSWORD secret" }
+
+          $timestampUrl = "${{ secrets.SIGNING_TIMESTAMP_URL }}"
+          if ([string]::IsNullOrWhiteSpace($timestampUrl)) {
+            $timestampUrl = "http://timestamp.digicert.com"
+          }
+
+          Get-ChildItem -Path "artifacts" -Filter "*.nupkg" | ForEach-Object {
+            dotnet nuget sign $_.FullName --certificate-path "$env:SIGNING_CERT_PFX_PATH" --certificate-password "${{ secrets.SIGNING_CERT_PASSWORD }}" --timestamper $timestampUrl
+          }
+
+          Get-ChildItem -Path "artifacts" -Filter "*.snupkg" | ForEach-Object {
+            dotnet nuget sign $_.FullName --certificate-path "$env:SIGNING_CERT_PFX_PATH" --certificate-password "${{ secrets.SIGNING_CERT_PASSWORD }}" --timestamper $timestampUrl
+          }
+
+      - name: Verify signatures
+        if: ${{ secrets.SIGNING_CERT_PFX_B64 != '' }}
+        shell: pwsh
+        run: |
+          Get-ChildItem -Path "artifacts" -Filter "*.nupkg" | ForEach-Object {
+            dotnet nuget verify $_.FullName --all
+          }
+
+      - name: Publish to NuGet
+        shell: pwsh
+        run: |
+          Get-ChildItem -Path "artifacts" -Filter "*.nupkg" | ForEach-Object {
+            dotnet nuget push $_.FullName --api-key "${{ secrets.NUGET_API_KEY }}" --source "https://api.nuget.org/v3/index.json" --skip-duplicate
+          }
+
+          Get-ChildItem -Path "artifacts" -Filter "*.snupkg" | ForEach-Object {
+            dotnet nuget push $_.FullName --api-key "${{ secrets.NUGET_API_KEY }}" --source "https://api.nuget.org/v3/index.json" --skip-duplicate
+          }
 
       - name: Extract release notes
         shell: pwsh
