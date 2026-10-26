@@ -1,8 +1,8 @@
 ﻿{
-  "Input": "D:\\lucide-csharp\\eng\\icons\\_upstream\\icons",
-  "Output": "D:\\lucide-csharp",
+  "Input": "D:\\a\\lucide-csharp\\lucide-csharp\\eng\\icons\\lucide",
+  "Output": "D:\\a\\lucide-csharp\\lucide-csharp",
   "Compression": "gzip",
-  "IconCount": 1669,
+  "IconCount": 1903,
   "Icons": [
     {
       "Name": "a-arrow-down",
@@ -23,6 +23,10 @@
     {
       "Name": "activity",
       "Normalized": "Activity"
+    },
+    {
+      "Name": "ad",
+      "Normalized": "Ad"
     },
     {
       "Name": "air-vent",
@@ -55,10 +59,6 @@
     {
       "Name": "alarm-smoke",
       "Normalized": "AlarmSmoke"
-    },
-    {
-      "Name": "album",
-      "Normalized": "Album"
     },
     {
       "Name": "align-center-horizontal",
@@ -169,12 +169,8 @@
       "Normalized": "Anchor"
     },
     {
-      "Name": "angry",
-      "Normalized": "Angry"
-    },
-    {
-      "Name": "annoyed",
-      "Normalized": "Annoyed"
+      "Name": "angle",
+      "Normalized": "Angle"
     },
     {
       "Name": "antenna",
@@ -215,6 +211,10 @@
     {
       "Name": "armchair",
       "Normalized": "Armchair"
+    },
+    {
+      "Name": "armenian-dram",
+      "Normalized": "ArmenianDram"
     },
     {
       "Name": "arrow-big-down",
@@ -393,6 +393,10 @@
       "Normalized": "Asterisk"
     },
     {
+      "Name": "astroid",
+      "Normalized": "Astroid"
+    },
+    {
       "Name": "at-sign",
       "Normalized": "AtSign"
     },
@@ -405,8 +409,20 @@
       "Normalized": "AudioLines"
     },
     {
+      "Name": "audio-lines-off",
+      "Normalized": "AudioLinesOff"
+    },
+    {
+      "Name": "audio-lines-x",
+      "Normalized": "AudioLinesX"
+    },
+    {
       "Name": "audio-waveform",
       "Normalized": "AudioWaveform"
+    },
+    {
+      "Name": "avocado",
+      "Normalized": "Avocado"
     },
     {
       "Name": "award",
@@ -427,6 +443,10 @@
     {
       "Name": "backpack",
       "Normalized": "Backpack"
+    },
+    {
+      "Name": "bacon",
+      "Normalized": "Bacon"
     },
     {
       "Name": "badge",
@@ -521,6 +541,10 @@
       "Normalized": "Bandage"
     },
     {
+      "Name": "bangladeshi-taka",
+      "Normalized": "BangladeshiTaka"
+    },
+    {
       "Name": "banknote",
       "Normalized": "Banknote"
     },
@@ -531,6 +555,10 @@
     {
       "Name": "banknote-arrow-up",
       "Normalized": "BanknoteArrowUp"
+    },
+    {
+      "Name": "banknote-check",
+      "Normalized": "BanknoteCheck"
     },
     {
       "Name": "banknote-x",
@@ -609,6 +637,10 @@
       "Normalized": "Beef"
     },
     {
+      "Name": "beef-off",
+      "Normalized": "BeefOff"
+    },
+    {
       "Name": "beer",
       "Normalized": "Beer"
     },
@@ -617,8 +649,16 @@
       "Normalized": "BeerOff"
     },
     {
+      "Name": "belarusian-ruble",
+      "Normalized": "BelarusianRuble"
+    },
+    {
       "Name": "bell",
       "Normalized": "Bell"
+    },
+    {
+      "Name": "bell-check",
+      "Normalized": "BellCheck"
     },
     {
       "Name": "bell-dot",
@@ -697,6 +737,10 @@
       "Normalized": "Blend"
     },
     {
+      "Name": "blender",
+      "Normalized": "Blender"
+    },
+    {
       "Name": "blinds",
       "Normalized": "Blinds"
     },
@@ -737,6 +781,10 @@
       "Normalized": "Bone"
     },
     {
+      "Name": "bone-fracture",
+      "Normalized": "BoneFracture"
+    },
+    {
       "Name": "book",
       "Normalized": "Book"
     },
@@ -751,6 +799,10 @@
     {
       "Name": "book-audio",
       "Normalized": "BookAudio"
+    },
+    {
+      "Name": "book-bookmark",
+      "Normalized": "BookBookmark"
     },
     {
       "Name": "book-check",
@@ -787,10 +839,6 @@
     {
       "Name": "book-lock",
       "Normalized": "BookLock"
-    },
-    {
-      "Name": "book-marked",
-      "Normalized": "BookMarked"
     },
     {
       "Name": "book-minus",
@@ -853,6 +901,10 @@
       "Normalized": "BookmarkMinus"
     },
     {
+      "Name": "bookmark-off",
+      "Normalized": "BookmarkOff"
+    },
+    {
       "Name": "bookmark-plus",
       "Normalized": "BookmarkPlus"
     },
@@ -913,6 +965,10 @@
       "Normalized": "BrainCog"
     },
     {
+      "Name": "brain-off",
+      "Normalized": "BrainOff"
+    },
+    {
       "Name": "brick-wall",
       "Normalized": "BrickWall"
     },
@@ -923,6 +979,10 @@
     {
       "Name": "brick-wall-shield",
       "Normalized": "BrickWallShield"
+    },
+    {
+      "Name": "bridge",
+      "Normalized": "Bridge"
     },
     {
       "Name": "briefcase",
@@ -941,8 +1001,24 @@
       "Normalized": "BriefcaseMedical"
     },
     {
+      "Name": "briefcase-plus",
+      "Normalized": "BriefcasePlus"
+    },
+    {
       "Name": "bring-to-front",
       "Normalized": "BringToFront"
+    },
+    {
+      "Name": "broccoli",
+      "Normalized": "Broccoli"
+    },
+    {
+      "Name": "broom",
+      "Normalized": "Broom"
+    },
+    {
+      "Name": "broom-sparkles",
+      "Normalized": "BroomSparkles"
     },
     {
       "Name": "brush",
@@ -973,8 +1049,12 @@
       "Normalized": "Building"
     },
     {
-      "Name": "building-2",
-      "Normalized": "Building2"
+      "Name": "building-complex",
+      "Normalized": "BuildingComplex"
+    },
+    {
+      "Name": "building-complex-plus",
+      "Normalized": "BuildingComplexPlus"
     },
     {
       "Name": "bus",
@@ -1027,6 +1107,14 @@
     {
       "Name": "calendar-check-2",
       "Normalized": "CalendarCheck2"
+    },
+    {
+      "Name": "calendar-chevrons-left",
+      "Normalized": "CalendarChevronsLeft"
+    },
+    {
+      "Name": "calendar-chevrons-right",
+      "Normalized": "CalendarChevronsRight"
     },
     {
       "Name": "calendar-clock",
@@ -1101,6 +1189,14 @@
       "Normalized": "CameraOff"
     },
     {
+      "Name": "can",
+      "Normalized": "Can"
+    },
+    {
+      "Name": "can-soda",
+      "Normalized": "CanSoda"
+    },
+    {
       "Name": "candy",
       "Normalized": "Candy"
     },
@@ -1133,6 +1229,10 @@
       "Normalized": "Car"
     },
     {
+      "Name": "car-battery",
+      "Normalized": "CarBattery"
+    },
+    {
       "Name": "car-front",
       "Normalized": "CarFront"
     },
@@ -1151,6 +1251,14 @@
     {
       "Name": "carrot",
       "Normalized": "Carrot"
+    },
+    {
+      "Name": "carton",
+      "Normalized": "Carton"
+    },
+    {
+      "Name": "carton-off",
+      "Normalized": "CartonOff"
     },
     {
       "Name": "case-lower",
@@ -1183,6 +1291,14 @@
     {
       "Name": "cctv",
       "Normalized": "Cctv"
+    },
+    {
+      "Name": "cctv-off",
+      "Normalized": "CctvOff"
+    },
+    {
+      "Name": "certificate",
+      "Normalized": "Certificate"
     },
     {
       "Name": "chart-area",
@@ -1381,10 +1497,6 @@
       "Normalized": "ChevronsUpDown"
     },
     {
-      "Name": "chromium",
-      "Normalized": "Chromium"
-    },
-    {
       "Name": "church",
       "Normalized": "Church"
     },
@@ -1461,8 +1573,28 @@
       "Normalized": "CircleChevronUp"
     },
     {
+      "Name": "circle-chevrons-down",
+      "Normalized": "CircleChevronsDown"
+    },
+    {
+      "Name": "circle-chevrons-left",
+      "Normalized": "CircleChevronsLeft"
+    },
+    {
+      "Name": "circle-chevrons-right",
+      "Normalized": "CircleChevronsRight"
+    },
+    {
+      "Name": "circle-chevrons-up",
+      "Normalized": "CircleChevronsUp"
+    },
+    {
       "Name": "circle-dashed",
       "Normalized": "CircleDashed"
+    },
+    {
+      "Name": "circle-dashed-check",
+      "Normalized": "CircleDashedCheck"
     },
     {
       "Name": "circle-divide",
@@ -1489,8 +1621,16 @@
       "Normalized": "CircleEqual"
     },
     {
+      "Name": "circle-euro",
+      "Normalized": "CircleEuro"
+    },
+    {
       "Name": "circle-fading-arrow-up",
       "Normalized": "CircleFadingArrowUp"
+    },
+    {
+      "Name": "circle-fading-play",
+      "Normalized": "CircleFadingPlay"
     },
     {
       "Name": "circle-fading-plus",
@@ -1591,6 +1731,18 @@
     {
       "Name": "clapperboard",
       "Normalized": "Clapperboard"
+    },
+    {
+      "Name": "clef-alto",
+      "Normalized": "ClefAlto"
+    },
+    {
+      "Name": "clef-bass",
+      "Normalized": "ClefBass"
+    },
+    {
+      "Name": "clef-treble",
+      "Normalized": "ClefTreble"
     },
     {
       "Name": "clipboard",
@@ -1699,6 +1851,14 @@
     {
       "Name": "clock-arrow-down",
       "Normalized": "ClockArrowDown"
+    },
+    {
+      "Name": "clock-arrow-left",
+      "Normalized": "ClockArrowLeft"
+    },
+    {
+      "Name": "clock-arrow-right",
+      "Normalized": "ClockArrowRight"
     },
     {
       "Name": "clock-arrow-up",
@@ -1819,14 +1979,6 @@
     {
       "Name": "code-xml",
       "Normalized": "CodeXml"
-    },
-    {
-      "Name": "codepen",
-      "Normalized": "Codepen"
-    },
-    {
-      "Name": "codesandbox",
-      "Normalized": "Codesandbox"
     },
     {
       "Name": "coffee",
@@ -1981,12 +2133,36 @@
       "Normalized": "Cpu"
     },
     {
+      "Name": "cpu-ai",
+      "Normalized": "CpuAi"
+    },
+    {
       "Name": "creative-commons",
       "Normalized": "CreativeCommons"
     },
     {
       "Name": "credit-card",
       "Normalized": "CreditCard"
+    },
+    {
+      "Name": "credit-card-check",
+      "Normalized": "CreditCardCheck"
+    },
+    {
+      "Name": "credit-card-minus",
+      "Normalized": "CreditCardMinus"
+    },
+    {
+      "Name": "credit-card-plus",
+      "Normalized": "CreditCardPlus"
+    },
+    {
+      "Name": "credit-card-reader",
+      "Normalized": "CreditCardReader"
+    },
+    {
+      "Name": "credit-card-x",
+      "Normalized": "CreditCardX"
     },
     {
       "Name": "croissant",
@@ -2017,6 +2193,10 @@
       "Normalized": "CupSoda"
     },
     {
+      "Name": "cupcake",
+      "Normalized": "Cupcake"
+    },
+    {
       "Name": "currency",
       "Normalized": "Currency"
     },
@@ -2033,12 +2213,36 @@
       "Normalized": "Database"
     },
     {
+      "Name": "database-arrow-down",
+      "Normalized": "DatabaseArrowDown"
+    },
+    {
+      "Name": "database-arrow-up",
+      "Normalized": "DatabaseArrowUp"
+    },
+    {
       "Name": "database-backup",
       "Normalized": "DatabaseBackup"
     },
     {
+      "Name": "database-check",
+      "Normalized": "DatabaseCheck"
+    },
+    {
+      "Name": "database-minus",
+      "Normalized": "DatabaseMinus"
+    },
+    {
+      "Name": "database-plus",
+      "Normalized": "DatabasePlus"
+    },
+    {
       "Name": "database-search",
       "Normalized": "DatabaseSearch"
+    },
+    {
+      "Name": "database-x",
+      "Normalized": "DatabaseX"
     },
     {
       "Name": "database-zap",
@@ -2153,6 +2357,10 @@
       "Normalized": "DollarSign"
     },
     {
+      "Name": "dome",
+      "Normalized": "Dome"
+    },
+    {
       "Name": "donut",
       "Normalized": "Donut"
     },
@@ -2161,12 +2369,24 @@
       "Normalized": "DoorClosed"
     },
     {
+      "Name": "door-closed-cog",
+      "Normalized": "DoorClosedCog"
+    },
+    {
       "Name": "door-closed-locked",
       "Normalized": "DoorClosedLocked"
     },
     {
+      "Name": "door-closed-package",
+      "Normalized": "DoorClosedPackage"
+    },
+    {
       "Name": "door-open",
       "Normalized": "DoorOpen"
+    },
+    {
+      "Name": "door-stairwell",
+      "Normalized": "DoorStairwell"
     },
     {
       "Name": "dot",
@@ -2183,10 +2403,6 @@
     {
       "Name": "drama",
       "Normalized": "Drama"
-    },
-    {
-      "Name": "dribbble",
-      "Normalized": "Dribbble"
     },
     {
       "Name": "drill",
@@ -2253,6 +2469,22 @@
       "Normalized": "EggOff"
     },
     {
+      "Name": "eighth-note",
+      "Normalized": "EighthNote"
+    },
+    {
+      "Name": "eighth-notes",
+      "Normalized": "EighthNotes"
+    },
+    {
+      "Name": "eject",
+      "Normalized": "Eject"
+    },
+    {
+      "Name": "ellipse",
+      "Normalized": "Ellipse"
+    },
+    {
       "Name": "ellipsis",
       "Normalized": "Ellipsis"
     },
@@ -2261,12 +2493,20 @@
       "Normalized": "EllipsisVertical"
     },
     {
+      "Name": "engine",
+      "Normalized": "Engine"
+    },
+    {
       "Name": "equal",
       "Normalized": "Equal"
     },
     {
       "Name": "equal-approximately",
       "Normalized": "EqualApproximately"
+    },
+    {
+      "Name": "equal-approximately-not",
+      "Normalized": "EqualApproximatelyNot"
     },
     {
       "Name": "equal-not",
@@ -2305,12 +2545,40 @@
       "Normalized": "EyeClosed"
     },
     {
+      "Name": "eye-dashed",
+      "Normalized": "EyeDashed"
+    },
+    {
       "Name": "eye-off",
       "Normalized": "EyeOff"
     },
     {
-      "Name": "facebook",
-      "Normalized": "Facebook"
+      "Name": "face-angry",
+      "Normalized": "FaceAngry"
+    },
+    {
+      "Name": "face-expressionless",
+      "Normalized": "FaceExpressionless"
+    },
+    {
+      "Name": "face-grinning",
+      "Normalized": "FaceGrinning"
+    },
+    {
+      "Name": "face-neutral",
+      "Normalized": "FaceNeutral"
+    },
+    {
+      "Name": "face-slightly-frowning",
+      "Normalized": "FaceSlightlyFrowning"
+    },
+    {
+      "Name": "face-slightly-smiling",
+      "Normalized": "FaceSlightlySmiling"
+    },
+    {
+      "Name": "face-slightly-smiling-plus",
+      "Normalized": "FaceSlightlySmilingPlus"
     },
     {
       "Name": "factory",
@@ -2325,6 +2593,10 @@
       "Normalized": "FastForward"
     },
     {
+      "Name": "faucet",
+      "Normalized": "Faucet"
+    },
+    {
       "Name": "feather",
       "Normalized": "Feather"
     },
@@ -2335,10 +2607,6 @@
     {
       "Name": "ferris-wheel",
       "Normalized": "FerrisWheel"
-    },
-    {
-      "Name": "figma",
-      "Normalized": "Figma"
     },
     {
       "Name": "file",
@@ -2593,6 +2861,10 @@
       "Normalized": "FishingHook"
     },
     {
+      "Name": "fishing-rod",
+      "Normalized": "FishingRod"
+    },
+    {
       "Name": "flag",
       "Normalized": "Flag"
     },
@@ -2637,22 +2909,6 @@
       "Normalized": "FlaskRound"
     },
     {
-      "Name": "flip-horizontal",
-      "Normalized": "FlipHorizontal"
-    },
-    {
-      "Name": "flip-horizontal-2",
-      "Normalized": "FlipHorizontal2"
-    },
-    {
-      "Name": "flip-vertical",
-      "Normalized": "FlipVertical"
-    },
-    {
-      "Name": "flip-vertical-2",
-      "Normalized": "FlipVertical2"
-    },
-    {
       "Name": "flower",
       "Normalized": "Flower"
     },
@@ -2679,6 +2935,10 @@
     {
       "Name": "folder-archive",
       "Normalized": "FolderArchive"
+    },
+    {
+      "Name": "folder-bookmark",
+      "Normalized": "FolderBookmark"
     },
     {
       "Name": "folder-check",
@@ -2789,6 +3049,14 @@
       "Normalized": "FolderUp"
     },
     {
+      "Name": "folder-user",
+      "Normalized": "FolderUser"
+    },
+    {
+      "Name": "folder-users",
+      "Normalized": "FolderUsers"
+    },
+    {
       "Name": "folder-x",
       "Normalized": "FolderX"
     },
@@ -2817,14 +3085,6 @@
       "Normalized": "Frame"
     },
     {
-      "Name": "framer",
-      "Normalized": "Framer"
-    },
-    {
-      "Name": "frown",
-      "Normalized": "Frown"
-    },
-    {
       "Name": "fuel",
       "Normalized": "Fuel"
     },
@@ -2843,6 +3103,10 @@
     {
       "Name": "funnel-x",
       "Normalized": "FunnelX"
+    },
+    {
+      "Name": "galaxy",
+      "Normalized": "Galaxy"
     },
     {
       "Name": "gallery-horizontal",
@@ -2877,6 +3141,14 @@
       "Normalized": "GamepadDirectional"
     },
     {
+      "Name": "gap-horizontal",
+      "Normalized": "GapHorizontal"
+    },
+    {
+      "Name": "gap-vertical",
+      "Normalized": "GapVertical"
+    },
+    {
       "Name": "gauge",
       "Normalized": "Gauge"
     },
@@ -2891,6 +3163,14 @@
     {
       "Name": "georgian-lari",
       "Normalized": "GeorgianLari"
+    },
+    {
+      "Name": "germ",
+      "Normalized": "Germ"
+    },
+    {
+      "Name": "germ-off",
+      "Normalized": "GermOff"
     },
     {
       "Name": "ghost",
@@ -2941,6 +3221,10 @@
       "Normalized": "GitMerge"
     },
     {
+      "Name": "git-merge-conflict",
+      "Normalized": "GitMergeConflict"
+    },
+    {
       "Name": "git-pull-request",
       "Normalized": "GitPullRequest"
     },
@@ -2965,14 +3249,6 @@
       "Normalized": "GitPullRequestDraft"
     },
     {
-      "Name": "github",
-      "Normalized": "Github"
-    },
-    {
-      "Name": "gitlab",
-      "Normalized": "Gitlab"
-    },
-    {
       "Name": "glass-water",
       "Normalized": "GlassWater"
     },
@@ -2985,8 +3261,20 @@
       "Normalized": "Globe"
     },
     {
+      "Name": "globe-check",
+      "Normalized": "GlobeCheck"
+    },
+    {
+      "Name": "globe-code",
+      "Normalized": "GlobeCode"
+    },
+    {
       "Name": "globe-lock",
       "Normalized": "GlobeLock"
+    },
+    {
+      "Name": "globe-off",
+      "Normalized": "GlobeOff"
     },
     {
       "Name": "globe-x",
@@ -3007,6 +3295,14 @@
     {
       "Name": "grape",
       "Normalized": "Grape"
+    },
+    {
+      "Name": "graph-hub",
+      "Normalized": "GraphHub"
+    },
+    {
+      "Name": "graph-star",
+      "Normalized": "GraphStar"
     },
     {
       "Name": "grid-2x2",
@@ -3045,12 +3341,24 @@
       "Normalized": "GripVertical"
     },
     {
+      "Name": "groceries",
+      "Normalized": "Groceries"
+    },
+    {
       "Name": "group",
       "Normalized": "Group"
     },
     {
       "Name": "guitar",
       "Normalized": "Guitar"
+    },
+    {
+      "Name": "guitar-electric",
+      "Normalized": "GuitarElectric"
+    },
+    {
+      "Name": "half-note",
+      "Normalized": "HalfNote"
     },
     {
       "Name": "ham",
@@ -3099,6 +3407,10 @@
     {
       "Name": "handbag",
       "Normalized": "Handbag"
+    },
+    {
+      "Name": "handle-bottom-right",
+      "Normalized": "HandleBottomRight"
     },
     {
       "Name": "handshake",
@@ -3209,6 +3521,10 @@
       "Normalized": "HeartPulse"
     },
     {
+      "Name": "heart-x",
+      "Normalized": "HeartX"
+    },
+    {
       "Name": "heater",
       "Normalized": "Heater"
     },
@@ -3225,8 +3541,8 @@
       "Normalized": "Highlighter"
     },
     {
-      "Name": "history",
-      "Normalized": "History"
+      "Name": "hiking-stick",
+      "Normalized": "HikingStick"
     },
     {
       "Name": "hop",
@@ -3249,8 +3565,16 @@
       "Normalized": "Hourglass"
     },
     {
+      "Name": "hourglass-cog",
+      "Normalized": "HourglassCog"
+    },
+    {
       "Name": "house",
       "Normalized": "House"
+    },
+    {
+      "Name": "house-cog",
+      "Normalized": "HouseCog"
     },
     {
       "Name": "house-heart",
@@ -3267,6 +3591,10 @@
     {
       "Name": "house-wifi",
       "Normalized": "HouseWifi"
+    },
+    {
+      "Name": "houses",
+      "Normalized": "Houses"
     },
     {
       "Name": "ice-cream-bowl",
@@ -3345,10 +3673,6 @@
       "Normalized": "InspectionPanel"
     },
     {
-      "Name": "instagram",
-      "Normalized": "Instagram"
-    },
-    {
       "Name": "italic",
       "Normalized": "Italic"
     },
@@ -3359,6 +3683,10 @@
     {
       "Name": "iteration-cw",
       "Normalized": "IterationCw"
+    },
+    {
+      "Name": "iv-bag",
+      "Normalized": "IvBag"
     },
     {
       "Name": "japanese-yen",
@@ -3375,6 +3703,10 @@
     {
       "Name": "kayak",
       "Normalized": "Kayak"
+    },
+    {
+      "Name": "kazakh-tenge",
+      "Normalized": "KazakhTenge"
     },
     {
       "Name": "key",
@@ -3399,6 +3731,10 @@
     {
       "Name": "keyboard-off",
       "Normalized": "KeyboardOff"
+    },
+    {
+      "Name": "lambda",
+      "Normalized": "Lambda"
     },
     {
       "Name": "lamp",
@@ -3457,8 +3793,12 @@
       "Normalized": "LassoSelect"
     },
     {
-      "Name": "laugh",
-      "Normalized": "Laugh"
+      "Name": "layer-arrow-down",
+      "Normalized": "LayerArrowDown"
+    },
+    {
+      "Name": "layer-arrow-up",
+      "Normalized": "LayerArrowUp"
     },
     {
       "Name": "layers",
@@ -3469,16 +3809,44 @@
       "Normalized": "Layers2"
     },
     {
+      "Name": "layers-arrow-down",
+      "Normalized": "LayersArrowDown"
+    },
+    {
+      "Name": "layers-arrow-up",
+      "Normalized": "LayersArrowUp"
+    },
+    {
+      "Name": "layers-minus",
+      "Normalized": "LayersMinus"
+    },
+    {
       "Name": "layers-plus",
       "Normalized": "LayersPlus"
+    },
+    {
+      "Name": "layout-arrow-down",
+      "Normalized": "LayoutArrowDown"
+    },
+    {
+      "Name": "layout-arrow-right",
+      "Normalized": "LayoutArrowRight"
     },
     {
       "Name": "layout-dashboard",
       "Normalized": "LayoutDashboard"
     },
     {
+      "Name": "layout-freeform",
+      "Normalized": "LayoutFreeform"
+    },
+    {
       "Name": "layout-grid",
       "Normalized": "LayoutGrid"
+    },
+    {
+      "Name": "layout-grid-circles",
+      "Normalized": "LayoutGridCircles"
     },
     {
       "Name": "layout-list",
@@ -3509,6 +3877,26 @@
       "Normalized": "Lectern"
     },
     {
+      "Name": "lens",
+      "Normalized": "Lens"
+    },
+    {
+      "Name": "lens-concave",
+      "Normalized": "LensConcave"
+    },
+    {
+      "Name": "lens-convex",
+      "Normalized": "LensConvex"
+    },
+    {
+      "Name": "letter-spacing",
+      "Normalized": "LetterSpacing"
+    },
+    {
+      "Name": "letters",
+      "Normalized": "Letters"
+    },
+    {
       "Name": "library",
       "Normalized": "Library"
     },
@@ -3533,8 +3921,36 @@
       "Normalized": "LightbulbOff"
     },
     {
+      "Name": "lighthouse",
+      "Normalized": "Lighthouse"
+    },
+    {
+      "Name": "line-dot-bottom-vertical",
+      "Normalized": "LineDotBottomVertical"
+    },
+    {
+      "Name": "line-dot-left-horizontal",
+      "Normalized": "LineDotLeftHorizontal"
+    },
+    {
+      "Name": "line-dot-right-horizontal",
+      "Normalized": "LineDotRightHorizontal"
+    },
+    {
+      "Name": "line-dot-top-vertical",
+      "Normalized": "LineDotTopVertical"
+    },
+    {
+      "Name": "line-height",
+      "Normalized": "LineHeight"
+    },
+    {
       "Name": "line-squiggle",
       "Normalized": "LineSquiggle"
+    },
+    {
+      "Name": "line-style",
+      "Normalized": "LineStyle"
     },
     {
       "Name": "link",
@@ -3547,10 +3963,6 @@
     {
       "Name": "link-2-off",
       "Normalized": "Link2Off"
-    },
-    {
-      "Name": "linkedin",
-      "Normalized": "Linkedin"
     },
     {
       "Name": "list",
@@ -3571,6 +3983,10 @@
     {
       "Name": "list-chevrons-up-down",
       "Normalized": "ListChevronsUpDown"
+    },
+    {
+      "Name": "list-clock",
+      "Normalized": "ListClock"
     },
     {
       "Name": "list-collapse",
@@ -3615,6 +4031,14 @@
     {
       "Name": "list-restart",
       "Normalized": "ListRestart"
+    },
+    {
+      "Name": "list-sort-ascending",
+      "Normalized": "ListSortAscending"
+    },
+    {
+      "Name": "list-sort-descending",
+      "Normalized": "ListSortDescending"
     },
     {
       "Name": "list-start",
@@ -3705,8 +4129,20 @@
       "Normalized": "Mail"
     },
     {
+      "Name": "mail-badge",
+      "Normalized": "MailBadge"
+    },
+    {
       "Name": "mail-check",
       "Normalized": "MailCheck"
+    },
+    {
+      "Name": "mail-clock",
+      "Normalized": "MailClock"
+    },
+    {
+      "Name": "mail-dot",
+      "Normalized": "MailDot"
     },
     {
       "Name": "mail-minus",
@@ -3715,6 +4151,10 @@
     {
       "Name": "mail-open",
       "Normalized": "MailOpen"
+    },
+    {
+      "Name": "mail-pen",
+      "Normalized": "MailPen"
     },
     {
       "Name": "mail-plus",
@@ -3793,6 +4233,10 @@
       "Normalized": "MapPinPlusInside"
     },
     {
+      "Name": "map-pin-search",
+      "Normalized": "MapPinSearch"
+    },
+    {
       "Name": "map-pin-x",
       "Normalized": "MapPinX"
     },
@@ -3841,10 +4285,6 @@
       "Normalized": "MegaphoneOff"
     },
     {
-      "Name": "meh",
-      "Normalized": "Meh"
-    },
-    {
       "Name": "memory-stick",
       "Normalized": "MemoryStick"
     },
@@ -3861,12 +4301,20 @@
       "Normalized": "MessageCircle"
     },
     {
+      "Name": "message-circle-check",
+      "Normalized": "MessageCircleCheck"
+    },
+    {
       "Name": "message-circle-code",
       "Normalized": "MessageCircleCode"
     },
     {
       "Name": "message-circle-dashed",
       "Normalized": "MessageCircleDashed"
+    },
+    {
+      "Name": "message-circle-dashed-check",
+      "Normalized": "MessageCircleDashedCheck"
     },
     {
       "Name": "message-circle-heart",
@@ -3893,6 +4341,10 @@
       "Normalized": "MessageCircleReply"
     },
     {
+      "Name": "message-circle-text",
+      "Normalized": "MessageCircleText"
+    },
+    {
       "Name": "message-circle-warning",
       "Normalized": "MessageCircleWarning"
     },
@@ -3903,6 +4355,10 @@
     {
       "Name": "message-square",
       "Normalized": "MessageSquare"
+    },
+    {
+      "Name": "message-square-check",
+      "Normalized": "MessageSquareCheck"
     },
     {
       "Name": "message-square-code",
@@ -3965,16 +4421,32 @@
       "Normalized": "MessageSquareX"
     },
     {
+      "Name": "messages-circle",
+      "Normalized": "MessagesCircle"
+    },
+    {
       "Name": "messages-square",
       "Normalized": "MessagesSquare"
+    },
+    {
+      "Name": "metronome",
+      "Normalized": "Metronome"
     },
     {
       "Name": "mic",
       "Normalized": "Mic"
     },
     {
+      "Name": "mic-audio-lines",
+      "Normalized": "MicAudioLines"
+    },
+    {
       "Name": "mic-off",
       "Normalized": "MicOff"
+    },
+    {
+      "Name": "mic-signal",
+      "Normalized": "MicSignal"
     },
     {
       "Name": "mic-vocal",
@@ -3991,6 +4463,10 @@
     {
       "Name": "microwave",
       "Normalized": "Microwave"
+    },
+    {
+      "Name": "midi-port",
+      "Normalized": "MidiPort"
     },
     {
       "Name": "milestone",
@@ -4015,6 +4491,14 @@
     {
       "Name": "minus",
       "Normalized": "Minus"
+    },
+    {
+      "Name": "mirror-rectangular",
+      "Normalized": "MirrorRectangular"
+    },
+    {
+      "Name": "mirror-round",
+      "Normalized": "MirrorRound"
     },
     {
       "Name": "monitor",
@@ -4049,6 +4533,10 @@
       "Normalized": "MonitorPause"
     },
     {
+      "Name": "monitor-pc",
+      "Normalized": "MonitorPc"
+    },
+    {
       "Name": "monitor-play",
       "Normalized": "MonitorPlay"
     },
@@ -4081,6 +4569,18 @@
       "Normalized": "MoonStar"
     },
     {
+      "Name": "mop",
+      "Normalized": "Mop"
+    },
+    {
+      "Name": "mop-sparkles",
+      "Normalized": "MopSparkles"
+    },
+    {
+      "Name": "mosque",
+      "Normalized": "Mosque"
+    },
+    {
       "Name": "motorbike",
       "Normalized": "Motorbike"
     },
@@ -4095,6 +4595,10 @@
     {
       "Name": "mouse",
       "Normalized": "Mouse"
+    },
+    {
+      "Name": "mouse-left",
+      "Normalized": "MouseLeft"
     },
     {
       "Name": "mouse-off",
@@ -4119,6 +4623,18 @@
     {
       "Name": "mouse-pointer-click",
       "Normalized": "MousePointerClick"
+    },
+    {
+      "Name": "mouse-right",
+      "Normalized": "MouseRight"
+    },
+    {
+      "Name": "mouth",
+      "Normalized": "Mouth"
+    },
+    {
+      "Name": "mouth-off",
+      "Normalized": "MouthOff"
     },
     {
       "Name": "move",
@@ -4177,22 +4693,6 @@
       "Normalized": "MoveVertical"
     },
     {
-      "Name": "music",
-      "Normalized": "Music"
-    },
-    {
-      "Name": "music-2",
-      "Normalized": "Music2"
-    },
-    {
-      "Name": "music-3",
-      "Normalized": "Music3"
-    },
-    {
-      "Name": "music-4",
-      "Normalized": "Music4"
-    },
-    {
       "Name": "navigation",
       "Normalized": "Navigation"
     },
@@ -4207,6 +4707,10 @@
     {
       "Name": "navigation-off",
       "Normalized": "NavigationOff"
+    },
+    {
+      "Name": "nepali-rupee",
+      "Normalized": "NepaliRupee"
     },
     {
       "Name": "network",
@@ -4227,6 +4731,10 @@
     {
       "Name": "notebook",
       "Normalized": "Notebook"
+    },
+    {
+      "Name": "notebook-dot",
+      "Normalized": "NotebookDot"
     },
     {
       "Name": "notebook-pen",
@@ -4433,12 +4941,24 @@
       "Normalized": "PanelsTopLeft"
     },
     {
+      "Name": "paper-bag",
+      "Normalized": "PaperBag"
+    },
+    {
       "Name": "paperclip",
       "Normalized": "Paperclip"
     },
     {
+      "Name": "parasol",
+      "Normalized": "Parasol"
+    },
+    {
       "Name": "parentheses",
       "Normalized": "Parentheses"
+    },
+    {
+      "Name": "park",
+      "Normalized": "Park"
     },
     {
       "Name": "parking-meter",
@@ -4493,6 +5013,10 @@
       "Normalized": "PencilRuler"
     },
     {
+      "Name": "pencil-sparkles",
+      "Normalized": "PencilSparkles"
+    },
+    {
       "Name": "pentagon",
       "Normalized": "Pentagon"
     },
@@ -4501,8 +5025,16 @@
       "Normalized": "Percent"
     },
     {
+      "Name": "perfume-bottle",
+      "Normalized": "PerfumeBottle"
+    },
+    {
       "Name": "person-standing",
       "Normalized": "PersonStanding"
+    },
+    {
+      "Name": "phi",
+      "Normalized": "Phi"
     },
     {
       "Name": "philippine-peso",
@@ -4523,6 +5055,10 @@
     {
       "Name": "phone-incoming",
       "Normalized": "PhoneIncoming"
+    },
+    {
+      "Name": "phone-log",
+      "Normalized": "PhoneLog"
     },
     {
       "Name": "phone-missed",
@@ -4609,8 +5145,28 @@
       "Normalized": "PlaneTakeoff"
     },
     {
+      "Name": "plant-pot",
+      "Normalized": "PlantPot"
+    },
+    {
       "Name": "play",
       "Normalized": "Play"
+    },
+    {
+      "Name": "play-off",
+      "Normalized": "PlayOff"
+    },
+    {
+      "Name": "playing-card",
+      "Normalized": "PlayingCard"
+    },
+    {
+      "Name": "playing-cards",
+      "Normalized": "PlayingCards"
+    },
+    {
+      "Name": "playing-cards-fan",
+      "Normalized": "PlayingCardsFan"
     },
     {
       "Name": "plug",
@@ -4629,16 +5185,12 @@
       "Normalized": "Plus"
     },
     {
-      "Name": "pocket",
-      "Normalized": "Pocket"
-    },
-    {
       "Name": "pocket-knife",
       "Normalized": "PocketKnife"
     },
     {
-      "Name": "podcast",
-      "Normalized": "Podcast"
+      "Name": "podium",
+      "Normalized": "Podium"
     },
     {
       "Name": "pointer",
@@ -4675,6 +5227,10 @@
     {
       "Name": "printer",
       "Normalized": "Printer"
+    },
+    {
+      "Name": "printer-3d",
+      "Normalized": "Printer3d"
     },
     {
       "Name": "printer-check",
@@ -4729,6 +5285,10 @@
       "Normalized": "Radio"
     },
     {
+      "Name": "radio-off",
+      "Normalized": "RadioOff"
+    },
+    {
       "Name": "radio-receiver",
       "Normalized": "RadioReceiver"
     },
@@ -4739,10 +5299,6 @@
     {
       "Name": "radius",
       "Normalized": "Radius"
-    },
-    {
-      "Name": "rail-symbol",
-      "Normalized": "RailSymbol"
     },
     {
       "Name": "rainbow",
@@ -4873,6 +5429,10 @@
       "Normalized": "Repeat2"
     },
     {
+      "Name": "repeat-off",
+      "Normalized": "RepeatOff"
+    },
+    {
       "Name": "replace",
       "Normalized": "Replace"
     },
@@ -4895,6 +5455,18 @@
     {
       "Name": "ribbon",
       "Normalized": "Ribbon"
+    },
+    {
+      "Name": "road",
+      "Normalized": "Road"
+    },
+    {
+      "Name": "robot-arm",
+      "Normalized": "RobotArm"
+    },
+    {
+      "Name": "robot-vacuum",
+      "Normalized": "RobotVacuum"
     },
     {
       "Name": "rocket",
@@ -4921,6 +5493,10 @@
       "Normalized": "RotateCcw"
     },
     {
+      "Name": "rotate-ccw-clock",
+      "Normalized": "RotateCcwClock"
+    },
+    {
       "Name": "rotate-ccw-key",
       "Normalized": "RotateCcwKey"
     },
@@ -4931,6 +5507,14 @@
     {
       "Name": "rotate-cw",
       "Normalized": "RotateCw"
+    },
+    {
+      "Name": "rotate-cw-clock",
+      "Normalized": "RotateCwClock"
+    },
+    {
+      "Name": "rotate-cw-fading-clock",
+      "Normalized": "RotateCwFadingClock"
     },
     {
       "Name": "rotate-cw-square",
@@ -4963,6 +5547,10 @@
     {
       "Name": "rss",
       "Normalized": "Rss"
+    },
+    {
+      "Name": "rugby-ball",
+      "Normalized": "RugbyBall"
     },
     {
       "Name": "ruler",
@@ -5009,8 +5597,20 @@
       "Normalized": "SaveAll"
     },
     {
+      "Name": "save-check",
+      "Normalized": "SaveCheck"
+    },
+    {
       "Name": "save-off",
       "Normalized": "SaveOff"
+    },
+    {
+      "Name": "save-pen",
+      "Normalized": "SavePen"
+    },
+    {
+      "Name": "save-plus",
+      "Normalized": "SavePlus"
     },
     {
       "Name": "scale",
@@ -5031,6 +5631,10 @@
     {
       "Name": "scan-barcode",
       "Normalized": "ScanBarcode"
+    },
+    {
+      "Name": "scan-box",
+      "Normalized": "ScanBox"
     },
     {
       "Name": "scan-eye",
@@ -5057,6 +5661,10 @@
       "Normalized": "ScanSearch"
     },
     {
+      "Name": "scan-square",
+      "Normalized": "ScanSquare"
+    },
+    {
       "Name": "scan-text",
       "Normalized": "ScanText"
     },
@@ -5077,12 +5685,20 @@
       "Normalized": "Scooter"
     },
     {
+      "Name": "scratch-blocks",
+      "Normalized": "ScratchBlocks"
+    },
+    {
       "Name": "screen-share",
       "Normalized": "ScreenShare"
     },
     {
       "Name": "screen-share-off",
       "Normalized": "ScreenShareOff"
+    },
+    {
+      "Name": "screw",
+      "Normalized": "Screw"
     },
     {
       "Name": "scroll",
@@ -5153,8 +5769,16 @@
       "Normalized": "ServerCrash"
     },
     {
+      "Name": "server-nas",
+      "Normalized": "ServerNas"
+    },
+    {
       "Name": "server-off",
       "Normalized": "ServerOff"
+    },
+    {
+      "Name": "server-plus",
+      "Normalized": "ServerPlus"
     },
     {
       "Name": "settings",
@@ -5185,6 +5809,10 @@
       "Normalized": "Shell"
     },
     {
+      "Name": "shelving-unit",
+      "Normalized": "ShelvingUnit"
+    },
+    {
       "Name": "shield",
       "Normalized": "Shield"
     },
@@ -5201,12 +5829,32 @@
       "Normalized": "ShieldCheck"
     },
     {
+      "Name": "shield-cog",
+      "Normalized": "ShieldCog"
+    },
+    {
+      "Name": "shield-cog-corner",
+      "Normalized": "ShieldCogCorner"
+    },
+    {
       "Name": "shield-ellipsis",
       "Normalized": "ShieldEllipsis"
     },
     {
       "Name": "shield-half",
       "Normalized": "ShieldHalf"
+    },
+    {
+      "Name": "shield-house",
+      "Normalized": "ShieldHouse"
+    },
+    {
+      "Name": "shield-keyhole",
+      "Normalized": "ShieldKeyhole"
+    },
+    {
+      "Name": "shield-lock",
+      "Normalized": "ShieldLock"
     },
     {
       "Name": "shield-minus",
@@ -5237,6 +5885,10 @@
       "Normalized": "Ship"
     },
     {
+      "Name": "ship-cargo",
+      "Normalized": "ShipCargo"
+    },
+    {
       "Name": "ship-wheel",
       "Normalized": "ShipWheel"
     },
@@ -5257,6 +5909,14 @@
       "Normalized": "ShoppingCart"
     },
     {
+      "Name": "shopping-cart-minus",
+      "Normalized": "ShoppingCartMinus"
+    },
+    {
+      "Name": "shopping-cart-plus",
+      "Normalized": "ShoppingCartPlus"
+    },
+    {
       "Name": "shovel",
       "Normalized": "Shovel"
     },
@@ -5271,6 +5931,10 @@
     {
       "Name": "shrimp",
       "Normalized": "Shrimp"
+    },
+    {
+      "Name": "shrimp-off",
+      "Normalized": "ShrimpOff"
     },
     {
       "Name": "shrink",
@@ -5325,6 +5989,10 @@
       "Normalized": "Siren"
     },
     {
+      "Name": "sixteenth-notes",
+      "Normalized": "SixteenthNotes"
+    },
+    {
       "Name": "skip-back",
       "Normalized": "SkipBack"
     },
@@ -5335,10 +6003,6 @@
     {
       "Name": "skull",
       "Normalized": "Skull"
-    },
-    {
-      "Name": "slack",
-      "Normalized": "Slack"
     },
     {
       "Name": "slash",
@@ -5369,12 +6033,8 @@
       "Normalized": "SmartphoneNfc"
     },
     {
-      "Name": "smile",
-      "Normalized": "Smile"
-    },
-    {
-      "Name": "smile-plus",
-      "Normalized": "SmilePlus"
+      "Name": "smartphone-user-round",
+      "Normalized": "SmartphoneUserRound"
     },
     {
       "Name": "snail",
@@ -5449,6 +6109,10 @@
       "Normalized": "Spool"
     },
     {
+      "Name": "sport-shoe",
+      "Normalized": "SportShoe"
+    },
+    {
       "Name": "spotlight",
       "Normalized": "Spotlight"
     },
@@ -5505,6 +6169,14 @@
       "Normalized": "SquareArrowRight"
     },
     {
+      "Name": "square-arrow-right-enter",
+      "Normalized": "SquareArrowRightEnter"
+    },
+    {
+      "Name": "square-arrow-right-exit",
+      "Normalized": "SquareArrowRightExit"
+    },
+    {
       "Name": "square-arrow-up",
       "Normalized": "SquareArrowUp"
     },
@@ -5521,8 +6193,20 @@
       "Normalized": "SquareAsterisk"
     },
     {
+      "Name": "square-bookmark",
+      "Normalized": "SquareBookmark"
+    },
+    {
       "Name": "square-bottom-dashed-scissors",
       "Normalized": "SquareBottomDashedScissors"
+    },
+    {
+      "Name": "square-centerline-dashed-horizontal",
+      "Normalized": "SquareCenterlineDashedHorizontal"
+    },
+    {
+      "Name": "square-centerline-dashed-vertical",
+      "Normalized": "SquareCenterlineDashedVertical"
     },
     {
       "Name": "square-chart-gantt",
@@ -5577,8 +6261,28 @@
       "Normalized": "SquareDashedMousePointer"
     },
     {
+      "Name": "square-dashed-plus",
+      "Normalized": "SquareDashedPlus"
+    },
+    {
+      "Name": "square-dashed-text",
+      "Normalized": "SquareDashedText"
+    },
+    {
       "Name": "square-dashed-top-solid",
       "Normalized": "SquareDashedTopSolid"
+    },
+    {
+      "Name": "square-dashed-x",
+      "Normalized": "SquareDashedX"
+    },
+    {
+      "Name": "square-dashed-x-corner",
+      "Normalized": "SquareDashedXCorner"
+    },
+    {
+      "Name": "square-dimensions",
+      "Normalized": "SquareDimensions"
     },
     {
       "Name": "square-divide",
@@ -5591,6 +6295,10 @@
     {
       "Name": "square-equal",
       "Normalized": "SquareEqual"
+    },
+    {
+      "Name": "square-exclamation-point",
+      "Normalized": "SquareExclamationPoint"
     },
     {
       "Name": "square-function",
@@ -5619,6 +6327,10 @@
     {
       "Name": "square-mouse-pointer",
       "Normalized": "SquareMousePointer"
+    },
+    {
+      "Name": "square-off",
+      "Normalized": "SquareOff"
     },
     {
       "Name": "square-parking",
@@ -5681,6 +6393,10 @@
       "Normalized": "SquareSlash"
     },
     {
+      "Name": "square-sparkles",
+      "Normalized": "SquareSparkles"
+    },
+    {
       "Name": "square-split-horizontal",
       "Normalized": "SquareSplitHorizontal"
     },
@@ -5707,6 +6423,10 @@
     {
       "Name": "square-terminal",
       "Normalized": "SquareTerminal"
+    },
+    {
+      "Name": "square-text",
+      "Normalized": "SquareText"
     },
     {
       "Name": "square-user",
@@ -5757,12 +6477,28 @@
       "Normalized": "Star"
     },
     {
+      "Name": "star-check",
+      "Normalized": "StarCheck"
+    },
+    {
       "Name": "star-half",
       "Normalized": "StarHalf"
     },
     {
+      "Name": "star-minus",
+      "Normalized": "StarMinus"
+    },
+    {
       "Name": "star-off",
       "Normalized": "StarOff"
+    },
+    {
+      "Name": "star-plus",
+      "Normalized": "StarPlus"
+    },
+    {
+      "Name": "star-x",
+      "Normalized": "StarX"
     },
     {
       "Name": "step-back",
@@ -5783,6 +6519,30 @@
     {
       "Name": "sticky-note",
       "Normalized": "StickyNote"
+    },
+    {
+      "Name": "sticky-note-check",
+      "Normalized": "StickyNoteCheck"
+    },
+    {
+      "Name": "sticky-note-minus",
+      "Normalized": "StickyNoteMinus"
+    },
+    {
+      "Name": "sticky-note-off",
+      "Normalized": "StickyNoteOff"
+    },
+    {
+      "Name": "sticky-note-plus",
+      "Normalized": "StickyNotePlus"
+    },
+    {
+      "Name": "sticky-note-x",
+      "Normalized": "StickyNoteX"
+    },
+    {
+      "Name": "sticky-notes",
+      "Normalized": "StickyNotes"
     },
     {
       "Name": "stone",
@@ -5807,6 +6567,10 @@
     {
       "Name": "subscript",
       "Normalized": "Subscript"
+    },
+    {
+      "Name": "summary",
+      "Normalized": "Summary"
     },
     {
       "Name": "sun",
@@ -5913,6 +6677,14 @@
       "Normalized": "Tag"
     },
     {
+      "Name": "tag-plus",
+      "Normalized": "TagPlus"
+    },
+    {
+      "Name": "tag-x",
+      "Normalized": "TagX"
+    },
+    {
       "Name": "tags",
       "Normalized": "Tags"
     },
@@ -5985,6 +6757,18 @@
       "Normalized": "TextAlignJustify"
     },
     {
+      "Name": "text-align-justify-center",
+      "Normalized": "TextAlignJustifyCenter"
+    },
+    {
+      "Name": "text-align-justify-end",
+      "Normalized": "TextAlignJustifyEnd"
+    },
+    {
+      "Name": "text-align-justify-start",
+      "Normalized": "TextAlignJustifyStart"
+    },
+    {
       "Name": "text-align-start",
       "Normalized": "TextAlignStart"
     },
@@ -6007,10 +6791,6 @@
     {
       "Name": "text-search",
       "Normalized": "TextSearch"
-    },
-    {
-      "Name": "text-select",
-      "Normalized": "TextSelect"
     },
     {
       "Name": "text-wrap",
@@ -6039,6 +6819,10 @@
     {
       "Name": "thumbs-up",
       "Normalized": "ThumbsUp"
+    },
+    {
+      "Name": "tic-tac-toe",
+      "Normalized": "TicTacToe"
     },
     {
       "Name": "ticket",
@@ -6077,6 +6861,10 @@
       "Normalized": "TicketsPlane"
     },
     {
+      "Name": "timeline",
+      "Normalized": "Timeline"
+    },
+    {
       "Name": "timer",
       "Normalized": "Timer"
     },
@@ -6101,12 +6889,24 @@
       "Normalized": "Toilet"
     },
     {
+      "Name": "tombstone",
+      "Normalized": "Tombstone"
+    },
+    {
       "Name": "tool-case",
       "Normalized": "ToolCase"
     },
     {
       "Name": "toolbox",
       "Normalized": "Toolbox"
+    },
+    {
+      "Name": "toothbrush",
+      "Normalized": "Toothbrush"
+    },
+    {
+      "Name": "toothbrush-sparkles",
+      "Normalized": "ToothbrushSparkles"
     },
     {
       "Name": "tornado",
@@ -6125,6 +6925,10 @@
       "Normalized": "TouchpadOff"
     },
     {
+      "Name": "towel-rack",
+      "Normalized": "TowelRack"
+    },
+    {
       "Name": "tower-control",
       "Normalized": "TowerControl"
     },
@@ -6139,6 +6943,10 @@
     {
       "Name": "traffic-cone",
       "Normalized": "TrafficCone"
+    },
+    {
+      "Name": "trailer",
+      "Normalized": "Trailer"
     },
     {
       "Name": "train-front",
@@ -6165,8 +6973,8 @@
       "Normalized": "Trash"
     },
     {
-      "Name": "trash-2",
-      "Normalized": "Trash2"
+      "Name": "trash-off",
+      "Normalized": "TrashOff"
     },
     {
       "Name": "tree-deciduous",
@@ -6183,10 +6991,6 @@
     {
       "Name": "trees",
       "Normalized": "Trees"
-    },
-    {
-      "Name": "trello",
-      "Normalized": "Trello"
     },
     {
       "Name": "trending-down",
@@ -6217,6 +7021,14 @@
       "Normalized": "TriangleRight"
     },
     {
+      "Name": "triangles-centerline-dashed-horizontal",
+      "Normalized": "TrianglesCenterlineDashedHorizontal"
+    },
+    {
+      "Name": "triangles-centerline-dashed-vertical",
+      "Normalized": "TrianglesCenterlineDashedVertical"
+    },
+    {
       "Name": "trophy",
       "Normalized": "Trophy"
     },
@@ -6227,6 +7039,10 @@
     {
       "Name": "truck-electric",
       "Normalized": "TruckElectric"
+    },
+    {
+      "Name": "tube-lotion",
+      "Normalized": "TubeLotion"
     },
     {
       "Name": "turkish-lira",
@@ -6251,14 +7067,6 @@
     {
       "Name": "tv-minimal-play",
       "Normalized": "TvMinimalPlay"
-    },
-    {
-      "Name": "twitch",
-      "Normalized": "Twitch"
-    },
-    {
-      "Name": "twitter",
-      "Normalized": "Twitter"
     },
     {
       "Name": "type",
@@ -6329,6 +7137,10 @@
       "Normalized": "Usb"
     },
     {
+      "Name": "usb-c-port",
+      "Normalized": "UsbCPort"
+    },
+    {
       "Name": "user",
       "Normalized": "User"
     },
@@ -6339,6 +7151,14 @@
     {
       "Name": "user-cog",
       "Normalized": "UserCog"
+    },
+    {
+      "Name": "user-group",
+      "Normalized": "UserGroup"
+    },
+    {
+      "Name": "user-key",
+      "Normalized": "UserKey"
     },
     {
       "Name": "user-lock",
@@ -6361,12 +7181,24 @@
       "Normalized": "UserRound"
     },
     {
+      "Name": "user-round-arrow-left",
+      "Normalized": "UserRoundArrowLeft"
+    },
+    {
       "Name": "user-round-check",
       "Normalized": "UserRoundCheck"
     },
     {
       "Name": "user-round-cog",
       "Normalized": "UserRoundCog"
+    },
+    {
+      "Name": "user-round-group",
+      "Normalized": "UserRoundGroup"
+    },
+    {
+      "Name": "user-round-key",
+      "Normalized": "UserRoundKey"
     },
     {
       "Name": "user-round-minus",
@@ -6385,12 +7217,20 @@
       "Normalized": "UserRoundSearch"
     },
     {
+      "Name": "user-round-star",
+      "Normalized": "UserRoundStar"
+    },
+    {
       "Name": "user-round-x",
       "Normalized": "UserRoundX"
     },
     {
       "Name": "user-search",
       "Normalized": "UserSearch"
+    },
+    {
+      "Name": "user-shield",
+      "Normalized": "UserShield"
     },
     {
       "Name": "user-star",
@@ -6405,8 +7245,16 @@
       "Normalized": "Users"
     },
     {
+      "Name": "users-collaboration",
+      "Normalized": "UsersCollaboration"
+    },
+    {
       "Name": "users-round",
       "Normalized": "UsersRound"
+    },
+    {
+      "Name": "users-round-collaboration",
+      "Normalized": "UsersRoundCollaboration"
     },
     {
       "Name": "utensils",
@@ -6431,6 +7279,10 @@
     {
       "Name": "vault",
       "Normalized": "Vault"
+    },
+    {
+      "Name": "vector-polygon",
+      "Normalized": "VectorPolygon"
     },
     {
       "Name": "vector-square",
@@ -6475,6 +7327,14 @@
     {
       "Name": "view",
       "Normalized": "View"
+    },
+    {
+      "Name": "virus",
+      "Normalized": "Virus"
+    },
+    {
+      "Name": "virus-off",
+      "Normalized": "VirusOff"
     },
     {
       "Name": "voicemail",
@@ -6545,10 +7405,6 @@
       "Normalized": "Watch"
     },
     {
-      "Name": "waves",
-      "Normalized": "Waves"
-    },
-    {
       "Name": "waves-arrow-down",
       "Normalized": "WavesArrowDown"
     },
@@ -6557,8 +7413,16 @@
       "Normalized": "WavesArrowUp"
     },
     {
+      "Name": "waves-horizontal",
+      "Normalized": "WavesHorizontal"
+    },
+    {
       "Name": "waves-ladder",
       "Normalized": "WavesLadder"
+    },
+    {
+      "Name": "waves-vertical",
+      "Normalized": "WavesVertical"
     },
     {
       "Name": "waypoints",
@@ -6567,6 +7431,10 @@
     {
       "Name": "webcam",
       "Normalized": "Webcam"
+    },
+    {
+      "Name": "webcam-off",
+      "Normalized": "WebcamOff"
     },
     {
       "Name": "webhook",
@@ -6593,6 +7461,10 @@
       "Normalized": "WheatOff"
     },
     {
+      "Name": "whistle",
+      "Normalized": "Whistle"
+    },
+    {
       "Name": "whole-word",
       "Normalized": "WholeWord"
     },
@@ -6607,6 +7479,10 @@
     {
       "Name": "wifi-high",
       "Normalized": "WifiHigh"
+    },
+    {
+      "Name": "wifi-lock",
+      "Normalized": "WifiLock"
     },
     {
       "Name": "wifi-low",
@@ -6637,6 +7513,10 @@
       "Normalized": "WindArrowDown"
     },
     {
+      "Name": "wind-arrow-up",
+      "Normalized": "WindArrowUp"
+    },
+    {
       "Name": "wine",
       "Normalized": "Wine"
     },
@@ -6657,12 +7537,16 @@
       "Normalized": "Wrench"
     },
     {
+      "Name": "wrench-off",
+      "Normalized": "WrenchOff"
+    },
+    {
       "Name": "x",
       "Normalized": "X"
     },
     {
-      "Name": "youtube",
-      "Normalized": "Youtube"
+      "Name": "x-line-top",
+      "Normalized": "XLineTop"
     },
     {
       "Name": "zap",
@@ -6671,6 +7555,58 @@
     {
       "Name": "zap-off",
       "Normalized": "ZapOff"
+    },
+    {
+      "Name": "zodiac-aquarius",
+      "Normalized": "ZodiacAquarius"
+    },
+    {
+      "Name": "zodiac-aries",
+      "Normalized": "ZodiacAries"
+    },
+    {
+      "Name": "zodiac-cancer",
+      "Normalized": "ZodiacCancer"
+    },
+    {
+      "Name": "zodiac-capricorn",
+      "Normalized": "ZodiacCapricorn"
+    },
+    {
+      "Name": "zodiac-gemini",
+      "Normalized": "ZodiacGemini"
+    },
+    {
+      "Name": "zodiac-leo",
+      "Normalized": "ZodiacLeo"
+    },
+    {
+      "Name": "zodiac-libra",
+      "Normalized": "ZodiacLibra"
+    },
+    {
+      "Name": "zodiac-ophiuchus",
+      "Normalized": "ZodiacOphiuchus"
+    },
+    {
+      "Name": "zodiac-pisces",
+      "Normalized": "ZodiacPisces"
+    },
+    {
+      "Name": "zodiac-sagittarius",
+      "Normalized": "ZodiacSagittarius"
+    },
+    {
+      "Name": "zodiac-scorpio",
+      "Normalized": "ZodiacScorpio"
+    },
+    {
+      "Name": "zodiac-taurus",
+      "Normalized": "ZodiacTaurus"
+    },
+    {
+      "Name": "zodiac-virgo",
+      "Normalized": "ZodiacVirgo"
     },
     {
       "Name": "zoom-in",
